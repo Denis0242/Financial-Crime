@@ -1,0 +1,1201 @@
+customer_id,customer_name,customer_segment,country,kyc_risk,pep_flag,expected_monthly_volume
+CUST10000,Customer 0001,Commercial,United States,Low,0,21083.82
+CUST10001,Customer 0002,Small Business,China,Low,0,10062.82
+CUST10002,Customer 0003,Small Business,United States,Low,0,18508.69
+CUST10003,Customer 0004,Consumer,United States,Low,0,7106.23
+CUST10004,Customer 0005,Consumer,United States,Low,0,43081.8
+CUST10005,Customer 0006,Small Business,United Kingdom,Low,0,6575.49
+CUST10006,Customer 0007,Consumer,United States,Low,0,1979.95
+CUST10007,Customer 0008,Consumer,Russia,Low,1,6198.27
+CUST10008,Customer 0009,Consumer,Canada,Low,0,8834.0
+CUST10009,Customer 0010,Consumer,United States,Low,0,15389.73
+CUST10010,Customer 0011,Consumer,India,Low,0,6009.58
+CUST10011,Customer 0012,Small Business,United States,High,0,6796.02
+CUST10012,Customer 0013,Small Business,United Arab Emirates,Low,0,5715.64
+CUST10013,Customer 0014,Consumer,United States,Low,0,11029.7
+CUST10014,Customer 0015,Consumer,Mexico,Medium,1,3843.71
+CUST10015,Customer 0016,Consumer,India,Medium,0,603.85
+CUST10016,Customer 0017,Small Business,United States,Medium,0,23460.94
+CUST10017,Customer 0018,Consumer,United States,Medium,0,14780.97
+CUST10018,Customer 0019,Consumer,United States,Low,0,36149.89
+CUST10019,Customer 0020,Small Business,United States,Medium,0,27030.33
+CUST10020,Customer 0021,Consumer,China,Low,0,3415.87
+CUST10021,Customer 0022,Consumer,United Arab Emirates,Medium,0,35970.02
+CUST10022,Customer 0023,Consumer,United States,Low,0,20575.42
+CUST10023,Customer 0024,Consumer,Nigeria,Low,0,9431.03
+CUST10024,Customer 0025,Consumer,Canada,Medium,0,8559.3
+CUST10025,Customer 0026,Small Business,Turkey,Low,0,31609.44
+CUST10026,Customer 0027,Consumer,United Arab Emirates,Medium,0,3442.13
+CUST10027,Customer 0028,Consumer,United States,Low,0,4035.9
+CUST10028,Customer 0029,Consumer,United States,High,0,12944.37
+CUST10029,Customer 0030,Consumer,United States,Low,0,22871.67
+CUST10030,Customer 0031,Consumer,United States,High,0,15840.99
+CUST10031,Customer 0032,Consumer,United States,High,0,9170.94
+CUST10032,Customer 0033,Consumer,United States,Low,0,36863.85
+CUST10033,Customer 0034,Small Business,United States,Medium,0,25549.73
+CUST10034,Customer 0035,Consumer,China,Low,0,3080.71
+CUST10035,Customer 0036,Consumer,United States,Low,0,8811.81
+CUST10036,Customer 0037,Small Business,United States,Low,0,9023.02
+CUST10037,Customer 0038,Consumer,United States,Low,0,12169.99
+CUST10038,Customer 0039,Consumer,United States,Medium,0,12468.72
+CUST10039,Customer 0040,Consumer,Mexico,Low,0,20285.5
+CUST10040,Customer 0041,Consumer,United States,Low,0,7939.26
+CUST10041,Customer 0042,Commercial,United States,High,0,1024.35
+CUST10042,Customer 0043,Small Business,United Arab Emirates,Medium,1,2058.58
+CUST10043,Customer 0044,Consumer,United States,Low,0,18748.09
+CUST10044,Customer 0045,Commercial,Russia,High,0,2066.62
+CUST10045,Customer 0046,Small Business,United States,Medium,0,17064.02
+CUST10046,Customer 0047,Consumer,Russia,Low,0,1082.59
+CUST10047,Customer 0048,Consumer,Turkey,High,0,12736.16
+CUST10048,Customer 0049,Consumer,United States,Low,0,4119.46
+CUST10049,Customer 0050,Consumer,Russia,Medium,0,7125.51
+CUST10050,Customer 0051,Commercial,Nigeria,Low,0,2332.48
+CUST10051,Customer 0052,Consumer,India,Medium,0,10546.7
+CUST10052,Customer 0053,Consumer,United States,Low,0,1268.78
+CUST10053,Customer 0054,Commercial,Nigeria,Medium,0,17195.53
+CUST10054,Customer 0055,Commercial,Mexico,Low,0,11412.78
+CUST10055,Customer 0056,Consumer,United States,Low,0,19824.52
+CUST10056,Customer 0057,Small Business,United States,Low,0,6022.0
+CUST10057,Customer 0058,Consumer,United States,Medium,0,8466.24
+CUST10058,Customer 0059,Consumer,India,Medium,0,10631.28
+CUST10059,Customer 0060,Consumer,Canada,Medium,0,8234.18
+CUST10060,Customer 0061,Consumer,Canada,Low,0,11043.23
+CUST10061,Customer 0062,Consumer,Russia,Low,0,18057.15
+CUST10062,Customer 0063,Consumer,Turkey,Low,0,975.57
+CUST10063,Customer 0064,Consumer,Russia,High,0,11173.55
+CUST10064,Customer 0065,Small Business,United States,High,0,4384.04
+CUST10065,Customer 0066,Small Business,Turkey,Medium,0,845.6
+CUST10066,Customer 0067,Commercial,Mexico,Low,0,13561.47
+CUST10067,Customer 0068,Consumer,United States,High,0,8274.37
+CUST10068,Customer 0069,Consumer,United States,High,0,4837.48
+CUST10069,Customer 0070,Small Business,Turkey,Low,0,7208.06
+CUST10070,Customer 0071,Small Business,Canada,Medium,0,1119.63
+CUST10071,Customer 0072,Consumer,United States,Low,0,46146.45
+CUST10072,Customer 0073,Consumer,China,High,0,20604.72
+CUST10073,Customer 0074,Consumer,Mexico,Medium,0,4459.59
+CUST10074,Customer 0075,Small Business,United States,High,0,3823.01
+CUST10075,Customer 0076,Consumer,United States,Medium,0,31914.23
+CUST10076,Customer 0077,Consumer,United States,Medium,0,2432.57
+CUST10077,Customer 0078,Consumer,United Kingdom,Medium,0,2228.07
+CUST10078,Customer 0079,Consumer,United States,Low,0,34062.88
+CUST10079,Customer 0080,Commercial,United States,Low,0,15396.21
+CUST10080,Customer 0081,Consumer,Nigeria,Low,0,13880.06
+CUST10081,Customer 0082,Commercial,United Arab Emirates,Medium,0,2707.47
+CUST10082,Customer 0083,Small Business,United States,Medium,0,12130.29
+CUST10083,Customer 0084,Consumer,United States,Low,0,20302.94
+CUST10084,Customer 0085,Consumer,United Kingdom,High,0,43617.79
+CUST10085,Customer 0086,Consumer,United Kingdom,Low,0,10371.01
+CUST10086,Customer 0087,Small Business,Russia,Low,0,25192.2
+CUST10087,Customer 0088,Consumer,Mexico,High,0,7198.87
+CUST10088,Customer 0089,Consumer,United Kingdom,Low,0,36640.77
+CUST10089,Customer 0090,Consumer,United States,Low,0,31996.66
+CUST10090,Customer 0091,Consumer,United States,Low,0,4945.75
+CUST10091,Customer 0092,Commercial,United Kingdom,Medium,0,16127.68
+CUST10092,Customer 0093,Commercial,United States,Low,0,9330.71
+CUST10093,Customer 0094,Consumer,United States,High,1,129388.88
+CUST10094,Customer 0095,Consumer,United States,Low,0,47449.59
+CUST10095,Customer 0096,Consumer,Nigeria,Medium,0,63495.66
+CUST10096,Customer 0097,Small Business,Nigeria,Medium,1,13211.86
+CUST10097,Customer 0098,Small Business,United Kingdom,Medium,0,8362.7
+CUST10098,Customer 0099,Commercial,United Arab Emirates,Low,0,25087.31
+CUST10099,Customer 0100,Commercial,United States,Low,0,27179.29
+CUST10100,Customer 0101,Consumer,United States,Low,1,2989.79
+CUST10101,Customer 0102,Commercial,Russia,Low,0,11859.83
+CUST10102,Customer 0103,Consumer,United States,Low,0,7485.87
+CUST10103,Customer 0104,Small Business,United States,Low,0,21357.47
+CUST10104,Customer 0105,Consumer,United States,Low,0,6494.83
+CUST10105,Customer 0106,Consumer,United States,Medium,0,11308.76
+CUST10106,Customer 0107,Consumer,United States,High,0,10114.35
+CUST10107,Customer 0108,Consumer,Turkey,Low,0,23260.96
+CUST10108,Customer 0109,Consumer,Turkey,Medium,0,188119.31
+CUST10109,Customer 0110,Small Business,United States,Low,0,12870.4
+CUST10110,Customer 0111,Small Business,United Kingdom,Medium,0,52675.85
+CUST10111,Customer 0112,Consumer,Canada,Medium,0,9080.39
+CUST10112,Customer 0113,Small Business,Canada,Low,0,9736.85
+CUST10113,Customer 0114,Consumer,Turkey,High,0,11644.5
+CUST10114,Customer 0115,Consumer,United States,Low,0,23639.98
+CUST10115,Customer 0116,Consumer,Russia,Low,0,12423.05
+CUST10116,Customer 0117,Consumer,Russia,Medium,0,17547.74
+CUST10117,Customer 0118,Small Business,United States,Medium,0,10940.03
+CUST10118,Customer 0119,Consumer,United Kingdom,Low,0,7827.19
+CUST10119,Customer 0120,Small Business,United Kingdom,Medium,0,2729.29
+CUST10120,Customer 0121,Commercial,United States,Medium,0,2484.88
+CUST10121,Customer 0122,Consumer,United States,Low,0,7535.92
+CUST10122,Customer 0123,Consumer,Mexico,Low,0,39996.58
+CUST10123,Customer 0124,Consumer,India,Medium,0,9713.33
+CUST10124,Customer 0125,Commercial,Turkey,Medium,0,6729.26
+CUST10125,Customer 0126,Consumer,United States,Low,0,12736.92
+CUST10126,Customer 0127,Consumer,India,Medium,0,49527.86
+CUST10127,Customer 0128,Consumer,United Kingdom,Medium,0,5115.61
+CUST10128,Customer 0129,Consumer,China,Low,0,26467.54
+CUST10129,Customer 0130,Consumer,United States,Low,0,6598.15
+CUST10130,Customer 0131,Small Business,Nigeria,Medium,0,16917.51
+CUST10131,Customer 0132,Consumer,United States,High,0,3630.91
+CUST10132,Customer 0133,Consumer,India,Medium,0,15147.48
+CUST10133,Customer 0134,Small Business,United Kingdom,Low,0,2185.95
+CUST10134,Customer 0135,Small Business,United States,Low,0,47933.26
+CUST10135,Customer 0136,Consumer,Mexico,Low,0,3261.97
+CUST10136,Customer 0137,Consumer,India,Low,0,20232.82
+CUST10137,Customer 0138,Consumer,United States,Low,0,6685.45
+CUST10138,Customer 0139,Consumer,India,Low,0,61715.44
+CUST10139,Customer 0140,Consumer,United States,Low,0,2118.98
+CUST10140,Customer 0141,Small Business,Russia,Low,0,88971.05
+CUST10141,Customer 0142,Small Business,United States,Low,0,4407.07
+CUST10142,Customer 0143,Consumer,United Arab Emirates,Low,0,2690.82
+CUST10143,Customer 0144,Consumer,Nigeria,Medium,0,9811.72
+CUST10144,Customer 0145,Commercial,United States,Low,0,2851.75
+CUST10145,Customer 0146,Consumer,United States,Low,0,11265.02
+CUST10146,Customer 0147,Small Business,United States,High,0,23745.25
+CUST10147,Customer 0148,Consumer,United Arab Emirates,Low,0,6803.67
+CUST10148,Customer 0149,Small Business,Mexico,Medium,0,21723.68
+CUST10149,Customer 0150,Commercial,United States,Medium,0,4420.8
+CUST10150,Customer 0151,Consumer,Nigeria,Medium,0,2731.48
+CUST10151,Customer 0152,Consumer,Mexico,Low,0,8743.44
+CUST10152,Customer 0153,Consumer,Turkey,Medium,0,16479.69
+CUST10153,Customer 0154,Consumer,Nigeria,Medium,0,2784.93
+CUST10154,Customer 0155,Consumer,United States,Medium,0,21398.29
+CUST10155,Customer 0156,Consumer,United States,Medium,0,20485.51
+CUST10156,Customer 0157,Commercial,India,Low,0,7885.7
+CUST10157,Customer 0158,Consumer,United States,Low,0,9463.48
+CUST10158,Customer 0159,Consumer,Mexico,Medium,0,26826.84
+CUST10159,Customer 0160,Consumer,United Arab Emirates,Medium,0,7988.61
+CUST10160,Customer 0161,Consumer,India,Medium,1,6625.56
+CUST10161,Customer 0162,Small Business,Russia,High,0,4754.8
+CUST10162,Customer 0163,Commercial,Canada,Medium,0,6842.24
+CUST10163,Customer 0164,Consumer,United States,Medium,0,14835.92
+CUST10164,Customer 0165,Consumer,United Arab Emirates,Low,0,4676.34
+CUST10165,Customer 0166,Consumer,Canada,Medium,0,10265.16
+CUST10166,Customer 0167,Small Business,United States,High,0,4581.01
+CUST10167,Customer 0168,Consumer,Nigeria,Medium,0,20025.7
+CUST10168,Customer 0169,Commercial,Russia,Low,0,9164.09
+CUST10169,Customer 0170,Small Business,United Arab Emirates,High,0,126613.61
+CUST10170,Customer 0171,Consumer,United States,Medium,0,11105.18
+CUST10171,Customer 0172,Commercial,United States,Low,0,11656.57
+CUST10172,Customer 0173,Commercial,Canada,Medium,0,17380.96
+CUST10173,Customer 0174,Consumer,United States,Low,0,9223.1
+CUST10174,Customer 0175,Small Business,Nigeria,Medium,0,3228.56
+CUST10175,Customer 0176,Consumer,Russia,Low,0,3859.75
+CUST10176,Customer 0177,Commercial,India,Low,0,53819.42
+CUST10177,Customer 0178,Small Business,Canada,Low,0,9726.5
+CUST10178,Customer 0179,Commercial,United States,Medium,0,11847.8
+CUST10179,Customer 0180,Commercial,Russia,Low,0,22545.84
+CUST10180,Customer 0181,Consumer,United States,Low,0,22696.27
+CUST10181,Customer 0182,Small Business,Nigeria,Low,0,4577.76
+CUST10182,Customer 0183,Commercial,Turkey,Low,0,6687.44
+CUST10183,Customer 0184,Consumer,Mexico,Low,0,12665.75
+CUST10184,Customer 0185,Consumer,United States,Low,0,23244.57
+CUST10185,Customer 0186,Consumer,China,High,0,14031.07
+CUST10186,Customer 0187,Consumer,United States,Medium,0,24828.47
+CUST10187,Customer 0188,Consumer,Canada,Low,0,6461.51
+CUST10188,Customer 0189,Consumer,India,Medium,0,27746.29
+CUST10189,Customer 0190,Consumer,United States,Low,0,7526.17
+CUST10190,Customer 0191,Consumer,Canada,Low,0,6562.11
+CUST10191,Customer 0192,Consumer,United States,Low,0,28221.57
+CUST10192,Customer 0193,Commercial,Canada,Medium,0,4098.57
+CUST10193,Customer 0194,Consumer,Mexico,Low,0,35120.09
+CUST10194,Customer 0195,Consumer,Turkey,Low,0,1638.89
+CUST10195,Customer 0196,Small Business,United States,High,0,11568.6
+CUST10196,Customer 0197,Commercial,China,Low,0,14952.74
+CUST10197,Customer 0198,Small Business,Canada,Low,0,9631.9
+CUST10198,Customer 0199,Consumer,United States,Low,0,60398.54
+CUST10199,Customer 0200,Small Business,United States,Low,0,3003.9
+CUST10200,Customer 0201,Consumer,Nigeria,Medium,0,5053.45
+CUST10201,Customer 0202,Consumer,Turkey,High,0,5486.24
+CUST10202,Customer 0203,Commercial,United States,Low,1,2227.61
+CUST10203,Customer 0204,Consumer,United Kingdom,Low,0,18747.53
+CUST10204,Customer 0205,Commercial,United Arab Emirates,Low,0,11410.78
+CUST10205,Customer 0206,Consumer,United States,Low,0,4233.26
+CUST10206,Customer 0207,Commercial,United States,Medium,0,4810.13
+CUST10207,Customer 0208,Consumer,United States,Medium,0,7252.02
+CUST10208,Customer 0209,Small Business,United States,Low,0,6223.02
+CUST10209,Customer 0210,Consumer,United States,Medium,0,5597.69
+CUST10210,Customer 0211,Consumer,United States,Medium,0,8111.67
+CUST10211,Customer 0212,Small Business,United States,Low,0,4185.18
+CUST10212,Customer 0213,Small Business,United Arab Emirates,Low,0,10225.93
+CUST10213,Customer 0214,Consumer,Turkey,Low,0,12193.4
+CUST10214,Customer 0215,Consumer,United States,Medium,0,7786.35
+CUST10215,Customer 0216,Consumer,United States,Low,0,17075.58
+CUST10216,Customer 0217,Small Business,India,Low,0,3387.93
+CUST10217,Customer 0218,Consumer,United Arab Emirates,Low,0,23247.76
+CUST10218,Customer 0219,Consumer,Russia,Medium,0,1710.54
+CUST10219,Customer 0220,Small Business,China,Medium,0,12436.15
+CUST10220,Customer 0221,Consumer,India,Low,0,10479.64
+CUST10221,Customer 0222,Commercial,United States,High,0,6633.22
+CUST10222,Customer 0223,Consumer,Canada,High,0,4988.78
+CUST10223,Customer 0224,Commercial,Canada,Low,0,3578.69
+CUST10224,Customer 0225,Consumer,United States,Medium,0,2677.95
+CUST10225,Customer 0226,Commercial,Turkey,Low,0,2945.3
+CUST10226,Customer 0227,Small Business,United States,Medium,1,6839.06
+CUST10227,Customer 0228,Commercial,United States,Low,0,8037.92
+CUST10228,Customer 0229,Consumer,Mexico,Medium,0,21725.44
+CUST10229,Customer 0230,Consumer,United Kingdom,High,0,1074.88
+CUST10230,Customer 0231,Consumer,United States,Low,0,13080.53
+CUST10231,Customer 0232,Consumer,United Arab Emirates,Low,0,10238.82
+CUST10232,Customer 0233,Small Business,United Arab Emirates,Medium,0,67298.49
+CUST10233,Customer 0234,Consumer,United Arab Emirates,Low,0,9418.92
+CUST10234,Customer 0235,Consumer,United States,Low,0,17101.05
+CUST10235,Customer 0236,Consumer,Russia,Low,0,9257.83
+CUST10236,Customer 0237,Consumer,Mexico,Low,0,6437.67
+CUST10237,Customer 0238,Small Business,Mexico,Low,1,24588.69
+CUST10238,Customer 0239,Small Business,United States,Low,0,6168.47
+CUST10239,Customer 0240,Consumer,Turkey,Low,0,1729.87
+CUST10240,Customer 0241,Consumer,United States,Low,0,6440.99
+CUST10241,Customer 0242,Small Business,United States,Low,0,31225.15
+CUST10242,Customer 0243,Small Business,United States,Low,0,31450.11
+CUST10243,Customer 0244,Small Business,United Kingdom,Low,0,30249.16
+CUST10244,Customer 0245,Consumer,United States,Medium,0,1709.22
+CUST10245,Customer 0246,Consumer,United States,Medium,0,27078.84
+CUST10246,Customer 0247,Consumer,India,Low,1,3198.83
+CUST10247,Customer 0248,Commercial,United States,Medium,0,2515.19
+CUST10248,Customer 0249,Consumer,United States,Low,0,19394.65
+CUST10249,Customer 0250,Consumer,United States,Low,0,4197.38
+CUST10250,Customer 0251,Small Business,United States,Low,0,5981.99
+CUST10251,Customer 0252,Consumer,Turkey,Low,0,9080.0
+CUST10252,Customer 0253,Small Business,Nigeria,Medium,0,5101.24
+CUST10253,Customer 0254,Consumer,United States,Low,0,22330.45
+CUST10254,Customer 0255,Consumer,China,Medium,0,15836.51
+CUST10255,Customer 0256,Consumer,United States,Low,0,15457.65
+CUST10256,Customer 0257,Consumer,Canada,Medium,0,2495.86
+CUST10257,Customer 0258,Consumer,United States,Low,0,17583.59
+CUST10258,Customer 0259,Consumer,United States,Low,0,8856.57
+CUST10259,Customer 0260,Commercial,United Kingdom,Medium,0,9935.82
+CUST10260,Customer 0261,Consumer,United States,Medium,0,11660.45
+CUST10261,Customer 0262,Consumer,United States,Medium,0,13151.48
+CUST10262,Customer 0263,Consumer,United States,High,0,21047.6
+CUST10263,Customer 0264,Consumer,Russia,Low,0,2352.44
+CUST10264,Customer 0265,Small Business,United Kingdom,Low,0,17842.19
+CUST10265,Customer 0266,Consumer,United Arab Emirates,Medium,0,2867.0
+CUST10266,Customer 0267,Consumer,Nigeria,High,0,2762.32
+CUST10267,Customer 0268,Consumer,United States,Low,0,16595.93
+CUST10268,Customer 0269,Commercial,United Arab Emirates,Low,0,9517.76
+CUST10269,Customer 0270,Small Business,United States,Medium,0,25692.82
+CUST10270,Customer 0271,Consumer,Turkey,Low,0,17845.43
+CUST10271,Customer 0272,Small Business,Mexico,Medium,0,30716.96
+CUST10272,Customer 0273,Consumer,Canada,Low,0,8062.58
+CUST10273,Customer 0274,Small Business,Canada,Low,0,3791.63
+CUST10274,Customer 0275,Consumer,United States,Medium,0,28808.94
+CUST10275,Customer 0276,Consumer,United States,Medium,0,9927.31
+CUST10276,Customer 0277,Small Business,Turkey,Medium,1,21088.52
+CUST10277,Customer 0278,Consumer,Russia,Medium,0,5288.05
+CUST10278,Customer 0279,Consumer,Mexico,Low,0,4801.78
+CUST10279,Customer 0280,Small Business,United States,Low,0,30947.17
+CUST10280,Customer 0281,Small Business,United States,Medium,0,3728.15
+CUST10281,Customer 0282,Consumer,United Kingdom,Medium,0,5177.97
+CUST10282,Customer 0283,Commercial,United States,High,0,18896.98
+CUST10283,Customer 0284,Consumer,United States,Medium,0,9166.0
+CUST10284,Customer 0285,Small Business,Mexico,Low,0,18285.45
+CUST10285,Customer 0286,Commercial,Canada,High,0,22284.44
+CUST10286,Customer 0287,Consumer,United States,Low,0,19966.87
+CUST10287,Customer 0288,Consumer,Canada,Medium,0,2835.45
+CUST10288,Customer 0289,Consumer,United States,Low,0,3862.58
+CUST10289,Customer 0290,Small Business,Canada,Low,0,6885.37
+CUST10290,Customer 0291,Commercial,United Kingdom,Low,0,63524.66
+CUST10291,Customer 0292,Consumer,Mexico,Low,0,5351.06
+CUST10292,Customer 0293,Consumer,Russia,Low,0,8789.42
+CUST10293,Customer 0294,Consumer,United Kingdom,Medium,0,47247.97
+CUST10294,Customer 0295,Consumer,Canada,Low,0,4401.38
+CUST10295,Customer 0296,Consumer,United States,Medium,0,1193.52
+CUST10296,Customer 0297,Small Business,United States,Medium,0,7152.82
+CUST10297,Customer 0298,Small Business,United States,Medium,0,17034.83
+CUST10298,Customer 0299,Small Business,United States,High,0,66199.2
+CUST10299,Customer 0300,Consumer,United Arab Emirates,Low,0,1989.69
+CUST10300,Customer 0301,Commercial,Mexico,Low,0,4117.18
+CUST10301,Customer 0302,Small Business,Mexico,High,0,14656.17
+CUST10302,Customer 0303,Small Business,United States,Low,0,7467.47
+CUST10303,Customer 0304,Consumer,Nigeria,Low,0,3911.09
+CUST10304,Customer 0305,Small Business,Turkey,Low,0,4007.0
+CUST10305,Customer 0306,Small Business,United States,Low,1,52182.42
+CUST10306,Customer 0307,Consumer,Turkey,Medium,0,16227.75
+CUST10307,Customer 0308,Consumer,United States,Medium,0,11657.63
+CUST10308,Customer 0309,Small Business,United Kingdom,Low,0,6427.21
+CUST10309,Customer 0310,Commercial,United States,Low,0,18636.38
+CUST10310,Customer 0311,Consumer,United States,Low,0,5127.2
+CUST10311,Customer 0312,Consumer,Mexico,Low,0,5528.37
+CUST10312,Customer 0313,Consumer,United Arab Emirates,Medium,0,1985.87
+CUST10313,Customer 0314,Consumer,United States,Medium,0,84425.87
+CUST10314,Customer 0315,Consumer,United Kingdom,Low,0,5833.75
+CUST10315,Customer 0316,Consumer,United States,Medium,1,23113.3
+CUST10316,Customer 0317,Consumer,United Arab Emirates,Medium,0,15517.94
+CUST10317,Customer 0318,Consumer,United Arab Emirates,Medium,0,26775.25
+CUST10318,Customer 0319,Small Business,United States,Medium,0,10445.11
+CUST10319,Customer 0320,Consumer,Nigeria,High,0,107557.39
+CUST10320,Customer 0321,Consumer,Mexico,Medium,0,2838.33
+CUST10321,Customer 0322,Consumer,China,High,0,28056.4
+CUST10322,Customer 0323,Small Business,United States,High,0,24821.88
+CUST10323,Customer 0324,Commercial,United States,Low,0,2799.98
+CUST10324,Customer 0325,Consumer,United States,Medium,0,6850.49
+CUST10325,Customer 0326,Consumer,United Kingdom,Medium,0,18447.42
+CUST10326,Customer 0327,Consumer,United States,Medium,0,9567.34
+CUST10327,Customer 0328,Consumer,Canada,Medium,0,77309.12
+CUST10328,Customer 0329,Consumer,United States,Low,0,23988.17
+CUST10329,Customer 0330,Consumer,United States,Medium,0,13191.17
+CUST10330,Customer 0331,Consumer,Russia,Medium,0,4078.7
+CUST10331,Customer 0332,Consumer,United States,Low,0,37934.05
+CUST10332,Customer 0333,Consumer,United States,Low,0,7580.95
+CUST10333,Customer 0334,Consumer,India,Medium,0,9579.88
+CUST10334,Customer 0335,Small Business,United States,Low,0,9330.74
+CUST10335,Customer 0336,Consumer,United Kingdom,Medium,0,47326.9
+CUST10336,Customer 0337,Small Business,United States,Medium,0,7318.19
+CUST10337,Customer 0338,Consumer,Nigeria,Medium,0,6328.16
+CUST10338,Customer 0339,Consumer,United States,Medium,0,7527.52
+CUST10339,Customer 0340,Consumer,India,Medium,0,8781.1
+CUST10340,Customer 0341,Consumer,United States,Low,0,3037.81
+CUST10341,Customer 0342,Consumer,United States,Medium,0,4555.23
+CUST10342,Customer 0343,Consumer,United States,Medium,0,5892.11
+CUST10343,Customer 0344,Commercial,United States,Low,0,2910.79
+CUST10344,Customer 0345,Consumer,United States,Low,0,6639.57
+CUST10345,Customer 0346,Consumer,China,Medium,0,6093.13
+CUST10346,Customer 0347,Consumer,United States,Medium,0,7524.2
+CUST10347,Customer 0348,Consumer,Mexico,Medium,0,5273.83
+CUST10348,Customer 0349,Consumer,United States,Low,0,26751.26
+CUST10349,Customer 0350,Consumer,United States,Low,0,5909.02
+CUST10350,Customer 0351,Commercial,India,Low,0,2534.48
+CUST10351,Customer 0352,Consumer,United States,Medium,0,8112.94
+CUST10352,Customer 0353,Consumer,India,Medium,0,16741.26
+CUST10353,Customer 0354,Consumer,United States,Low,0,12499.15
+CUST10354,Customer 0355,Consumer,Russia,Medium,0,20349.17
+CUST10355,Customer 0356,Commercial,United States,High,0,14795.17
+CUST10356,Customer 0357,Consumer,United States,Low,0,7040.54
+CUST10357,Customer 0358,Commercial,United States,Low,0,4537.66
+CUST10358,Customer 0359,Consumer,United States,Low,0,30658.65
+CUST10359,Customer 0360,Small Business,United States,Low,0,7564.09
+CUST10360,Customer 0361,Consumer,United Kingdom,Low,0,16803.99
+CUST10361,Customer 0362,Consumer,United States,Low,0,23605.19
+CUST10362,Customer 0363,Consumer,Russia,Low,0,4119.91
+CUST10363,Customer 0364,Commercial,United States,Low,0,26594.31
+CUST10364,Customer 0365,Consumer,United Arab Emirates,Medium,0,8924.03
+CUST10365,Customer 0366,Small Business,Mexico,Medium,0,14564.41
+CUST10366,Customer 0367,Small Business,Mexico,Low,0,12947.59
+CUST10367,Customer 0368,Consumer,United States,High,0,3169.27
+CUST10368,Customer 0369,Consumer,Canada,Low,0,57217.4
+CUST10369,Customer 0370,Consumer,United States,Low,0,17419.48
+CUST10370,Customer 0371,Consumer,United Kingdom,Low,0,4780.94
+CUST10371,Customer 0372,Consumer,United States,Low,0,23811.09
+CUST10372,Customer 0373,Consumer,United States,Low,0,9066.51
+CUST10373,Customer 0374,Consumer,Turkey,High,0,6099.28
+CUST10374,Customer 0375,Small Business,China,High,0,10826.93
+CUST10375,Customer 0376,Consumer,United Kingdom,Low,0,8636.25
+CUST10376,Customer 0377,Small Business,United Kingdom,Low,0,12608.84
+CUST10377,Customer 0378,Consumer,Mexico,Low,0,6797.89
+CUST10378,Customer 0379,Consumer,United Arab Emirates,Low,0,13891.74
+CUST10379,Customer 0380,Small Business,India,Medium,0,7591.04
+CUST10380,Customer 0381,Small Business,United States,Low,0,11760.75
+CUST10381,Customer 0382,Consumer,United Kingdom,Low,0,4574.12
+CUST10382,Customer 0383,Consumer,United States,Medium,0,18748.9
+CUST10383,Customer 0384,Consumer,United States,Medium,0,52368.36
+CUST10384,Customer 0385,Small Business,United States,Low,0,19103.58
+CUST10385,Customer 0386,Consumer,United Kingdom,Low,0,3002.38
+CUST10386,Customer 0387,Consumer,United States,Low,0,8749.48
+CUST10387,Customer 0388,Small Business,Nigeria,Low,0,12308.12
+CUST10388,Customer 0389,Consumer,United States,Medium,0,14030.73
+CUST10389,Customer 0390,Small Business,Russia,Low,0,5190.06
+CUST10390,Customer 0391,Commercial,United States,Medium,0,20757.92
+CUST10391,Customer 0392,Commercial,United States,Low,0,10230.74
+CUST10392,Customer 0393,Consumer,United States,Medium,0,9417.98
+CUST10393,Customer 0394,Commercial,United States,High,0,10878.09
+CUST10394,Customer 0395,Small Business,Nigeria,Medium,0,7321.99
+CUST10395,Customer 0396,Consumer,United States,Medium,0,10667.25
+CUST10396,Customer 0397,Consumer,Canada,Medium,0,25836.12
+CUST10397,Customer 0398,Consumer,United States,Low,0,11162.77
+CUST10398,Customer 0399,Consumer,Canada,Low,0,8305.56
+CUST10399,Customer 0400,Consumer,Canada,Low,0,33581.2
+CUST10400,Customer 0401,Commercial,Nigeria,Low,0,16388.02
+CUST10401,Customer 0402,Consumer,United States,Low,0,33507.75
+CUST10402,Customer 0403,Consumer,United Kingdom,Medium,0,11934.97
+CUST10403,Customer 0404,Small Business,United States,Low,0,35207.62
+CUST10404,Customer 0405,Consumer,United Kingdom,Low,0,26847.94
+CUST10405,Customer 0406,Commercial,United States,Low,0,9247.5
+CUST10406,Customer 0407,Consumer,United States,Low,1,4237.14
+CUST10407,Customer 0408,Consumer,Canada,Low,0,1026.2
+CUST10408,Customer 0409,Consumer,United States,Medium,0,6055.34
+CUST10409,Customer 0410,Consumer,United Arab Emirates,Low,0,4550.3
+CUST10410,Customer 0411,Consumer,China,Medium,0,8074.13
+CUST10411,Customer 0412,Consumer,United States,High,0,6855.7
+CUST10412,Customer 0413,Commercial,China,Low,0,12135.17
+CUST10413,Customer 0414,Small Business,Mexico,Medium,0,5108.96
+CUST10414,Customer 0415,Consumer,Mexico,Low,0,2541.05
+CUST10415,Customer 0416,Consumer,United States,High,0,2860.72
+CUST10416,Customer 0417,Consumer,United Arab Emirates,Medium,0,5561.0
+CUST10417,Customer 0418,Consumer,United States,Medium,0,10087.97
+CUST10418,Customer 0419,Consumer,United States,High,0,12985.42
+CUST10419,Customer 0420,Commercial,United States,Medium,0,47681.89
+CUST10420,Customer 0421,Consumer,India,High,0,11066.3
+CUST10421,Customer 0422,Consumer,Nigeria,Low,0,8081.33
+CUST10422,Customer 0423,Small Business,United States,Low,0,2501.24
+CUST10423,Customer 0424,Small Business,Canada,Low,1,9039.23
+CUST10424,Customer 0425,Commercial,India,High,0,46388.22
+CUST10425,Customer 0426,Small Business,United States,Medium,0,12622.6
+CUST10426,Customer 0427,Commercial,United States,Low,0,3121.62
+CUST10427,Customer 0428,Consumer,Mexico,Low,0,21248.4
+CUST10428,Customer 0429,Consumer,United States,High,0,6147.05
+CUST10429,Customer 0430,Consumer,United States,Low,0,3500.77
+CUST10430,Customer 0431,Consumer,United Arab Emirates,Low,0,11039.65
+CUST10431,Customer 0432,Small Business,Canada,Low,0,3992.94
+CUST10432,Customer 0433,Consumer,India,Low,0,16243.06
+CUST10433,Customer 0434,Small Business,India,Low,0,8097.56
+CUST10434,Customer 0435,Commercial,United Kingdom,Low,0,10712.36
+CUST10435,Customer 0436,Consumer,Canada,Low,0,6869.42
+CUST10436,Customer 0437,Consumer,United States,Low,0,6783.8
+CUST10437,Customer 0438,Consumer,Nigeria,Medium,0,22100.47
+CUST10438,Customer 0439,Small Business,United States,Medium,0,12314.53
+CUST10439,Customer 0440,Small Business,Mexico,Medium,0,17999.68
+CUST10440,Customer 0441,Consumer,United Kingdom,Medium,0,14478.37
+CUST10441,Customer 0442,Consumer,United Kingdom,Low,0,19240.71
+CUST10442,Customer 0443,Consumer,Canada,Medium,0,42008.76
+CUST10443,Customer 0444,Consumer,India,Medium,1,10160.45
+CUST10444,Customer 0445,Consumer,India,Medium,0,8498.13
+CUST10445,Customer 0446,Consumer,United States,Low,0,5705.98
+CUST10446,Customer 0447,Consumer,United States,Low,0,3306.77
+CUST10447,Customer 0448,Consumer,China,Medium,0,24704.63
+CUST10448,Customer 0449,Commercial,United Kingdom,Low,0,4921.97
+CUST10449,Customer 0450,Small Business,India,Medium,0,8898.12
+CUST10450,Customer 0451,Consumer,United Kingdom,Low,0,15581.63
+CUST10451,Customer 0452,Consumer,Nigeria,Low,0,9646.41
+CUST10452,Customer 0453,Consumer,United States,Medium,0,21105.09
+CUST10453,Customer 0454,Consumer,Mexico,Low,0,12700.03
+CUST10454,Customer 0455,Consumer,United States,High,0,7785.66
+CUST10455,Customer 0456,Consumer,Mexico,High,0,16813.44
+CUST10456,Customer 0457,Commercial,United States,Low,0,16648.31
+CUST10457,Customer 0458,Small Business,United Arab Emirates,Low,0,16797.9
+CUST10458,Customer 0459,Consumer,Canada,Medium,0,19567.17
+CUST10459,Customer 0460,Small Business,United Kingdom,Low,0,2171.72
+CUST10460,Customer 0461,Small Business,China,Low,0,1385.12
+CUST10461,Customer 0462,Consumer,United States,High,0,8425.26
+CUST10462,Customer 0463,Consumer,Nigeria,Low,0,103974.22
+CUST10463,Customer 0464,Small Business,United States,Low,0,14334.49
+CUST10464,Customer 0465,Consumer,Canada,Low,0,2953.11
+CUST10465,Customer 0466,Small Business,Russia,Medium,0,15929.29
+CUST10466,Customer 0467,Consumer,United Kingdom,Medium,0,9450.57
+CUST10467,Customer 0468,Consumer,United States,Low,0,4277.55
+CUST10468,Customer 0469,Commercial,United States,Low,0,12331.57
+CUST10469,Customer 0470,Consumer,United States,Medium,0,7138.1
+CUST10470,Customer 0471,Small Business,United States,Low,0,18042.01
+CUST10471,Customer 0472,Small Business,United States,Low,0,6963.94
+CUST10472,Customer 0473,Small Business,United States,Low,0,2052.27
+CUST10473,Customer 0474,Consumer,Nigeria,Low,0,29247.45
+CUST10474,Customer 0475,Commercial,Turkey,Low,0,8197.59
+CUST10475,Customer 0476,Consumer,United Arab Emirates,High,0,40283.64
+CUST10476,Customer 0477,Consumer,Canada,Low,0,33792.91
+CUST10477,Customer 0478,Consumer,United Arab Emirates,Low,0,7084.93
+CUST10478,Customer 0479,Consumer,United States,Low,0,2458.88
+CUST10479,Customer 0480,Consumer,Turkey,Medium,0,8263.01
+CUST10480,Customer 0481,Consumer,Turkey,Low,0,29951.65
+CUST10481,Customer 0482,Small Business,United Kingdom,Low,0,3082.39
+CUST10482,Customer 0483,Consumer,Mexico,High,1,5178.52
+CUST10483,Customer 0484,Consumer,Canada,Medium,0,8576.03
+CUST10484,Customer 0485,Commercial,India,Medium,0,23087.41
+CUST10485,Customer 0486,Small Business,United States,Low,0,4577.95
+CUST10486,Customer 0487,Consumer,United Kingdom,Low,0,16583.37
+CUST10487,Customer 0488,Consumer,United States,Medium,0,2260.83
+CUST10488,Customer 0489,Small Business,Nigeria,Low,0,2765.9
+CUST10489,Customer 0490,Consumer,United States,Low,0,14061.47
+CUST10490,Customer 0491,Commercial,United States,Low,0,10823.38
+CUST10491,Customer 0492,Small Business,Russia,High,0,3884.95
+CUST10492,Customer 0493,Small Business,Russia,Medium,0,26422.41
+CUST10493,Customer 0494,Small Business,United Arab Emirates,Low,0,13350.35
+CUST10494,Customer 0495,Consumer,United States,Low,0,18776.49
+CUST10495,Customer 0496,Consumer,United States,Low,0,26721.45
+CUST10496,Customer 0497,Small Business,United States,Low,0,7311.79
+CUST10497,Customer 0498,Consumer,Nigeria,Medium,0,7129.89
+CUST10498,Customer 0499,Consumer,Nigeria,High,0,4846.45
+CUST10499,Customer 0500,Small Business,Mexico,Low,0,41430.55
+CUST10500,Customer 0501,Small Business,United States,Low,0,13532.5
+CUST10501,Customer 0502,Small Business,United States,Medium,0,6043.79
+CUST10502,Customer 0503,Small Business,United States,High,0,5014.94
+CUST10503,Customer 0504,Small Business,India,Low,0,9346.7
+CUST10504,Customer 0505,Consumer,United States,Medium,0,1673.29
+CUST10505,Customer 0506,Consumer,United States,Low,0,9226.59
+CUST10506,Customer 0507,Consumer,India,Medium,0,3658.27
+CUST10507,Customer 0508,Small Business,Russia,Medium,0,26892.37
+CUST10508,Customer 0509,Consumer,United States,Medium,0,10075.98
+CUST10509,Customer 0510,Consumer,India,Low,0,1770.09
+CUST10510,Customer 0511,Consumer,United States,Medium,0,31392.17
+CUST10511,Customer 0512,Small Business,United Kingdom,Low,0,6231.99
+CUST10512,Customer 0513,Consumer,China,Low,0,4602.05
+CUST10513,Customer 0514,Consumer,United States,Low,0,9897.08
+CUST10514,Customer 0515,Consumer,United States,Low,0,82986.0
+CUST10515,Customer 0516,Commercial,United States,Medium,0,4271.53
+CUST10516,Customer 0517,Consumer,China,Low,0,9237.15
+CUST10517,Customer 0518,Small Business,Canada,Medium,0,33670.64
+CUST10518,Customer 0519,Small Business,Russia,Low,0,155476.81
+CUST10519,Customer 0520,Consumer,Mexico,Medium,0,4950.15
+CUST10520,Customer 0521,Consumer,Canada,Medium,0,3412.53
+CUST10521,Customer 0522,Small Business,United Kingdom,High,0,9830.16
+CUST10522,Customer 0523,Consumer,United States,Medium,0,15672.26
+CUST10523,Customer 0524,Commercial,United States,Low,0,30031.06
+CUST10524,Customer 0525,Consumer,United States,Low,0,3163.8
+CUST10525,Customer 0526,Consumer,Turkey,Low,0,4729.87
+CUST10526,Customer 0527,Consumer,Canada,High,0,3175.93
+CUST10527,Customer 0528,Consumer,United States,Low,0,42636.45
+CUST10528,Customer 0529,Commercial,Turkey,Medium,0,20451.11
+CUST10529,Customer 0530,Consumer,United States,Low,0,3738.46
+CUST10530,Customer 0531,Consumer,United Kingdom,Medium,0,3159.14
+CUST10531,Customer 0532,Small Business,Nigeria,Medium,0,9647.26
+CUST10532,Customer 0533,Consumer,United States,Low,0,2919.58
+CUST10533,Customer 0534,Consumer,Mexico,Medium,0,2086.47
+CUST10534,Customer 0535,Consumer,United Kingdom,Low,0,10022.55
+CUST10535,Customer 0536,Commercial,United States,Low,0,10098.64
+CUST10536,Customer 0537,Consumer,Nigeria,Low,0,4280.32
+CUST10537,Customer 0538,Commercial,United States,Low,0,3317.38
+CUST10538,Customer 0539,Small Business,United States,Low,0,15336.5
+CUST10539,Customer 0540,Small Business,United States,Medium,0,27599.4
+CUST10540,Customer 0541,Consumer,United States,Low,0,10443.32
+CUST10541,Customer 0542,Consumer,United States,Low,0,9776.32
+CUST10542,Customer 0543,Consumer,Turkey,High,0,3249.88
+CUST10543,Customer 0544,Commercial,United Arab Emirates,Medium,0,33618.11
+CUST10544,Customer 0545,Consumer,United States,Low,0,15111.56
+CUST10545,Customer 0546,Consumer,United States,Medium,0,1943.74
+CUST10546,Customer 0547,Consumer,United States,Medium,0,8962.35
+CUST10547,Customer 0548,Consumer,United States,Medium,0,2959.8
+CUST10548,Customer 0549,Consumer,Turkey,Low,1,16119.8
+CUST10549,Customer 0550,Consumer,United States,Low,1,21691.08
+CUST10550,Customer 0551,Small Business,Turkey,Low,0,3817.26
+CUST10551,Customer 0552,Small Business,Nigeria,Low,0,13276.77
+CUST10552,Customer 0553,Consumer,United States,Low,0,39808.44
+CUST10553,Customer 0554,Consumer,Canada,Low,0,5867.19
+CUST10554,Customer 0555,Small Business,United States,Medium,0,12326.2
+CUST10555,Customer 0556,Consumer,Mexico,Low,0,6990.28
+CUST10556,Customer 0557,Consumer,India,Low,0,2860.47
+CUST10557,Customer 0558,Consumer,United States,Medium,0,8219.91
+CUST10558,Customer 0559,Consumer,Canada,Medium,0,3631.34
+CUST10559,Customer 0560,Consumer,China,Medium,0,19110.37
+CUST10560,Customer 0561,Consumer,United States,Medium,0,7586.33
+CUST10561,Customer 0562,Consumer,China,Medium,0,25029.07
+CUST10562,Customer 0563,Commercial,United States,Low,0,1263.58
+CUST10563,Customer 0564,Small Business,Canada,Medium,0,11203.5
+CUST10564,Customer 0565,Small Business,United States,Medium,0,14220.01
+CUST10565,Customer 0566,Commercial,United States,Low,0,5008.32
+CUST10566,Customer 0567,Consumer,United States,Medium,0,9061.96
+CUST10567,Customer 0568,Small Business,United States,Medium,0,15258.08
+CUST10568,Customer 0569,Consumer,United States,Medium,0,14610.15
+CUST10569,Customer 0570,Consumer,United States,Low,0,3680.63
+CUST10570,Customer 0571,Consumer,Nigeria,High,0,40033.17
+CUST10571,Customer 0572,Consumer,Canada,Medium,0,9269.96
+CUST10572,Customer 0573,Small Business,Turkey,Medium,1,13877.18
+CUST10573,Customer 0574,Consumer,United States,Low,0,11059.35
+CUST10574,Customer 0575,Consumer,United States,Low,0,13152.01
+CUST10575,Customer 0576,Consumer,Canada,Low,0,6602.16
+CUST10576,Customer 0577,Commercial,United States,Medium,1,11733.73
+CUST10577,Customer 0578,Consumer,United States,Medium,0,3166.24
+CUST10578,Customer 0579,Consumer,Turkey,Low,0,1591.01
+CUST10579,Customer 0580,Consumer,China,Low,0,14815.77
+CUST10580,Customer 0581,Consumer,United States,Medium,0,2402.39
+CUST10581,Customer 0582,Consumer,United States,High,0,7161.59
+CUST10582,Customer 0583,Consumer,United States,Low,0,23767.47
+CUST10583,Customer 0584,Consumer,United States,Low,0,19458.85
+CUST10584,Customer 0585,Small Business,Russia,Low,0,11862.76
+CUST10585,Customer 0586,Small Business,United States,Medium,0,6442.35
+CUST10586,Customer 0587,Consumer,United States,High,0,9032.53
+CUST10587,Customer 0588,Consumer,United States,Low,0,11380.29
+CUST10588,Customer 0589,Consumer,United States,Medium,0,5860.71
+CUST10589,Customer 0590,Consumer,United States,Low,0,31401.57
+CUST10590,Customer 0591,Consumer,Nigeria,Low,0,3698.25
+CUST10591,Customer 0592,Commercial,India,High,0,12027.3
+CUST10592,Customer 0593,Consumer,Mexico,Low,0,11014.63
+CUST10593,Customer 0594,Small Business,United States,Low,0,31068.18
+CUST10594,Customer 0595,Consumer,China,Low,1,7895.04
+CUST10595,Customer 0596,Commercial,United Arab Emirates,Low,0,27043.05
+CUST10596,Customer 0597,Small Business,United States,Low,0,6305.73
+CUST10597,Customer 0598,Consumer,United Arab Emirates,Low,0,5357.27
+CUST10598,Customer 0599,Consumer,United States,Low,0,9085.98
+CUST10599,Customer 0600,Consumer,United States,High,0,8354.82
+CUST10600,Customer 0601,Small Business,United States,Medium,0,11749.69
+CUST10601,Customer 0602,Consumer,China,Medium,0,6897.54
+CUST10602,Customer 0603,Small Business,Nigeria,Medium,0,18202.87
+CUST10603,Customer 0604,Small Business,United Arab Emirates,Low,0,3171.3
+CUST10604,Customer 0605,Consumer,Russia,Medium,0,4386.11
+CUST10605,Customer 0606,Commercial,United States,Medium,0,15892.78
+CUST10606,Customer 0607,Small Business,Mexico,Low,0,6351.82
+CUST10607,Customer 0608,Small Business,United States,Low,0,10385.74
+CUST10608,Customer 0609,Small Business,Turkey,Low,0,12295.28
+CUST10609,Customer 0610,Consumer,United States,Low,0,28380.37
+CUST10610,Customer 0611,Consumer,United Arab Emirates,Low,0,15655.67
+CUST10611,Customer 0612,Consumer,Canada,Low,0,2525.57
+CUST10612,Customer 0613,Small Business,Turkey,Low,0,23489.85
+CUST10613,Customer 0614,Commercial,China,Low,0,23917.97
+CUST10614,Customer 0615,Small Business,United States,Low,0,6913.84
+CUST10615,Customer 0616,Consumer,United Arab Emirates,Low,0,6529.24
+CUST10616,Customer 0617,Small Business,United Arab Emirates,High,0,27347.68
+CUST10617,Customer 0618,Small Business,United States,Low,0,31313.57
+CUST10618,Customer 0619,Small Business,United States,Medium,0,6917.47
+CUST10619,Customer 0620,Commercial,United States,Low,0,980.82
+CUST10620,Customer 0621,Consumer,Nigeria,Medium,0,4779.21
+CUST10621,Customer 0622,Small Business,United States,Medium,0,32621.13
+CUST10622,Customer 0623,Commercial,United States,High,0,1557.23
+CUST10623,Customer 0624,Small Business,United States,Medium,0,8501.89
+CUST10624,Customer 0625,Consumer,United States,Medium,0,20919.27
+CUST10625,Customer 0626,Consumer,United States,Low,0,3772.83
+CUST10626,Customer 0627,Small Business,United Arab Emirates,Low,0,16917.16
+CUST10627,Customer 0628,Small Business,India,Low,0,10221.97
+CUST10628,Customer 0629,Commercial,United States,Low,0,4703.77
+CUST10629,Customer 0630,Consumer,United States,Low,0,7972.45
+CUST10630,Customer 0631,Consumer,United States,Low,0,7746.04
+CUST10631,Customer 0632,Consumer,United States,Low,0,5528.21
+CUST10632,Customer 0633,Consumer,Turkey,Low,0,5012.66
+CUST10633,Customer 0634,Consumer,Mexico,Low,0,15441.76
+CUST10634,Customer 0635,Consumer,United States,Low,0,13217.75
+CUST10635,Customer 0636,Small Business,United States,Medium,0,25300.07
+CUST10636,Customer 0637,Consumer,Russia,Low,0,3942.25
+CUST10637,Customer 0638,Consumer,United States,Low,0,8577.36
+CUST10638,Customer 0639,Consumer,Turkey,Low,0,4989.53
+CUST10639,Customer 0640,Commercial,United States,Low,1,13777.73
+CUST10640,Customer 0641,Consumer,Turkey,Low,0,55732.46
+CUST10641,Customer 0642,Consumer,Canada,Medium,0,9176.56
+CUST10642,Customer 0643,Consumer,Mexico,Medium,0,9576.56
+CUST10643,Customer 0644,Consumer,China,Low,0,8404.04
+CUST10644,Customer 0645,Consumer,United Kingdom,Low,0,6065.19
+CUST10645,Customer 0646,Small Business,Mexico,Medium,0,9552.78
+CUST10646,Customer 0647,Consumer,United States,High,1,6544.24
+CUST10647,Customer 0648,Consumer,China,Low,0,15622.44
+CUST10648,Customer 0649,Consumer,United States,Low,0,7155.26
+CUST10649,Customer 0650,Consumer,United States,Medium,0,57842.48
+CUST10650,Customer 0651,Small Business,China,Medium,0,16973.55
+CUST10651,Customer 0652,Consumer,United Kingdom,Low,0,10376.19
+CUST10652,Customer 0653,Consumer,India,Low,0,17949.36
+CUST10653,Customer 0654,Commercial,United States,Low,0,6831.24
+CUST10654,Customer 0655,Consumer,Turkey,Low,0,7795.19
+CUST10655,Customer 0656,Consumer,United Arab Emirates,Low,0,13100.55
+CUST10656,Customer 0657,Commercial,United States,Low,0,9568.06
+CUST10657,Customer 0658,Consumer,Canada,Medium,0,6156.58
+CUST10658,Customer 0659,Consumer,Turkey,Low,0,8040.06
+CUST10659,Customer 0660,Consumer,China,Low,0,26520.23
+CUST10660,Customer 0661,Consumer,United States,Low,0,9864.93
+CUST10661,Customer 0662,Commercial,United States,Low,0,2832.58
+CUST10662,Customer 0663,Small Business,United States,Medium,0,5453.21
+CUST10663,Customer 0664,Consumer,Mexico,Low,0,11304.72
+CUST10664,Customer 0665,Consumer,India,Medium,0,21855.76
+CUST10665,Customer 0666,Commercial,United States,Low,0,25501.28
+CUST10666,Customer 0667,Consumer,China,Low,0,4433.34
+CUST10667,Customer 0668,Small Business,United States,Medium,0,24146.29
+CUST10668,Customer 0669,Small Business,United States,High,0,3997.64
+CUST10669,Customer 0670,Consumer,United Kingdom,Medium,1,11136.97
+CUST10670,Customer 0671,Consumer,United States,Low,0,16663.66
+CUST10671,Customer 0672,Small Business,China,Low,0,4170.06
+CUST10672,Customer 0673,Consumer,United States,Medium,0,6134.89
+CUST10673,Customer 0674,Consumer,United States,Low,0,8099.28
+CUST10674,Customer 0675,Consumer,Canada,High,0,6299.84
+CUST10675,Customer 0676,Small Business,United States,Medium,0,12858.41
+CUST10676,Customer 0677,Consumer,India,Medium,0,20746.37
+CUST10677,Customer 0678,Consumer,United States,Low,0,3393.18
+CUST10678,Customer 0679,Small Business,United States,High,0,8771.05
+CUST10679,Customer 0680,Small Business,India,Medium,0,8076.04
+CUST10680,Customer 0681,Small Business,United States,High,0,9898.72
+CUST10681,Customer 0682,Consumer,United States,Low,1,17541.59
+CUST10682,Customer 0683,Consumer,United States,Medium,0,20742.49
+CUST10683,Customer 0684,Consumer,United States,High,0,15590.8
+CUST10684,Customer 0685,Consumer,India,Low,0,5441.34
+CUST10685,Customer 0686,Consumer,United States,Low,0,1192.55
+CUST10686,Customer 0687,Consumer,Nigeria,Medium,0,7677.15
+CUST10687,Customer 0688,Consumer,Russia,Low,0,10657.83
+CUST10688,Customer 0689,Small Business,Mexico,Medium,0,50677.95
+CUST10689,Customer 0690,Consumer,Canada,Low,0,8057.04
+CUST10690,Customer 0691,Consumer,United States,Low,0,23674.45
+CUST10691,Customer 0692,Consumer,United States,Medium,0,5641.93
+CUST10692,Customer 0693,Small Business,United States,Low,0,24756.23
+CUST10693,Customer 0694,Consumer,United States,Low,0,7849.52
+CUST10694,Customer 0695,Consumer,United States,Low,0,28319.91
+CUST10695,Customer 0696,Consumer,United Arab Emirates,Medium,0,44405.64
+CUST10696,Customer 0697,Consumer,United States,Low,0,6171.71
+CUST10697,Customer 0698,Consumer,Mexico,Low,0,29689.98
+CUST10698,Customer 0699,Consumer,Russia,Medium,0,7843.34
+CUST10699,Customer 0700,Consumer,United States,High,0,33184.35
+CUST10700,Customer 0701,Consumer,United States,Medium,0,3538.21
+CUST10701,Customer 0702,Consumer,China,Low,0,7148.25
+CUST10702,Customer 0703,Consumer,United States,Low,0,4844.13
+CUST10703,Customer 0704,Consumer,Canada,High,0,15274.28
+CUST10704,Customer 0705,Consumer,United Kingdom,Low,0,4099.66
+CUST10705,Customer 0706,Consumer,United States,Low,0,3876.96
+CUST10706,Customer 0707,Consumer,United States,Low,0,3305.84
+CUST10707,Customer 0708,Small Business,United States,Low,0,39089.95
+CUST10708,Customer 0709,Consumer,United States,Low,0,9188.69
+CUST10709,Customer 0710,Small Business,Nigeria,Low,0,11842.92
+CUST10710,Customer 0711,Consumer,United Arab Emirates,Low,0,26697.02
+CUST10711,Customer 0712,Consumer,United Arab Emirates,Medium,1,10197.86
+CUST10712,Customer 0713,Consumer,Canada,Medium,0,13321.12
+CUST10713,Customer 0714,Consumer,Turkey,Medium,0,11263.6
+CUST10714,Customer 0715,Consumer,Nigeria,Medium,0,4062.28
+CUST10715,Customer 0716,Small Business,China,Low,0,10872.08
+CUST10716,Customer 0717,Consumer,United States,Low,0,5394.93
+CUST10717,Customer 0718,Small Business,United States,High,0,7868.24
+CUST10718,Customer 0719,Consumer,Mexico,Low,0,6622.69
+CUST10719,Customer 0720,Consumer,United States,Low,0,112178.38
+CUST10720,Customer 0721,Consumer,United States,High,0,29513.97
+CUST10721,Customer 0722,Small Business,United States,Low,0,8965.03
+CUST10722,Customer 0723,Consumer,United States,Low,0,3979.55
+CUST10723,Customer 0724,Consumer,United States,Medium,0,36767.27
+CUST10724,Customer 0725,Consumer,United States,Low,0,23654.81
+CUST10725,Customer 0726,Consumer,United States,Medium,0,14984.0
+CUST10726,Customer 0727,Small Business,United States,Low,0,41475.83
+CUST10727,Customer 0728,Consumer,India,Low,0,2779.55
+CUST10728,Customer 0729,Small Business,United States,Medium,0,5051.44
+CUST10729,Customer 0730,Consumer,United States,High,0,24592.2
+CUST10730,Customer 0731,Small Business,United Arab Emirates,Low,0,2599.8
+CUST10731,Customer 0732,Consumer,Turkey,Low,0,12029.54
+CUST10732,Customer 0733,Consumer,United States,Medium,0,4721.76
+CUST10733,Customer 0734,Small Business,United States,High,0,10877.82
+CUST10734,Customer 0735,Commercial,Russia,Medium,0,8722.5
+CUST10735,Customer 0736,Consumer,United States,Low,0,6640.46
+CUST10736,Customer 0737,Consumer,United States,Low,0,11496.71
+CUST10737,Customer 0738,Commercial,India,High,0,7721.81
+CUST10738,Customer 0739,Consumer,United States,Low,0,15816.78
+CUST10739,Customer 0740,Small Business,United States,Low,1,16476.48
+CUST10740,Customer 0741,Small Business,India,Low,0,22114.56
+CUST10741,Customer 0742,Small Business,United States,High,0,2852.33
+CUST10742,Customer 0743,Small Business,Russia,Medium,0,18106.25
+CUST10743,Customer 0744,Consumer,India,High,0,3836.64
+CUST10744,Customer 0745,Consumer,Nigeria,High,0,31459.93
+CUST10745,Customer 0746,Small Business,United States,Low,0,3895.22
+CUST10746,Customer 0747,Consumer,Russia,High,1,2806.1
+CUST10747,Customer 0748,Small Business,Canada,High,0,11966.24
+CUST10748,Customer 0749,Consumer,India,Low,0,1885.86
+CUST10749,Customer 0750,Consumer,India,Low,0,13317.7
+CUST10750,Customer 0751,Small Business,Turkey,Low,0,9215.81
+CUST10751,Customer 0752,Commercial,United Arab Emirates,Medium,0,26025.88
+CUST10752,Customer 0753,Consumer,United States,Low,0,2917.45
+CUST10753,Customer 0754,Consumer,Russia,Low,0,138878.42
+CUST10754,Customer 0755,Consumer,United Kingdom,Medium,0,13729.02
+CUST10755,Customer 0756,Consumer,United States,Medium,1,31724.74
+CUST10756,Customer 0757,Consumer,United States,Medium,0,3097.78
+CUST10757,Customer 0758,Small Business,United States,Low,0,40556.17
+CUST10758,Customer 0759,Small Business,United States,Low,0,18633.13
+CUST10759,Customer 0760,Consumer,Russia,High,0,4809.29
+CUST10760,Customer 0761,Small Business,United States,Medium,0,6585.5
+CUST10761,Customer 0762,Consumer,United States,Low,0,6518.68
+CUST10762,Customer 0763,Consumer,United States,Low,0,18458.46
+CUST10763,Customer 0764,Commercial,United States,Medium,0,4592.23
+CUST10764,Customer 0765,Commercial,United States,Low,0,22496.65
+CUST10765,Customer 0766,Consumer,India,Medium,0,3750.92
+CUST10766,Customer 0767,Small Business,Turkey,Low,0,4214.37
+CUST10767,Customer 0768,Consumer,United States,Low,0,8284.56
+CUST10768,Customer 0769,Consumer,Russia,Low,0,3388.25
+CUST10769,Customer 0770,Small Business,Turkey,Low,0,18473.12
+CUST10770,Customer 0771,Small Business,United States,High,0,22794.06
+CUST10771,Customer 0772,Consumer,United States,Low,0,9723.2
+CUST10772,Customer 0773,Consumer,United States,Low,0,8093.66
+CUST10773,Customer 0774,Small Business,United States,High,0,10234.2
+CUST10774,Customer 0775,Consumer,Turkey,Low,0,17197.7
+CUST10775,Customer 0776,Consumer,United States,Low,0,1212.85
+CUST10776,Customer 0777,Consumer,United States,Low,0,63046.91
+CUST10777,Customer 0778,Commercial,Turkey,Low,0,17015.15
+CUST10778,Customer 0779,Consumer,United States,Medium,0,7953.32
+CUST10779,Customer 0780,Consumer,China,Medium,0,5234.34
+CUST10780,Customer 0781,Consumer,United States,Low,0,2503.85
+CUST10781,Customer 0782,Consumer,Turkey,Low,0,4320.53
+CUST10782,Customer 0783,Small Business,United States,Low,0,33459.06
+CUST10783,Customer 0784,Commercial,United States,Low,0,1308.76
+CUST10784,Customer 0785,Consumer,Nigeria,Low,0,7963.26
+CUST10785,Customer 0786,Small Business,Mexico,Medium,0,59804.22
+CUST10786,Customer 0787,Consumer,India,High,0,11289.9
+CUST10787,Customer 0788,Consumer,United States,Medium,0,27997.58
+CUST10788,Customer 0789,Small Business,United States,Medium,0,38832.1
+CUST10789,Customer 0790,Small Business,United States,Low,0,16405.41
+CUST10790,Customer 0791,Consumer,United States,Low,0,101058.14
+CUST10791,Customer 0792,Consumer,Mexico,Low,0,6284.06
+CUST10792,Customer 0793,Consumer,United States,Medium,0,12748.11
+CUST10793,Customer 0794,Consumer,Mexico,Medium,1,22687.62
+CUST10794,Customer 0795,Consumer,United States,High,1,5896.09
+CUST10795,Customer 0796,Consumer,China,Medium,0,18482.11
+CUST10796,Customer 0797,Commercial,United States,High,0,22156.27
+CUST10797,Customer 0798,Consumer,United States,Low,0,5887.72
+CUST10798,Customer 0799,Consumer,Turkey,Medium,0,30139.87
+CUST10799,Customer 0800,Consumer,United States,High,0,6536.39
+CUST10800,Customer 0801,Small Business,United States,High,0,5616.82
+CUST10801,Customer 0802,Consumer,United States,High,0,34052.84
+CUST10802,Customer 0803,Consumer,United States,Low,1,2044.35
+CUST10803,Customer 0804,Consumer,Turkey,Low,0,18824.33
+CUST10804,Customer 0805,Commercial,United Kingdom,Medium,0,5201.98
+CUST10805,Customer 0806,Small Business,United Arab Emirates,Medium,0,5206.42
+CUST10806,Customer 0807,Commercial,United States,Low,1,58257.0
+CUST10807,Customer 0808,Consumer,United States,Low,0,35778.91
+CUST10808,Customer 0809,Consumer,United Arab Emirates,High,0,19545.22
+CUST10809,Customer 0810,Consumer,Turkey,Medium,0,7443.37
+CUST10810,Customer 0811,Consumer,United States,Medium,0,44155.56
+CUST10811,Customer 0812,Consumer,Turkey,Medium,0,2483.28
+CUST10812,Customer 0813,Small Business,United States,Medium,0,24223.08
+CUST10813,Customer 0814,Consumer,United Kingdom,Low,0,8309.3
+CUST10814,Customer 0815,Consumer,United States,Low,0,2230.61
+CUST10815,Customer 0816,Consumer,United States,Low,0,15487.41
+CUST10816,Customer 0817,Consumer,United States,Medium,0,6902.91
+CUST10817,Customer 0818,Consumer,United States,Low,0,9240.0
+CUST10818,Customer 0819,Consumer,Canada,Low,0,31214.31
+CUST10819,Customer 0820,Commercial,Mexico,Low,0,54895.83
+CUST10820,Customer 0821,Commercial,India,Low,0,6422.53
+CUST10821,Customer 0822,Consumer,United States,Medium,0,21328.17
+CUST10822,Customer 0823,Consumer,Mexico,Low,0,61530.3
+CUST10823,Customer 0824,Consumer,United States,Low,0,7104.3
+CUST10824,Customer 0825,Small Business,United States,Low,0,15479.27
+CUST10825,Customer 0826,Consumer,United States,Medium,0,14053.83
+CUST10826,Customer 0827,Small Business,United States,Low,0,12492.28
+CUST10827,Customer 0828,Consumer,Canada,Low,0,4391.0
+CUST10828,Customer 0829,Consumer,Turkey,High,0,3037.18
+CUST10829,Customer 0830,Small Business,United States,Low,0,3657.29
+CUST10830,Customer 0831,Consumer,Russia,Low,0,2018.58
+CUST10831,Customer 0832,Small Business,United States,High,0,48773.95
+CUST10832,Customer 0833,Consumer,Mexico,Low,0,7039.92
+CUST10833,Customer 0834,Consumer,Mexico,Medium,0,4796.09
+CUST10834,Customer 0835,Consumer,United States,Low,0,9075.48
+CUST10835,Customer 0836,Consumer,United States,Medium,0,5341.91
+CUST10836,Customer 0837,Consumer,United States,Low,0,14525.98
+CUST10837,Customer 0838,Consumer,Russia,High,0,5405.73
+CUST10838,Customer 0839,Small Business,Canada,Medium,0,10205.39
+CUST10839,Customer 0840,Small Business,Turkey,Low,0,20538.93
+CUST10840,Customer 0841,Commercial,United Arab Emirates,Low,0,7336.55
+CUST10841,Customer 0842,Small Business,United Arab Emirates,Medium,0,10153.26
+CUST10842,Customer 0843,Small Business,United States,High,1,25103.9
+CUST10843,Customer 0844,Small Business,United States,Low,0,621.54
+CUST10844,Customer 0845,Consumer,Nigeria,High,0,2586.37
+CUST10845,Customer 0846,Consumer,United States,Low,0,5773.6
+CUST10846,Customer 0847,Consumer,Russia,High,0,12666.49
+CUST10847,Customer 0848,Consumer,Russia,Low,0,28921.75
+CUST10848,Customer 0849,Consumer,United States,Low,0,12426.51
+CUST10849,Customer 0850,Small Business,China,Low,0,1076.36
+CUST10850,Customer 0851,Small Business,Russia,Medium,0,10454.54
+CUST10851,Customer 0852,Commercial,United States,High,0,3789.0
+CUST10852,Customer 0853,Small Business,India,Low,0,6908.53
+CUST10853,Customer 0854,Small Business,United Kingdom,Low,0,11586.22
+CUST10854,Customer 0855,Consumer,United States,Low,0,10772.61
+CUST10855,Customer 0856,Consumer,United Arab Emirates,Low,0,12269.93
+CUST10856,Customer 0857,Commercial,United States,Low,0,4722.6
+CUST10857,Customer 0858,Small Business,United States,Medium,0,26226.51
+CUST10858,Customer 0859,Consumer,United States,Low,0,13134.63
+CUST10859,Customer 0860,Consumer,United States,Low,0,21960.97
+CUST10860,Customer 0861,Consumer,Russia,Low,0,8929.73
+CUST10861,Customer 0862,Consumer,United States,Medium,0,7538.61
+CUST10862,Customer 0863,Consumer,India,Low,0,12912.42
+CUST10863,Customer 0864,Commercial,United States,Low,0,12611.88
+CUST10864,Customer 0865,Consumer,United States,High,0,29971.38
+CUST10865,Customer 0866,Consumer,United States,Low,0,4038.74
+CUST10866,Customer 0867,Consumer,Turkey,Low,0,8564.6
+CUST10867,Customer 0868,Consumer,Russia,Medium,0,2572.27
+CUST10868,Customer 0869,Commercial,United States,High,0,72545.9
+CUST10869,Customer 0870,Consumer,United States,Low,0,5861.01
+CUST10870,Customer 0871,Small Business,Canada,Medium,0,22671.62
+CUST10871,Customer 0872,Consumer,United States,Low,0,23460.72
+CUST10872,Customer 0873,Small Business,Mexico,Low,0,10648.89
+CUST10873,Customer 0874,Consumer,Turkey,Medium,0,1083.43
+CUST10874,Customer 0875,Small Business,United States,Medium,0,49341.85
+CUST10875,Customer 0876,Small Business,United States,Low,0,91403.25
+CUST10876,Customer 0877,Consumer,United Arab Emirates,Low,0,13129.2
+CUST10877,Customer 0878,Consumer,United States,Low,0,8542.34
+CUST10878,Customer 0879,Consumer,India,Medium,0,3778.6
+CUST10879,Customer 0880,Consumer,United States,Medium,0,3456.56
+CUST10880,Customer 0881,Consumer,Nigeria,Low,0,4012.6
+CUST10881,Customer 0882,Consumer,United States,Low,0,4844.93
+CUST10882,Customer 0883,Commercial,Turkey,Low,0,14880.21
+CUST10883,Customer 0884,Small Business,United States,Medium,0,5208.9
+CUST10884,Customer 0885,Consumer,Russia,Medium,0,54865.73
+CUST10885,Customer 0886,Small Business,United States,Low,0,3469.55
+CUST10886,Customer 0887,Consumer,United Kingdom,High,0,11820.72
+CUST10887,Customer 0888,Consumer,Russia,Medium,0,5376.74
+CUST10888,Customer 0889,Consumer,United States,Medium,0,16755.09
+CUST10889,Customer 0890,Small Business,United States,Medium,0,12266.32
+CUST10890,Customer 0891,Small Business,India,Low,0,33362.99
+CUST10891,Customer 0892,Consumer,Nigeria,Low,0,15151.85
+CUST10892,Customer 0893,Consumer,India,Medium,0,2863.18
+CUST10893,Customer 0894,Small Business,Russia,Low,0,10482.31
+CUST10894,Customer 0895,Consumer,United States,Low,0,12208.89
+CUST10895,Customer 0896,Commercial,India,Medium,0,3472.46
+CUST10896,Customer 0897,Consumer,Canada,Low,0,14039.03
+CUST10897,Customer 0898,Consumer,Mexico,Medium,0,54721.63
+CUST10898,Customer 0899,Small Business,Canada,High,0,4047.28
+CUST10899,Customer 0900,Consumer,United States,Low,0,10869.63
+CUST10900,Customer 0901,Small Business,United States,Low,0,18565.05
+CUST10901,Customer 0902,Consumer,United States,Medium,0,69034.83
+CUST10902,Customer 0903,Commercial,United States,Low,0,8182.95
+CUST10903,Customer 0904,Small Business,United States,Low,0,20183.05
+CUST10904,Customer 0905,Commercial,United States,Medium,0,2860.32
+CUST10905,Customer 0906,Consumer,Turkey,Low,0,484.46
+CUST10906,Customer 0907,Consumer,United States,Low,0,13239.75
+CUST10907,Customer 0908,Consumer,Turkey,Low,0,7793.76
+CUST10908,Customer 0909,Small Business,United Arab Emirates,Low,0,7119.82
+CUST10909,Customer 0910,Small Business,United States,Low,0,220411.27
+CUST10910,Customer 0911,Small Business,United States,Low,0,7806.65
+CUST10911,Customer 0912,Commercial,United States,Medium,0,12375.86
+CUST10912,Customer 0913,Consumer,Mexico,Low,0,29044.48
+CUST10913,Customer 0914,Consumer,United States,High,0,12275.1
+CUST10914,Customer 0915,Commercial,United States,Low,0,17981.72
+CUST10915,Customer 0916,Consumer,China,Low,0,5285.36
+CUST10916,Customer 0917,Consumer,United States,Low,0,21928.24
+CUST10917,Customer 0918,Small Business,United States,Low,0,8917.15
+CUST10918,Customer 0919,Consumer,Mexico,Medium,0,3703.12
+CUST10919,Customer 0920,Consumer,United States,Medium,0,20074.8
+CUST10920,Customer 0921,Consumer,United Kingdom,Medium,0,5269.14
+CUST10921,Customer 0922,Consumer,India,Medium,1,22274.24
+CUST10922,Customer 0923,Commercial,United Arab Emirates,High,0,8885.2
+CUST10923,Customer 0924,Consumer,United States,Low,0,8462.81
+CUST10924,Customer 0925,Consumer,United Arab Emirates,Medium,0,12869.59
+CUST10925,Customer 0926,Consumer,United States,Medium,0,32473.65
+CUST10926,Customer 0927,Small Business,United States,Low,0,2323.85
+CUST10927,Customer 0928,Small Business,India,Low,0,3059.74
+CUST10928,Customer 0929,Small Business,Turkey,Low,0,5821.72
+CUST10929,Customer 0930,Consumer,India,Medium,0,3902.66
+CUST10930,Customer 0931,Small Business,United States,Medium,0,3821.12
+CUST10931,Customer 0932,Consumer,Nigeria,Low,0,10961.45
+CUST10932,Customer 0933,Consumer,United States,Low,0,5244.75
+CUST10933,Customer 0934,Small Business,China,Low,0,17570.75
+CUST10934,Customer 0935,Small Business,United States,Medium,0,4017.96
+CUST10935,Customer 0936,Consumer,United States,Low,0,26695.4
+CUST10936,Customer 0937,Consumer,United States,Medium,0,18633.41
+CUST10937,Customer 0938,Small Business,United States,Low,0,2701.93
+CUST10938,Customer 0939,Small Business,Turkey,Low,0,2849.27
+CUST10939,Customer 0940,Commercial,United States,Medium,0,8852.39
+CUST10940,Customer 0941,Small Business,United States,Medium,0,6582.5
+CUST10941,Customer 0942,Consumer,China,High,0,37490.68
+CUST10942,Customer 0943,Small Business,United States,Low,0,11095.42
+CUST10943,Customer 0944,Small Business,United Arab Emirates,Low,0,3955.22
+CUST10944,Customer 0945,Small Business,United States,Low,0,12733.02
+CUST10945,Customer 0946,Consumer,Russia,Low,0,5995.87
+CUST10946,Customer 0947,Small Business,Canada,Low,1,4060.41
+CUST10947,Customer 0948,Small Business,United Kingdom,Low,0,15528.68
+CUST10948,Customer 0949,Consumer,United States,Medium,0,101504.19
+CUST10949,Customer 0950,Consumer,India,High,0,2799.35
+CUST10950,Customer 0951,Consumer,Turkey,Low,1,6668.51
+CUST10951,Customer 0952,Consumer,Nigeria,Low,0,35429.89
+CUST10952,Customer 0953,Small Business,United States,Medium,0,4971.38
+CUST10953,Customer 0954,Small Business,Mexico,Low,0,3284.91
+CUST10954,Customer 0955,Consumer,United States,High,0,26357.28
+CUST10955,Customer 0956,Consumer,United States,Low,0,12066.54
+CUST10956,Customer 0957,Small Business,Turkey,Low,0,7176.52
+CUST10957,Customer 0958,Consumer,United Kingdom,Medium,0,10788.57
+CUST10958,Customer 0959,Consumer,United States,Low,0,25960.4
+CUST10959,Customer 0960,Small Business,United States,High,0,25668.3
+CUST10960,Customer 0961,Small Business,Russia,High,0,10100.88
+CUST10961,Customer 0962,Small Business,United Arab Emirates,Medium,0,27485.08
+CUST10962,Customer 0963,Consumer,United Arab Emirates,Low,0,12436.7
+CUST10963,Customer 0964,Commercial,China,Low,0,3147.43
+CUST10964,Customer 0965,Commercial,United States,Low,0,5932.61
+CUST10965,Customer 0966,Consumer,United States,Low,0,7483.7
+CUST10966,Customer 0967,Commercial,United States,Low,0,31395.38
+CUST10967,Customer 0968,Small Business,Nigeria,Medium,0,8831.01
+CUST10968,Customer 0969,Consumer,Mexico,Medium,0,9615.94
+CUST10969,Customer 0970,Small Business,Nigeria,Low,0,29612.2
+CUST10970,Customer 0971,Small Business,United States,Low,0,5345.92
+CUST10971,Customer 0972,Small Business,United Kingdom,Low,0,9737.13
+CUST10972,Customer 0973,Small Business,United States,Low,0,6823.6
+CUST10973,Customer 0974,Consumer,United States,Medium,0,13178.12
+CUST10974,Customer 0975,Consumer,China,Medium,0,178603.72
+CUST10975,Customer 0976,Consumer,United States,Low,0,9259.76
+CUST10976,Customer 0977,Small Business,Nigeria,High,1,15264.87
+CUST10977,Customer 0978,Consumer,United States,Medium,0,5769.25
+CUST10978,Customer 0979,Small Business,Mexico,Medium,0,4802.1
+CUST10979,Customer 0980,Consumer,India,Medium,0,8540.77
+CUST10980,Customer 0981,Consumer,Nigeria,Medium,0,10325.28
+CUST10981,Customer 0982,Small Business,United Arab Emirates,Low,0,10546.06
+CUST10982,Customer 0983,Consumer,Canada,Medium,0,861.58
+CUST10983,Customer 0984,Small Business,United States,Medium,0,5166.11
+CUST10984,Customer 0985,Consumer,Canada,Low,0,5931.19
+CUST10985,Customer 0986,Small Business,United States,Medium,0,14581.83
+CUST10986,Customer 0987,Consumer,China,Low,0,10377.49
+CUST10987,Customer 0988,Small Business,United States,Low,0,18646.99
+CUST10988,Customer 0989,Consumer,United States,Low,0,16478.48
+CUST10989,Customer 0990,Commercial,Nigeria,Low,0,6370.39
+CUST10990,Customer 0991,Consumer,United States,Medium,0,26734.82
+CUST10991,Customer 0992,Commercial,India,Medium,1,8673.88
+CUST10992,Customer 0993,Consumer,United States,Low,0,3875.34
+CUST10993,Customer 0994,Small Business,Russia,Low,0,4027.22
+CUST10994,Customer 0995,Consumer,United States,Low,0,5011.2
+CUST10995,Customer 0996,Consumer,United States,Low,0,14258.71
+CUST10996,Customer 0997,Commercial,United States,Low,0,3051.3
+CUST10997,Customer 0998,Consumer,United States,Low,0,29620.65
+CUST10998,Customer 0999,Commercial,United States,Low,0,30644.83
+CUST10999,Customer 1000,Consumer,United States,Low,0,5832.31
+CUST11000,Customer 1001,Consumer,United States,Low,0,2394.92
+CUST11001,Customer 1002,Consumer,Nigeria,Low,0,7402.57
+CUST11002,Customer 1003,Commercial,Russia,Low,0,12010.48
+CUST11003,Customer 1004,Consumer,Mexico,Low,0,6222.65
+CUST11004,Customer 1005,Small Business,China,Low,0,47862.94
+CUST11005,Customer 1006,Consumer,United Kingdom,Low,0,3740.56
+CUST11006,Customer 1007,Small Business,Turkey,Low,0,3791.84
+CUST11007,Customer 1008,Consumer,United Arab Emirates,Medium,0,32266.25
+CUST11008,Customer 1009,Small Business,United Arab Emirates,High,0,4029.23
+CUST11009,Customer 1010,Consumer,Nigeria,Medium,0,5247.02
+CUST11010,Customer 1011,Consumer,United States,Low,0,4707.58
+CUST11011,Customer 1012,Consumer,India,Low,0,5682.9
+CUST11012,Customer 1013,Consumer,Mexico,Medium,0,4102.67
+CUST11013,Customer 1014,Consumer,United Kingdom,Low,0,42073.84
+CUST11014,Customer 1015,Small Business,Nigeria,Medium,0,28823.73
+CUST11015,Customer 1016,Consumer,United States,Medium,0,3758.84
+CUST11016,Customer 1017,Small Business,India,High,0,3627.12
+CUST11017,Customer 1018,Small Business,United Kingdom,Low,0,18620.19
+CUST11018,Customer 1019,Small Business,Canada,Low,0,3772.47
+CUST11019,Customer 1020,Commercial,United States,High,0,3352.97
+CUST11020,Customer 1021,Consumer,United Arab Emirates,Medium,0,4995.85
+CUST11021,Customer 1022,Consumer,United Arab Emirates,High,0,9905.45
+CUST11022,Customer 1023,Small Business,United Arab Emirates,Low,0,8967.74
+CUST11023,Customer 1024,Consumer,China,Low,0,10189.45
+CUST11024,Customer 1025,Consumer,United States,Low,0,11705.87
+CUST11025,Customer 1026,Consumer,Mexico,Low,0,3547.22
+CUST11026,Customer 1027,Commercial,United Arab Emirates,Low,0,8516.74
+CUST11027,Customer 1028,Consumer,United Kingdom,Low,0,10541.03
+CUST11028,Customer 1029,Consumer,United States,Medium,0,44528.82
+CUST11029,Customer 1030,Commercial,United States,Low,0,1067.95
+CUST11030,Customer 1031,Consumer,United Arab Emirates,Low,0,13744.04
+CUST11031,Customer 1032,Consumer,United States,Medium,0,2878.56
+CUST11032,Customer 1033,Small Business,Nigeria,Low,0,34465.04
+CUST11033,Customer 1034,Small Business,Russia,Low,0,9058.9
+CUST11034,Customer 1035,Commercial,Canada,Low,0,9552.49
+CUST11035,Customer 1036,Consumer,United States,Medium,0,5566.16
+CUST11036,Customer 1037,Consumer,United States,Low,0,15711.97
+CUST11037,Customer 1038,Consumer,United States,High,0,12216.51
+CUST11038,Customer 1039,Consumer,Canada,Low,0,7127.62
+CUST11039,Customer 1040,Consumer,China,Low,0,11783.39
+CUST11040,Customer 1041,Consumer,United States,Low,0,5590.89
+CUST11041,Customer 1042,Small Business,India,High,0,20674.67
+CUST11042,Customer 1043,Small Business,United States,Low,0,10774.54
+CUST11043,Customer 1044,Consumer,United Kingdom,Medium,0,10355.26
+CUST11044,Customer 1045,Consumer,United Arab Emirates,High,0,33589.98
+CUST11045,Customer 1046,Consumer,United States,Low,0,14006.46
+CUST11046,Customer 1047,Consumer,United States,Medium,0,17451.8
+CUST11047,Customer 1048,Consumer,Mexico,Low,0,40778.42
+CUST11048,Customer 1049,Consumer,United States,Low,0,5036.88
+CUST11049,Customer 1050,Commercial,United States,Low,0,9207.67
+CUST11050,Customer 1051,Commercial,Canada,Medium,1,12612.53
+CUST11051,Customer 1052,Commercial,United Arab Emirates,High,0,5738.66
+CUST11052,Customer 1053,Consumer,Turkey,Low,0,29204.93
+CUST11053,Customer 1054,Consumer,Turkey,High,0,5393.76
+CUST11054,Customer 1055,Consumer,China,Medium,0,5093.87
+CUST11055,Customer 1056,Small Business,United Kingdom,Medium,0,11483.46
+CUST11056,Customer 1057,Consumer,United Kingdom,Low,0,26028.41
+CUST11057,Customer 1058,Consumer,United States,Low,0,7339.7
+CUST11058,Customer 1059,Consumer,United States,Low,0,6015.69
+CUST11059,Customer 1060,Consumer,United States,Medium,0,7205.87
+CUST11060,Customer 1061,Consumer,United States,Low,0,1575.84
+CUST11061,Customer 1062,Small Business,United Arab Emirates,Medium,0,3620.44
+CUST11062,Customer 1063,Consumer,Canada,Medium,0,21608.08
+CUST11063,Customer 1064,Commercial,Canada,Low,0,22122.56
+CUST11064,Customer 1065,Consumer,Turkey,Low,0,6890.12
+CUST11065,Customer 1066,Consumer,Turkey,High,0,36574.15
+CUST11066,Customer 1067,Consumer,United States,Medium,0,22706.12
+CUST11067,Customer 1068,Consumer,Mexico,Low,0,14117.26
+CUST11068,Customer 1069,Consumer,Nigeria,Medium,0,30863.81
+CUST11069,Customer 1070,Commercial,United States,Low,0,23255.97
+CUST11070,Customer 1071,Consumer,United Arab Emirates,Low,0,1197.63
+CUST11071,Customer 1072,Small Business,United States,Low,0,1904.76
+CUST11072,Customer 1073,Consumer,India,Medium,0,1710.55
+CUST11073,Customer 1074,Small Business,India,Medium,0,12775.78
+CUST11074,Customer 1075,Consumer,United States,Medium,0,18626.18
+CUST11075,Customer 1076,Commercial,United States,High,0,1482.1
+CUST11076,Customer 1077,Consumer,United States,Low,0,5277.62
+CUST11077,Customer 1078,Consumer,United States,Low,0,5444.68
+CUST11078,Customer 1079,Commercial,China,Low,1,24327.72
+CUST11079,Customer 1080,Commercial,United States,Low,0,3841.27
+CUST11080,Customer 1081,Consumer,Mexico,Low,0,2794.08
+CUST11081,Customer 1082,Consumer,Turkey,Medium,0,11941.76
+CUST11082,Customer 1083,Consumer,Nigeria,Low,0,18304.27
+CUST11083,Customer 1084,Consumer,United States,Low,0,11953.16
+CUST11084,Customer 1085,Small Business,United States,Medium,0,16543.63
+CUST11085,Customer 1086,Small Business,Turkey,Low,0,12799.84
+CUST11086,Customer 1087,Consumer,United States,High,0,17557.08
+CUST11087,Customer 1088,Small Business,United States,Low,1,15766.02
+CUST11088,Customer 1089,Small Business,United Kingdom,Medium,0,8420.66
+CUST11089,Customer 1090,Consumer,United States,Low,0,3163.08
+CUST11090,Customer 1091,Small Business,India,Low,0,1673.74
+CUST11091,Customer 1092,Consumer,United Kingdom,Medium,0,2572.64
+CUST11092,Customer 1093,Small Business,Mexico,Low,0,3549.05
+CUST11093,Customer 1094,Small Business,Russia,Medium,0,6945.84
+CUST11094,Customer 1095,Small Business,Canada,Medium,0,17548.18
+CUST11095,Customer 1096,Consumer,Russia,Low,1,8982.55
+CUST11096,Customer 1097,Small Business,United States,Low,0,3345.22
+CUST11097,Customer 1098,Consumer,United States,Medium,0,18458.51
+CUST11098,Customer 1099,Consumer,United States,Low,1,5348.41
+CUST11099,Customer 1100,Consumer,China,Medium,1,34839.46
+CUST11100,Customer 1101,Commercial,United States,Low,0,14483.14
+CUST11101,Customer 1102,Consumer,United States,Low,0,2141.73
+CUST11102,Customer 1103,Consumer,China,Medium,0,8660.19
+CUST11103,Customer 1104,Consumer,United States,Low,0,12063.19
+CUST11104,Customer 1105,Consumer,United States,Medium,0,16230.36
+CUST11105,Customer 1106,Consumer,United States,Medium,0,2671.88
+CUST11106,Customer 1107,Small Business,United Arab Emirates,Medium,0,6102.43
+CUST11107,Customer 1108,Small Business,United States,Low,0,94440.76
+CUST11108,Customer 1109,Small Business,United States,Low,0,5626.44
+CUST11109,Customer 1110,Consumer,United States,Low,0,17039.54
+CUST11110,Customer 1111,Consumer,United States,Low,0,4795.34
+CUST11111,Customer 1112,Commercial,United States,High,0,1375.83
+CUST11112,Customer 1113,Consumer,Nigeria,Low,0,28413.88
+CUST11113,Customer 1114,Consumer,China,Low,0,6474.37
+CUST11114,Customer 1115,Small Business,Canada,Low,0,139630.35
+CUST11115,Customer 1116,Small Business,United States,Low,0,34989.84
+CUST11116,Customer 1117,Consumer,United Arab Emirates,Medium,0,11397.45
+CUST11117,Customer 1118,Consumer,Canada,Low,0,10543.71
+CUST11118,Customer 1119,Commercial,Nigeria,High,0,35884.77
+CUST11119,Customer 1120,Consumer,China,Low,0,15531.49
+CUST11120,Customer 1121,Small Business,United States,High,0,4704.03
+CUST11121,Customer 1122,Small Business,United States,High,0,27169.6
+CUST11122,Customer 1123,Small Business,Turkey,Low,0,14503.2
+CUST11123,Customer 1124,Consumer,United States,High,0,2778.38
+CUST11124,Customer 1125,Consumer,United Kingdom,Low,0,9956.05
+CUST11125,Customer 1126,Small Business,United States,Low,0,4820.94
+CUST11126,Customer 1127,Small Business,United Kingdom,Medium,0,11237.82
+CUST11127,Customer 1128,Consumer,United States,Medium,0,44616.15
+CUST11128,Customer 1129,Consumer,United States,Low,0,21645.45
+CUST11129,Customer 1130,Consumer,China,Medium,0,23260.13
+CUST11130,Customer 1131,Small Business,China,Medium,0,7503.18
+CUST11131,Customer 1132,Small Business,United States,Medium,0,6841.82
+CUST11132,Customer 1133,Consumer,Nigeria,Low,0,27330.36
+CUST11133,Customer 1134,Small Business,Mexico,Low,0,7874.44
+CUST11134,Customer 1135,Small Business,Canada,High,0,53709.2
+CUST11135,Customer 1136,Consumer,United States,Low,0,23009.36
+CUST11136,Customer 1137,Consumer,United Kingdom,Medium,1,19907.23
+CUST11137,Customer 1138,Small Business,United States,Medium,0,11609.67
+CUST11138,Customer 1139,Consumer,Canada,Low,0,4192.61
+CUST11139,Customer 1140,Small Business,Turkey,Medium,0,1731.24
+CUST11140,Customer 1141,Consumer,United States,Low,0,4951.5
+CUST11141,Customer 1142,Consumer,India,Low,0,8640.71
+CUST11142,Customer 1143,Consumer,United States,Medium,0,18421.83
+CUST11143,Customer 1144,Consumer,United States,Low,0,2261.1
+CUST11144,Customer 1145,Consumer,Canada,Medium,0,4917.45
+CUST11145,Customer 1146,Consumer,United States,Low,0,5392.26
+CUST11146,Customer 1147,Consumer,United States,High,0,29729.63
+CUST11147,Customer 1148,Consumer,United States,Low,0,1962.45
+CUST11148,Customer 1149,Consumer,Canada,Medium,0,43657.79
+CUST11149,Customer 1150,Consumer,Canada,High,0,3541.52
+CUST11150,Customer 1151,Consumer,Turkey,Low,0,24355.2
+CUST11151,Customer 1152,Consumer,United States,Low,0,15327.04
+CUST11152,Customer 1153,Consumer,Nigeria,Medium,0,11027.06
+CUST11153,Customer 1154,Small Business,Nigeria,Medium,0,8505.05
+CUST11154,Customer 1155,Consumer,United Kingdom,Low,0,11601.3
+CUST11155,Customer 1156,Consumer,Nigeria,Medium,0,4657.59
+CUST11156,Customer 1157,Consumer,China,Low,0,26489.88
+CUST11157,Customer 1158,Small Business,Canada,Low,0,13323.53
+CUST11158,Customer 1159,Consumer,United Kingdom,Medium,0,39183.54
+CUST11159,Customer 1160,Consumer,Nigeria,Low,0,5566.59
+CUST11160,Customer 1161,Commercial,China,Low,0,3206.34
+CUST11161,Customer 1162,Consumer,United States,Low,0,2822.0
+CUST11162,Customer 1163,Consumer,Mexico,Low,0,65186.82
+CUST11163,Customer 1164,Consumer,Mexico,Low,0,4148.09
+CUST11164,Customer 1165,Consumer,United Arab Emirates,Medium,1,7339.94
+CUST11165,Customer 1166,Commercial,Nigeria,Low,0,7193.32
+CUST11166,Customer 1167,Small Business,United States,Medium,0,5978.19
+CUST11167,Customer 1168,Consumer,United Arab Emirates,Low,0,3680.77
+CUST11168,Customer 1169,Consumer,United States,Low,0,33468.31
+CUST11169,Customer 1170,Commercial,United States,Medium,0,6111.84
+CUST11170,Customer 1171,Consumer,Mexico,Low,0,15487.35
+CUST11171,Customer 1172,Small Business,United States,Low,1,3235.49
+CUST11172,Customer 1173,Commercial,United Arab Emirates,Medium,0,11261.45
+CUST11173,Customer 1174,Consumer,United States,Low,0,4402.85
+CUST11174,Customer 1175,Commercial,United States,Low,0,10435.23
+CUST11175,Customer 1176,Consumer,United States,Low,0,6583.85
+CUST11176,Customer 1177,Small Business,India,Low,0,4812.71
+CUST11177,Customer 1178,Consumer,Nigeria,Low,0,15350.42
+CUST11178,Customer 1179,Small Business,China,Medium,0,11454.84
+CUST11179,Customer 1180,Consumer,United States,Medium,0,19323.32
+CUST11180,Customer 1181,Commercial,United States,Low,0,21607.24
+CUST11181,Customer 1182,Consumer,Turkey,Low,0,3699.17
+CUST11182,Customer 1183,Commercial,United States,Low,0,10900.3
+CUST11183,Customer 1184,Consumer,United States,Medium,0,12611.01
+CUST11184,Customer 1185,Small Business,Turkey,Low,0,4487.22
+CUST11185,Customer 1186,Consumer,United States,Medium,0,29550.69
+CUST11186,Customer 1187,Consumer,United States,Low,0,1850.8
+CUST11187,Customer 1188,Consumer,United States,Medium,0,6060.07
+CUST11188,Customer 1189,Small Business,Nigeria,High,0,3922.02
+CUST11189,Customer 1190,Commercial,Turkey,Low,0,13025.93
+CUST11190,Customer 1191,Small Business,Canada,Low,0,5069.79
+CUST11191,Customer 1192,Consumer,United States,Low,0,10272.35
+CUST11192,Customer 1193,Consumer,Mexico,Low,0,13886.82
+CUST11193,Customer 1194,Consumer,Nigeria,Low,0,25373.32
+CUST11194,Customer 1195,Consumer,United States,High,0,3079.22
+CUST11195,Customer 1196,Commercial,United States,Medium,0,3383.5
+CUST11196,Customer 1197,Consumer,Nigeria,Low,0,10318.04
+CUST11197,Customer 1198,Commercial,United States,Low,0,5196.48
+CUST11198,Customer 1199,Small Business,United States,Low,0,14943.07
+CUST11199,Customer 1200,Small Business,United States,High,1,22632.23

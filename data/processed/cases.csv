@@ -1,0 +1,421 @@
+case_id,alert_id,customer_id,risk_category,case_risk_score,case_age_days,case_status,investigation_outcome
+CASE0001,FCA00736,CUST10449,Transaction Monitoring,40.0,12,In Review,Further Investigation
+CASE0002,FCA00304,CUST10305,Transaction Monitoring,100.0,35,Escalated,SAR Filed
+CASE0003,FCA01597,CUST10728,Transaction Monitoring,46.0,24,Escalated,Closed - No SAR
+CASE0004,FCA01520,CUST10494,Fraud,91.0,2,Closed,SAR Filed
+CASE0005,FCA00407,CUST10329,Transaction Monitoring,86.0,33,Open,SAR Filed
+CASE0006,FCA00210,CUST10888,Transaction Monitoring,74.0,5,Open,Escalated for SAR Review
+CASE0007,FCA01451,CUST10879,KYC/EDD,76.0,6,Open,Escalated for SAR Review
+CASE0008,FCA00560,CUST10789,Transaction Monitoring,89.0,6,In Review,SAR Filed
+CASE0009,FCA01713,CUST10702,Sanctions,100.0,25,In Review,SAR Filed
+CASE0010,FCA01075,CUST11093,Transaction Monitoring,97.0,17,Open,SAR Filed
+CASE0011,FCA00579,CUST10414,Transaction Monitoring,87.0,8,Escalated,SAR Filed
+CASE0012,FCA01085,CUST10571,Fraud,59.0,9,Open,Further Investigation
+CASE0013,FCA00234,CUST10787,Sanctions,62.0,30,In Review,Further Investigation
+CASE0014,FCA00752,CUST10342,Sanctions,56.0,39,Open,Further Investigation
+CASE0015,FCA00282,CUST10078,Transaction Monitoring,75.0,29,Open,Escalated for SAR Review
+CASE0016,FCA00269,CUST10535,Sanctions,43.0,8,Closed,Closed - No SAR
+CASE0017,FCA01092,CUST10805,Sanctions,85.0,9,In Review,SAR Filed
+CASE0018,FCA00385,CUST10634,Sanctions,74.0,38,Closed,Escalated for SAR Review
+CASE0019,FCA00373,CUST10708,Transaction Monitoring,68.0,36,In Review,Escalated for SAR Review
+CASE0020,FCA00911,CUST10650,Transaction Monitoring,78.0,34,Closed,Escalated for SAR Review
+CASE0021,FCA00344,CUST10352,KYC/EDD,86.0,36,Open,SAR Filed
+CASE0022,FCA00720,CUST10349,Transaction Monitoring,72.0,25,Escalated,Escalated for SAR Review
+CASE0023,FCA01344,CUST10925,Transaction Monitoring,69.0,23,In Review,Escalated for SAR Review
+CASE0024,FCA00047,CUST10565,Transaction Monitoring,87.0,20,Closed,SAR Filed
+CASE0025,FCA01228,CUST10992,Fraud,52.0,22,Closed,Closed - No SAR
+CASE0026,FCA01353,CUST11012,KYC/EDD,61.0,28,Closed,Closed - No SAR
+CASE0027,FCA01428,CUST10790,KYC/EDD,39.0,32,In Review,Further Investigation
+CASE0028,FCA01333,CUST10998,KYC/EDD,69.0,27,In Review,Escalated for SAR Review
+CASE0029,FCA00655,CUST10317,Fraud,85.0,9,Open,SAR Filed
+CASE0030,FCA01279,CUST10478,Transaction Monitoring,71.0,40,In Review,Escalated for SAR Review
+CASE0031,FCA01545,CUST10822,Transaction Monitoring,67.0,9,Closed,Closed - No SAR
+CASE0032,FCA01277,CUST10866,Transaction Monitoring,83.0,21,Open,SAR Filed
+CASE0033,FCA00940,CUST10257,Fraud,88.0,18,Closed,SAR Filed
+CASE0034,FCA00051,CUST10485,Transaction Monitoring,37.0,36,Closed,Closed - No SAR
+CASE0035,FCA01372,CUST10651,Transaction Monitoring,49.0,28,Escalated,Closed - No SAR
+CASE0036,FCA01716,CUST10017,Transaction Monitoring,63.0,22,Closed,Closed - No SAR
+CASE0037,FCA00113,CUST10905,Sanctions,56.0,28,Escalated,Closed - No SAR
+CASE0038,FCA01410,CUST11177,Fraud,86.0,3,Open,SAR Filed
+CASE0039,FCA01063,CUST10273,Transaction Monitoring,68.0,30,Escalated,Escalated for SAR Review
+CASE0040,FCA00187,CUST10879,Fraud,100.0,33,Closed,SAR Filed
+CASE0041,FCA01345,CUST10176,Fraud,70.0,30,Escalated,Escalated for SAR Review
+CASE0042,FCA00236,CUST10646,Transaction Monitoring,96.0,38,Open,SAR Filed
+CASE0043,FCA00157,CUST10902,Fraud,66.0,2,In Review,Further Investigation
+CASE0044,FCA00760,CUST10470,Transaction Monitoring,45.0,23,Closed,Closed - No SAR
+CASE0045,FCA00780,CUST10958,KYC/EDD,88.0,37,In Review,SAR Filed
+CASE0046,FCA00033,CUST11152,Fraud,81.0,31,Open,Escalated for SAR Review
+CASE0047,FCA01798,CUST10554,KYC/EDD,94.0,22,Escalated,SAR Filed
+CASE0048,FCA01054,CUST10978,Fraud,97.0,34,Escalated,SAR Filed
+CASE0049,FCA01497,CUST11119,KYC/EDD,84.0,5,In Review,SAR Filed
+CASE0050,FCA00049,CUST11069,Transaction Monitoring,63.0,22,Closed,Closed - No SAR
+CASE0051,FCA01430,CUST10949,Transaction Monitoring,71.0,38,Escalated,Escalated for SAR Review
+CASE0052,FCA00217,CUST11132,KYC/EDD,54.0,24,Closed,Closed - No SAR
+CASE0053,FCA00018,CUST10914,Transaction Monitoring,54.0,27,Closed,Closed - No SAR
+CASE0054,FCA01498,CUST10928,Transaction Monitoring,65.0,8,In Review,Further Investigation
+CASE0055,FCA00206,CUST10664,Transaction Monitoring,94.0,7,In Review,SAR Filed
+CASE0056,FCA01440,CUST10677,Fraud,70.0,13,Escalated,Escalated for SAR Review
+CASE0057,FCA01129,CUST10661,Transaction Monitoring,72.0,22,Closed,Escalated for SAR Review
+CASE0058,FCA01334,CUST10851,Fraud,63.0,13,Open,Further Investigation
+CASE0059,FCA01099,CUST10431,Sanctions,67.0,9,Open,Further Investigation
+CASE0060,FCA00338,CUST10272,Transaction Monitoring,37.0,32,Closed,Closed - No SAR
+CASE0061,FCA01745,CUST10252,KYC/EDD,54.0,9,Open,Further Investigation
+CASE0062,FCA00618,CUST10136,Fraud,71.0,10,In Review,Escalated for SAR Review
+CASE0063,FCA00517,CUST10622,Transaction Monitoring,37.0,40,Closed,Closed - No SAR
+CASE0064,FCA01721,CUST10252,Transaction Monitoring,100.0,39,Open,SAR Filed
+CASE0065,FCA01494,CUST10538,Transaction Monitoring,84.0,30,Open,SAR Filed
+CASE0066,FCA00396,CUST10877,Transaction Monitoring,87.0,36,In Review,SAR Filed
+CASE0067,FCA01730,CUST10380,Fraud,100.0,36,In Review,SAR Filed
+CASE0068,FCA01358,CUST10309,Transaction Monitoring,89.0,15,Closed,SAR Filed
+CASE0069,FCA01659,CUST10546,Sanctions,62.0,14,Open,Further Investigation
+CASE0070,FCA01513,CUST10570,Transaction Monitoring,58.0,34,In Review,Further Investigation
+CASE0071,FCA01507,CUST10979,Transaction Monitoring,73.0,26,Closed,Escalated for SAR Review
+CASE0072,FCA00952,CUST10125,Fraud,3.0,12,In Review,Further Investigation
+CASE0073,FCA00447,CUST11039,Fraud,39.0,8,Closed,Closed - No SAR
+CASE0074,FCA01203,CUST10512,Transaction Monitoring,72.0,15,In Review,Escalated for SAR Review
+CASE0075,FCA00945,CUST10706,Transaction Monitoring,77.0,18,Closed,Escalated for SAR Review
+CASE0076,FCA01702,CUST10471,Sanctions,66.0,27,Closed,Closed - No SAR
+CASE0077,FCA00406,CUST11056,KYC/EDD,99.0,38,Open,SAR Filed
+CASE0078,FCA00376,CUST10164,KYC/EDD,70.0,18,In Review,Escalated for SAR Review
+CASE0079,FCA00971,CUST10535,Transaction Monitoring,79.0,23,Closed,Escalated for SAR Review
+CASE0080,FCA00943,CUST10651,Fraud,55.0,16,In Review,Further Investigation
+CASE0081,FCA01275,CUST10371,Fraud,61.0,26,Closed,Closed - No SAR
+CASE0082,FCA01184,CUST10300,KYC/EDD,80.0,29,Escalated,Escalated for SAR Review
+CASE0083,FCA01706,CUST10681,Fraud,59.0,19,Closed,Closed - No SAR
+CASE0084,FCA01268,CUST10798,Transaction Monitoring,77.0,10,In Review,Escalated for SAR Review
+CASE0085,FCA01375,CUST10143,Sanctions,81.0,31,In Review,Escalated for SAR Review
+CASE0086,FCA00019,CUST10617,Transaction Monitoring,69.0,25,In Review,Escalated for SAR Review
+CASE0087,FCA00983,CUST11101,Transaction Monitoring,90.0,25,Open,SAR Filed
+CASE0088,FCA01020,CUST10313,KYC/EDD,68.0,26,Closed,Escalated for SAR Review
+CASE0089,FCA00330,CUST10758,KYC/EDD,82.0,39,In Review,SAR Filed
+CASE0090,FCA00783,CUST10510,Transaction Monitoring,70.0,27,In Review,Escalated for SAR Review
+CASE0091,FCA00378,CUST10198,Transaction Monitoring,82.0,37,In Review,SAR Filed
+CASE0092,FCA01242,CUST10039,Fraud,81.0,11,In Review,Escalated for SAR Review
+CASE0093,FCA00604,CUST10882,Transaction Monitoring,64.0,5,Closed,Closed - No SAR
+CASE0094,FCA00984,CUST10178,KYC/EDD,76.0,2,Open,Escalated for SAR Review
+CASE0095,FCA00491,CUST10674,KYC/EDD,71.0,37,Closed,Escalated for SAR Review
+CASE0096,FCA00663,CUST10945,Transaction Monitoring,96.0,13,Closed,SAR Filed
+CASE0097,FCA00582,CUST11087,Transaction Monitoring,58.0,37,Closed,Closed - No SAR
+CASE0098,FCA01624,CUST10594,KYC/EDD,80.0,10,Closed,Escalated for SAR Review
+CASE0099,FCA00242,CUST10766,KYC/EDD,99.0,30,In Review,SAR Filed
+CASE0100,FCA00455,CUST10993,Fraud,22.0,29,In Review,Further Investigation
+CASE0101,FCA01400,CUST10558,Sanctions,70.0,15,Escalated,Escalated for SAR Review
+CASE0102,FCA01313,CUST10739,Fraud,67.0,14,Closed,Closed - No SAR
+CASE0103,FCA01561,CUST10888,Fraud,77.0,14,Escalated,Escalated for SAR Review
+CASE0104,FCA00464,CUST10947,Transaction Monitoring,75.0,7,In Review,Escalated for SAR Review
+CASE0105,FCA01792,CUST10963,Transaction Monitoring,24.0,29,In Review,Further Investigation
+CASE0106,FCA00888,CUST10292,Fraud,24.0,33,Escalated,Closed - No SAR
+CASE0107,FCA00363,CUST10133,Sanctions,80.0,24,Closed,Escalated for SAR Review
+CASE0108,FCA00611,CUST11068,Transaction Monitoring,93.0,6,In Review,SAR Filed
+CASE0109,FCA00682,CUST10469,Fraud,32.0,29,In Review,Further Investigation
+CASE0110,FCA00869,CUST11184,Sanctions,41.0,35,Closed,Closed - No SAR
+CASE0111,FCA01645,CUST10645,Transaction Monitoring,55.0,15,Closed,Closed - No SAR
+CASE0112,FCA00711,CUST10788,Transaction Monitoring,58.0,36,In Review,Further Investigation
+CASE0113,FCA01530,CUST10253,Transaction Monitoring,68.0,3,Closed,Escalated for SAR Review
+CASE0114,FCA00006,CUST10546,Sanctions,57.0,16,Open,Further Investigation
+CASE0115,FCA01491,CUST10031,Transaction Monitoring,64.0,37,Open,Further Investigation
+CASE0116,FCA00576,CUST10499,KYC/EDD,100.0,9,In Review,SAR Filed
+CASE0117,FCA01585,CUST10444,KYC/EDD,73.0,28,Closed,Escalated for SAR Review
+CASE0118,FCA01232,CUST10735,Sanctions,82.0,25,Escalated,SAR Filed
+CASE0119,FCA01556,CUST10047,Fraud,11.0,14,Closed,Closed - No SAR
+CASE0120,FCA00647,CUST10835,Fraud,78.0,3,In Review,Escalated for SAR Review
+CASE0121,FCA00426,CUST10195,Fraud,84.0,35,In Review,SAR Filed
+CASE0122,FCA00608,CUST10452,Transaction Monitoring,24.0,27,In Review,Further Investigation
+CASE0123,FCA00152,CUST10799,Fraud,85.0,1,Open,SAR Filed
+CASE0124,FCA01454,CUST10477,Transaction Monitoring,33.0,21,Closed,Closed - No SAR
+CASE0125,FCA00730,CUST10225,Sanctions,68.0,28,Closed,Escalated for SAR Review
+CASE0126,FCA01789,CUST11141,Transaction Monitoring,77.0,17,Closed,Escalated for SAR Review
+CASE0127,FCA00418,CUST11137,Fraud,33.0,29,Open,Further Investigation
+CASE0128,FCA00858,CUST10492,Transaction Monitoring,87.0,19,Closed,SAR Filed
+CASE0129,FCA00973,CUST10621,Transaction Monitoring,67.0,16,In Review,Further Investigation
+CASE0130,FCA00892,CUST10004,Sanctions,55.0,39,Closed,Closed - No SAR
+CASE0131,FCA00442,CUST11168,Transaction Monitoring,88.0,14,Open,SAR Filed
+CASE0132,FCA01621,CUST10994,Transaction Monitoring,81.0,17,Escalated,Escalated for SAR Review
+CASE0133,FCA01212,CUST10146,Fraud,80.0,27,Open,Escalated for SAR Review
+CASE0134,FCA00428,CUST10526,Sanctions,68.0,36,In Review,Escalated for SAR Review
+CASE0135,FCA00798,CUST10100,KYC/EDD,88.0,20,Open,SAR Filed
+CASE0136,FCA01297,CUST10565,Sanctions,54.0,26,In Review,Further Investigation
+CASE0137,FCA01027,CUST11118,KYC/EDD,60.0,26,Open,Further Investigation
+CASE0138,FCA01373,CUST10420,Fraud,88.0,18,Open,SAR Filed
+CASE0139,FCA01246,CUST10646,Fraud,68.0,25,In Review,Escalated for SAR Review
+CASE0140,FCA00656,CUST10081,KYC/EDD,73.0,9,Escalated,Escalated for SAR Review
+CASE0141,FCA01504,CUST11002,KYC/EDD,94.0,26,Open,SAR Filed
+CASE0142,FCA00782,CUST10538,Transaction Monitoring,65.0,19,Closed,Closed - No SAR
+CASE0143,FCA01490,CUST10938,Fraud,70.0,26,In Review,Escalated for SAR Review
+CASE0144,FCA01144,CUST11068,Fraud,72.0,13,In Review,Escalated for SAR Review
+CASE0145,FCA00615,CUST10577,Transaction Monitoring,88.0,30,Open,SAR Filed
+CASE0146,FCA00478,CUST10513,Transaction Monitoring,95.0,38,In Review,SAR Filed
+CASE0147,FCA00949,CUST10655,Sanctions,73.0,10,Closed,Escalated for SAR Review
+CASE0148,FCA00452,CUST10602,Transaction Monitoring,61.0,30,In Review,Further Investigation
+CASE0149,FCA01097,CUST10802,Sanctions,58.0,26,Escalated,Closed - No SAR
+CASE0150,FCA01536,CUST11071,Fraud,68.0,18,Closed,Escalated for SAR Review
+CASE0151,FCA00134,CUST10033,Transaction Monitoring,89.0,19,Closed,SAR Filed
+CASE0152,FCA00375,CUST11016,KYC/EDD,68.0,27,Open,Escalated for SAR Review
+CASE0153,FCA01453,CUST10350,Fraud,84.0,4,In Review,SAR Filed
+CASE0154,FCA00852,CUST10119,Fraud,71.0,40,Closed,Escalated for SAR Review
+CASE0155,FCA01389,CUST10031,Fraud,19.0,32,Closed,Closed - No SAR
+CASE0156,FCA01714,CUST10750,KYC/EDD,51.0,30,Escalated,Closed - No SAR
+CASE0157,FCA00039,CUST10454,Fraud,74.0,23,Escalated,Escalated for SAR Review
+CASE0158,FCA01701,CUST11119,Fraud,80.0,16,Open,Escalated for SAR Review
+CASE0159,FCA00787,CUST10534,Fraud,83.0,18,Closed,SAR Filed
+CASE0160,FCA01569,CUST10933,Sanctions,51.0,18,Closed,Closed - No SAR
+CASE0161,FCA01790,CUST10805,Transaction Monitoring,71.0,20,Closed,Escalated for SAR Review
+CASE0162,FCA01301,CUST10960,Transaction Monitoring,100.0,11,Closed,SAR Filed
+CASE0163,FCA01093,CUST11132,KYC/EDD,92.0,22,In Review,SAR Filed
+CASE0164,FCA00131,CUST10155,Sanctions,57.0,33,In Review,Further Investigation
+CASE0165,FCA00170,CUST10694,Transaction Monitoring,62.0,5,Closed,Closed - No SAR
+CASE0166,FCA00003,CUST10455,KYC/EDD,78.0,35,Open,Escalated for SAR Review
+CASE0167,FCA00883,CUST10170,Sanctions,69.0,16,In Review,Escalated for SAR Review
+CASE0168,FCA00285,CUST11010,Fraud,5.0,18,Escalated,Closed - No SAR
+CASE0169,FCA01078,CUST11140,Fraud,82.0,24,In Review,SAR Filed
+CASE0170,FCA00878,CUST10906,Transaction Monitoring,77.0,20,In Review,Escalated for SAR Review
+CASE0171,FCA01150,CUST10663,Transaction Monitoring,71.0,8,In Review,Escalated for SAR Review
+CASE0172,FCA00390,CUST10714,KYC/EDD,73.0,8,Open,Escalated for SAR Review
+CASE0173,FCA01392,CUST10264,Transaction Monitoring,72.0,9,In Review,Escalated for SAR Review
+CASE0174,FCA01025,CUST10519,Transaction Monitoring,75.0,35,In Review,Escalated for SAR Review
+CASE0175,FCA01644,CUST10575,Fraud,60.0,20,Closed,Closed - No SAR
+CASE0176,FCA00176,CUST10787,KYC/EDD,79.0,3,Open,Escalated for SAR Review
+CASE0177,FCA00185,CUST10079,Fraud,73.0,2,Escalated,Escalated for SAR Review
+CASE0178,FCA01069,CUST10407,KYC/EDD,80.0,8,In Review,Escalated for SAR Review
+CASE0179,FCA00840,CUST10326,KYC/EDD,37.0,30,In Review,Further Investigation
+CASE0180,FCA01464,CUST10068,Sanctions,100.0,35,Escalated,SAR Filed
+CASE0181,FCA01583,CUST10006,Transaction Monitoring,69.0,20,Closed,Escalated for SAR Review
+CASE0182,FCA01642,CUST10173,Transaction Monitoring,83.0,12,Closed,SAR Filed
+CASE0183,FCA01414,CUST10957,Fraud,100.0,7,Closed,SAR Filed
+CASE0184,FCA00882,CUST10688,KYC/EDD,96.0,18,Closed,SAR Filed
+CASE0185,FCA00643,CUST10830,Sanctions,72.0,33,Closed,Escalated for SAR Review
+CASE0186,FCA00060,CUST10383,Fraud,17.0,11,Escalated,Closed - No SAR
+CASE0187,FCA01697,CUST10191,Sanctions,65.0,32,Escalated,Closed - No SAR
+CASE0188,FCA01759,CUST10165,Fraud,74.0,19,In Review,Escalated for SAR Review
+CASE0189,FCA01346,CUST10466,Fraud,93.0,4,Open,SAR Filed
+CASE0190,FCA01654,CUST11044,Fraud,74.0,30,Escalated,Escalated for SAR Review
+CASE0191,FCA01100,CUST11135,Transaction Monitoring,61.0,27,In Review,Further Investigation
+CASE0192,FCA01688,CUST10452,Sanctions,82.0,36,Open,SAR Filed
+CASE0193,FCA01679,CUST11142,KYC/EDD,93.0,7,Closed,SAR Filed
+CASE0194,FCA00797,CUST10924,Fraud,87.0,20,Closed,SAR Filed
+CASE0195,FCA01527,CUST10575,Fraud,63.0,27,In Review,Further Investigation
+CASE0196,FCA00095,CUST10440,Transaction Monitoring,74.0,28,Closed,Escalated for SAR Review
+CASE0197,FCA00299,CUST10335,Fraud,92.0,9,In Review,SAR Filed
+CASE0198,FCA00173,CUST11060,Transaction Monitoring,41.0,10,In Review,Further Investigation
+CASE0199,FCA00786,CUST10912,KYC/EDD,67.0,38,Closed,Closed - No SAR
+CASE0200,FCA01181,CUST11064,Transaction Monitoring,75.0,19,In Review,Escalated for SAR Review
+CASE0201,FCA01381,CUST11195,Transaction Monitoring,69.0,24,Escalated,Escalated for SAR Review
+CASE0202,FCA00936,CUST10736,Fraud,98.0,5,In Review,SAR Filed
+CASE0203,FCA01008,CUST10252,Transaction Monitoring,29.0,8,In Review,Further Investigation
+CASE0204,FCA00716,CUST10941,KYC/EDD,76.0,8,In Review,Escalated for SAR Review
+CASE0205,FCA01046,CUST10494,Transaction Monitoring,87.0,17,Escalated,SAR Filed
+CASE0206,FCA01799,CUST10238,KYC/EDD,81.0,3,In Review,Escalated for SAR Review
+CASE0207,FCA01708,CUST10265,Transaction Monitoring,92.0,28,Closed,SAR Filed
+CASE0208,FCA00037,CUST10111,Transaction Monitoring,59.0,34,In Review,Further Investigation
+CASE0209,FCA00727,CUST10996,Fraud,56.0,7,Open,Further Investigation
+CASE0210,FCA00156,CUST11122,KYC/EDD,50.0,30,In Review,Further Investigation
+CASE0211,FCA01127,CUST10084,Transaction Monitoring,97.0,8,Escalated,SAR Filed
+CASE0212,FCA00260,CUST10002,Transaction Monitoring,70.0,1,In Review,Escalated for SAR Review
+CASE0213,FCA01606,CUST10612,Transaction Monitoring,81.0,8,Closed,Escalated for SAR Review
+CASE0214,FCA00174,CUST10517,Sanctions,75.0,31,Open,Escalated for SAR Review
+CASE0215,FCA01382,CUST10865,Transaction Monitoring,47.0,4,In Review,Further Investigation
+CASE0216,FCA01081,CUST10757,Sanctions,63.0,16,Open,Further Investigation
+CASE0217,FCA00776,CUST10398,Transaction Monitoring,69.0,13,In Review,Escalated for SAR Review
+CASE0218,FCA01429,CUST11105,Transaction Monitoring,76.0,26,In Review,Escalated for SAR Review
+CASE0219,FCA00120,CUST10302,Transaction Monitoring,100.0,5,Closed,SAR Filed
+CASE0220,FCA00506,CUST10905,Sanctions,75.0,5,In Review,Escalated for SAR Review
+CASE0221,FCA00246,CUST10335,Transaction Monitoring,42.0,35,Closed,Closed - No SAR
+CASE0222,FCA01496,CUST10350,KYC/EDD,100.0,3,In Review,SAR Filed
+CASE0223,FCA00509,CUST11045,Sanctions,41.0,30,Open,Further Investigation
+CASE0224,FCA00072,CUST10603,Transaction Monitoring,68.0,27,Open,Escalated for SAR Review
+CASE0225,FCA01723,CUST11186,Sanctions,77.0,20,Escalated,Escalated for SAR Review
+CASE0226,FCA01581,CUST10393,Transaction Monitoring,82.0,28,In Review,SAR Filed
+CASE0227,FCA00048,CUST10887,Sanctions,59.0,18,Escalated,Closed - No SAR
+CASE0228,FCA01794,CUST10178,Transaction Monitoring,58.0,7,Closed,Closed - No SAR
+CASE0229,FCA00377,CUST10252,Fraud,93.0,19,Escalated,SAR Filed
+CASE0230,FCA01166,CUST10616,Transaction Monitoring,51.0,12,Closed,Closed - No SAR
+CASE0231,FCA00894,CUST10141,Sanctions,76.0,29,Closed,Escalated for SAR Review
+CASE0232,FCA00226,CUST10759,Transaction Monitoring,54.0,40,Closed,Closed - No SAR
+CASE0233,FCA00653,CUST10200,Fraud,80.0,8,Closed,Escalated for SAR Review
+CASE0234,FCA00259,CUST10371,Transaction Monitoring,78.0,20,Open,Escalated for SAR Review
+CASE0235,FCA01117,CUST11153,Sanctions,100.0,24,Closed,SAR Filed
+CASE0236,FCA01154,CUST10847,KYC/EDD,84.0,21,In Review,SAR Filed
+CASE0237,FCA00149,CUST10986,Sanctions,64.0,32,In Review,Further Investigation
+CASE0238,FCA00380,CUST10836,Transaction Monitoring,73.0,36,Closed,Escalated for SAR Review
+CASE0239,FCA01735,CUST10695,KYC/EDD,69.0,23,Closed,Escalated for SAR Review
+CASE0240,FCA00431,CUST10709,Fraud,82.0,20,Closed,SAR Filed
+CASE0241,FCA00801,CUST10770,Transaction Monitoring,55.0,23,In Review,Further Investigation
+CASE0242,FCA00816,CUST10001,Transaction Monitoring,67.0,28,Closed,Closed - No SAR
+CASE0243,FCA00427,CUST10611,Fraud,48.0,24,Open,Further Investigation
+CASE0244,FCA01571,CUST10744,Transaction Monitoring,73.0,28,Open,Escalated for SAR Review
+CASE0245,FCA00329,CUST10542,KYC/EDD,88.0,10,Closed,SAR Filed
+CASE0246,FCA00336,CUST10659,Fraud,61.0,18,In Review,Further Investigation
+CASE0247,FCA01752,CUST10156,Transaction Monitoring,60.0,6,Closed,Closed - No SAR
+CASE0248,FCA00854,CUST11151,Sanctions,60.0,16,Closed,Closed - No SAR
+CASE0249,FCA00930,CUST10973,Transaction Monitoring,64.0,18,Closed,Closed - No SAR
+CASE0250,FCA00231,CUST10711,Transaction Monitoring,59.0,24,Escalated,Closed - No SAR
+CASE0251,FCA01452,CUST10417,Sanctions,57.0,20,Closed,Closed - No SAR
+CASE0252,FCA00099,CUST10805,Transaction Monitoring,75.0,6,In Review,Escalated for SAR Review
+CASE0253,FCA00822,CUST11045,Sanctions,53.0,16,In Review,Further Investigation
+CASE0254,FCA00429,CUST10773,Transaction Monitoring,75.0,4,In Review,Escalated for SAR Review
+CASE0255,FCA00689,CUST11156,KYC/EDD,63.0,25,Closed,Closed - No SAR
+CASE0256,FCA00182,CUST10679,Fraud,44.0,27,In Review,Further Investigation
+CASE0257,FCA00871,CUST10278,Transaction Monitoring,80.0,28,Open,Escalated for SAR Review
+CASE0258,FCA00813,CUST10849,Transaction Monitoring,60.0,9,In Review,Further Investigation
+CASE0259,FCA00865,CUST10637,Transaction Monitoring,74.0,36,In Review,Escalated for SAR Review
+CASE0260,FCA00424,CUST10129,Fraud,34.0,33,Closed,Closed - No SAR
+CASE0261,FCA01167,CUST10453,Transaction Monitoring,72.0,19,In Review,Escalated for SAR Review
+CASE0262,FCA00734,CUST10796,Sanctions,34.0,13,Open,Further Investigation
+CASE0263,FCA01095,CUST10975,KYC/EDD,86.0,27,In Review,SAR Filed
+CASE0264,FCA00264,CUST10782,Transaction Monitoring,74.0,30,Closed,Escalated for SAR Review
+CASE0265,FCA01323,CUST11079,Transaction Monitoring,71.0,14,Open,Escalated for SAR Review
+CASE0266,FCA00985,CUST10297,Transaction Monitoring,77.0,27,Escalated,Escalated for SAR Review
+CASE0267,FCA01506,CUST10308,Fraud,88.0,9,Closed,SAR Filed
+CASE0268,FCA00558,CUST11053,Sanctions,81.0,8,Escalated,Escalated for SAR Review
+CASE0269,FCA00261,CUST10548,Transaction Monitoring,50.0,25,Closed,Closed - No SAR
+CASE0270,FCA01732,CUST10545,Fraud,70.0,40,Open,Escalated for SAR Review
+CASE0271,FCA00629,CUST10389,Transaction Monitoring,55.0,16,Escalated,Closed - No SAR
+CASE0272,FCA00467,CUST10741,KYC/EDD,100.0,9,Closed,SAR Filed
+CASE0273,FCA01517,CUST10665,Sanctions,34.0,4,Open,Further Investigation
+CASE0274,FCA00997,CUST10503,KYC/EDD,73.0,38,Open,Escalated for SAR Review
+CASE0275,FCA01415,CUST10414,Fraud,73.0,22,Escalated,Escalated for SAR Review
+CASE0276,FCA00631,CUST10066,Sanctions,70.0,17,In Review,Escalated for SAR Review
+CASE0277,FCA01335,CUST10288,Transaction Monitoring,82.0,17,Closed,SAR Filed
+CASE0278,FCA01480,CUST10048,Transaction Monitoring,89.0,26,Closed,SAR Filed
+CASE0279,FCA00257,CUST10586,Sanctions,63.0,38,Open,Further Investigation
+CASE0280,FCA00650,CUST10137,Fraud,81.0,10,Closed,Escalated for SAR Review
+CASE0281,FCA01601,CUST10240,Sanctions,90.0,19,Closed,SAR Filed
+CASE0282,FCA00982,CUST10586,Transaction Monitoring,100.0,18,Closed,SAR Filed
+CASE0283,FCA01791,CUST10765,KYC/EDD,58.0,6,Closed,Closed - No SAR
+CASE0284,FCA01134,CUST10786,Sanctions,90.0,23,Open,SAR Filed
+CASE0285,FCA01483,CUST10726,Transaction Monitoring,32.0,17,Escalated,Closed - No SAR
+CASE0286,FCA01402,CUST10082,Fraud,58.0,4,In Review,Further Investigation
+CASE0287,FCA01754,CUST10319,Transaction Monitoring,80.0,22,Closed,Escalated for SAR Review
+CASE0288,FCA00887,CUST10913,Transaction Monitoring,68.0,4,In Review,Escalated for SAR Review
+CASE0289,FCA00086,CUST10768,Fraud,89.0,1,In Review,SAR Filed
+CASE0290,FCA00177,CUST10447,KYC/EDD,28.0,5,Escalated,Closed - No SAR
+CASE0291,FCA00089,CUST10381,Transaction Monitoring,60.0,35,Closed,Closed - No SAR
+CASE0292,FCA00769,CUST10964,Sanctions,46.0,25,In Review,Further Investigation
+CASE0293,FCA01743,CUST11191,Transaction Monitoring,69.0,15,Closed,Escalated for SAR Review
+CASE0294,FCA01011,CUST11019,Transaction Monitoring,62.0,35,Escalated,Closed - No SAR
+CASE0295,FCA00194,CUST11137,Fraud,62.0,35,In Review,Further Investigation
+CASE0296,FCA00436,CUST10515,Transaction Monitoring,82.0,13,Closed,SAR Filed
+CASE0297,FCA00281,CUST10466,Fraud,53.0,21,In Review,Further Investigation
+CASE0298,FCA00853,CUST10136,Transaction Monitoring,32.0,27,Closed,Closed - No SAR
+CASE0299,FCA00374,CUST10398,Sanctions,66.0,10,In Review,Further Investigation
+CASE0300,FCA00693,CUST10525,Transaction Monitoring,77.0,8,In Review,Escalated for SAR Review
+CASE0301,FCA00035,CUST10298,Transaction Monitoring,100.0,27,In Review,SAR Filed
+CASE0302,FCA01004,CUST10104,Transaction Monitoring,53.0,21,In Review,Further Investigation
+CASE0303,FCA00191,CUST10750,Fraud,64.0,2,In Review,Further Investigation
+CASE0304,FCA01071,CUST10942,KYC/EDD,97.0,39,Open,SAR Filed
+CASE0305,FCA00103,CUST10972,Fraud,100.0,29,Closed,SAR Filed
+CASE0306,FCA00229,CUST11004,Transaction Monitoring,87.0,23,In Review,SAR Filed
+CASE0307,FCA01586,CUST10833,Transaction Monitoring,66.0,22,Escalated,Closed - No SAR
+CASE0308,FCA01123,CUST10817,Sanctions,89.0,4,Escalated,SAR Filed
+CASE0309,FCA01510,CUST11046,Sanctions,80.0,13,Escalated,Escalated for SAR Review
+CASE0310,FCA00025,CUST10624,Sanctions,57.0,23,Open,Further Investigation
+CASE0311,FCA01324,CUST10175,Fraud,66.0,35,In Review,Further Investigation
+CASE0312,FCA01365,CUST10638,Fraud,25.0,24,Open,Further Investigation
+CASE0313,FCA00621,CUST10185,KYC/EDD,100.0,7,Open,SAR Filed
+CASE0314,FCA00227,CUST10873,Transaction Monitoring,84.0,30,Closed,SAR Filed
+CASE0315,FCA00394,CUST10953,Transaction Monitoring,91.0,9,In Review,SAR Filed
+CASE0316,FCA00528,CUST10800,KYC/EDD,55.0,18,Escalated,Closed - No SAR
+CASE0317,FCA00923,CUST10973,Transaction Monitoring,67.0,13,In Review,Further Investigation
+CASE0318,FCA00262,CUST10027,Transaction Monitoring,69.0,7,In Review,Escalated for SAR Review
+CASE0319,FCA01101,CUST10350,KYC/EDD,33.0,32,Closed,Closed - No SAR
+CASE0320,FCA00850,CUST10421,Sanctions,57.0,12,Closed,Closed - No SAR
+CASE0321,FCA01397,CUST10542,Sanctions,89.0,13,Open,SAR Filed
+CASE0322,FCA00875,CUST10359,KYC/EDD,47.0,29,Escalated,Closed - No SAR
+CASE0323,FCA00765,CUST10216,KYC/EDD,79.0,33,In Review,Escalated for SAR Review
+CASE0324,FCA00362,CUST10022,Fraud,73.0,9,Escalated,Escalated for SAR Review
+CASE0325,FCA01783,CUST10973,Fraud,74.0,22,Escalated,Escalated for SAR Review
+CASE0326,FCA00386,CUST10084,Transaction Monitoring,97.0,22,Escalated,SAR Filed
+CASE0327,FCA01562,CUST11166,Transaction Monitoring,48.0,30,Closed,Closed - No SAR
+CASE0328,FCA01546,CUST11097,Fraud,37.0,22,In Review,Further Investigation
+CASE0329,FCA00422,CUST10311,Transaction Monitoring,61.0,9,Open,Further Investigation
+CASE0330,FCA01528,CUST10907,Sanctions,87.0,40,In Review,SAR Filed
+CASE0331,FCA00433,CUST11104,Sanctions,89.0,21,In Review,SAR Filed
+CASE0332,FCA00071,CUST10624,Sanctions,74.0,22,In Review,Escalated for SAR Review
+CASE0333,FCA00094,CUST10835,Fraud,100.0,25,In Review,SAR Filed
+CASE0334,FCA01406,CUST10030,Transaction Monitoring,77.0,3,Escalated,Escalated for SAR Review
+CASE0335,FCA00272,CUST10361,KYC/EDD,61.0,32,Closed,Closed - No SAR
+CASE0336,FCA01632,CUST10432,Sanctions,73.0,36,In Review,Escalated for SAR Review
+CASE0337,FCA00708,CUST11072,Transaction Monitoring,64.0,22,Escalated,Closed - No SAR
+CASE0338,FCA00487,CUST10270,Sanctions,70.0,39,Escalated,Escalated for SAR Review
+CASE0339,FCA01608,CUST10004,Transaction Monitoring,60.0,16,Open,Further Investigation
+CASE0340,FCA01526,CUST11177,Sanctions,99.0,8,In Review,SAR Filed
+CASE0341,FCA01649,CUST11137,Transaction Monitoring,68.0,37,In Review,Escalated for SAR Review
+CASE0342,FCA01209,CUST10908,Fraud,68.0,8,Open,Escalated for SAR Review
+CASE0343,FCA01146,CUST10400,Fraud,46.0,1,In Review,Further Investigation
+CASE0344,FCA00459,CUST10291,Transaction Monitoring,72.0,30,Escalated,Escalated for SAR Review
+CASE0345,FCA01637,CUST10727,Transaction Monitoring,92.0,3,In Review,SAR Filed
+CASE0346,FCA00881,CUST10538,Fraud,64.0,22,Closed,Closed - No SAR
+CASE0347,FCA00722,CUST11100,Transaction Monitoring,85.0,36,Open,SAR Filed
+CASE0348,FCA01033,CUST10602,Transaction Monitoring,90.0,18,Open,SAR Filed
+CASE0349,FCA00014,CUST11046,Transaction Monitoring,94.0,34,In Review,SAR Filed
+CASE0350,FCA01455,CUST10148,Transaction Monitoring,71.0,29,Escalated,Escalated for SAR Review
+CASE0351,FCA01564,CUST10717,Fraud,78.0,20,Closed,Escalated for SAR Review
+CASE0352,FCA00767,CUST10258,Transaction Monitoring,92.0,15,Closed,SAR Filed
+CASE0353,FCA00096,CUST10924,Fraud,92.0,25,Escalated,SAR Filed
+CASE0354,FCA01226,CUST10905,Fraud,74.0,31,In Review,Escalated for SAR Review
+CASE0355,FCA00032,CUST11097,Sanctions,68.0,23,In Review,Escalated for SAR Review
+CASE0356,FCA00327,CUST10546,Transaction Monitoring,82.0,32,Closed,SAR Filed
+CASE0357,FCA00430,CUST10833,Sanctions,71.0,10,Closed,Escalated for SAR Review
+CASE0358,FCA01055,CUST10342,Fraud,33.0,9,In Review,Further Investigation
+CASE0359,FCA01287,CUST10059,Transaction Monitoring,51.0,40,Closed,Closed - No SAR
+CASE0360,FCA00126,CUST10628,Fraud,78.0,37,Open,Escalated for SAR Review
+CASE0361,FCA01638,CUST11069,Fraud,85.0,17,In Review,SAR Filed
+CASE0362,FCA00483,CUST11189,Sanctions,93.0,9,Open,SAR Filed
+CASE0363,FCA00791,CUST10386,Transaction Monitoring,66.0,38,In Review,Further Investigation
+CASE0364,FCA00293,CUST10045,Transaction Monitoring,78.0,12,Open,Escalated for SAR Review
+CASE0365,FCA00812,CUST10988,Transaction Monitoring,80.0,11,Closed,Escalated for SAR Review
+CASE0366,FCA01196,CUST10633,Transaction Monitoring,67.0,27,In Review,Further Investigation
+CASE0367,FCA00673,CUST10228,KYC/EDD,93.0,22,In Review,SAR Filed
+CASE0368,FCA01191,CUST10850,Transaction Monitoring,54.0,7,Open,Further Investigation
+CASE0369,FCA00472,CUST10407,Transaction Monitoring,68.0,17,Closed,Escalated for SAR Review
+CASE0370,FCA01775,CUST10414,Fraud,56.0,17,Closed,Closed - No SAR
+CASE0371,FCA00021,CUST10553,Transaction Monitoring,79.0,23,Open,Escalated for SAR Review
+CASE0372,FCA01295,CUST11149,KYC/EDD,78.0,19,Closed,Escalated for SAR Review
+CASE0373,FCA01364,CUST10093,Transaction Monitoring,80.0,20,Open,Escalated for SAR Review
+CASE0374,FCA00521,CUST10076,Transaction Monitoring,46.0,20,In Review,Further Investigation
+CASE0375,FCA01060,CUST10741,Transaction Monitoring,43.0,6,Open,Further Investigation
+CASE0376,FCA01022,CUST10273,Sanctions,86.0,28,In Review,SAR Filed
+CASE0377,FCA00578,CUST10969,Fraud,53.0,31,Open,Further Investigation
+CASE0378,FCA01694,CUST10787,Fraud,72.0,7,Closed,Escalated for SAR Review
+CASE0379,FCA00890,CUST11005,Fraud,66.0,29,Closed,Closed - No SAR
+CASE0380,FCA00300,CUST10410,Transaction Monitoring,56.0,4,Closed,Closed - No SAR
+CASE0381,FCA00147,CUST11002,Transaction Monitoring,75.0,31,Open,Escalated for SAR Review
+CASE0382,FCA00551,CUST10708,Sanctions,69.0,12,Closed,Escalated for SAR Review
+CASE0383,FCA00192,CUST10387,Transaction Monitoring,66.0,28,Open,Further Investigation
+CASE0384,FCA00753,CUST11081,Sanctions,64.0,33,In Review,Further Investigation
+CASE0385,FCA01438,CUST10083,Transaction Monitoring,74.0,8,In Review,Escalated for SAR Review
+CASE0386,FCA01461,CUST10712,Sanctions,80.0,3,Closed,Escalated for SAR Review
+CASE0387,FCA01474,CUST11184,Transaction Monitoring,71.0,19,Closed,Escalated for SAR Review
+CASE0388,FCA00279,CUST10874,Sanctions,65.0,4,Closed,Closed - No SAR
+CASE0389,FCA00750,CUST10643,Transaction Monitoring,39.0,22,Escalated,Closed - No SAR
+CASE0390,FCA01120,CUST10321,Transaction Monitoring,84.0,12,Closed,SAR Filed
+CASE0391,FCA00954,CUST10626,Fraud,72.0,8,In Review,Escalated for SAR Review
+CASE0392,FCA01048,CUST10084,Fraud,63.0,29,Escalated,Closed - No SAR
+CASE0393,FCA01393,CUST10656,Sanctions,59.0,37,Escalated,Closed - No SAR
+CASE0394,FCA01664,CUST10056,Fraud,56.0,37,Closed,Closed - No SAR
+CASE0395,FCA00214,CUST11064,Transaction Monitoring,94.0,10,Closed,SAR Filed
+CASE0396,FCA00947,CUST10451,Sanctions,78.0,1,Closed,Escalated for SAR Review
+CASE0397,FCA00584,CUST10183,Transaction Monitoring,85.0,30,Open,SAR Filed
+CASE0398,FCA00793,CUST10095,Transaction Monitoring,89.0,20,Closed,SAR Filed
+CASE0399,FCA00331,CUST11063,KYC/EDD,80.0,16,In Review,Escalated for SAR Review
+CASE0400,FCA00341,CUST10500,Transaction Monitoring,76.0,12,Closed,Escalated for SAR Review
+CASE0401,FCA01603,CUST10142,KYC/EDD,53.0,20,Closed,Closed - No SAR
+CASE0402,FCA00127,CUST10012,Fraud,63.0,2,In Review,Further Investigation
+CASE0403,FCA01515,CUST11104,Transaction Monitoring,86.0,30,Closed,SAR Filed
+CASE0404,FCA00994,CUST10650,Transaction Monitoring,70.0,24,Escalated,Escalated for SAR Review
+CASE0405,FCA01731,CUST11148,Sanctions,69.0,11,Closed,Escalated for SAR Review
+CASE0406,FCA01293,CUST10384,Sanctions,92.0,1,In Review,SAR Filed
+CASE0407,FCA01769,CUST11184,Transaction Monitoring,44.0,30,In Review,Further Investigation
+CASE0408,FCA00138,CUST10166,Transaction Monitoring,86.0,39,Closed,SAR Filed
+CASE0409,FCA01726,CUST10182,Sanctions,82.0,10,Escalated,SAR Filed
+CASE0410,FCA01385,CUST10436,Transaction Monitoring,95.0,38,Open,SAR Filed
+CASE0411,FCA01733,CUST10614,Fraud,74.0,7,Closed,Escalated for SAR Review
+CASE0412,FCA01470,CUST10552,KYC/EDD,96.0,29,Open,SAR Filed
+CASE0413,FCA01660,CUST10883,KYC/EDD,89.0,33,In Review,SAR Filed
+CASE0414,FCA00068,CUST10919,Transaction Monitoring,72.0,7,In Review,Escalated for SAR Review
+CASE0415,FCA01501,CUST10918,Transaction Monitoring,63.0,1,Open,Further Investigation
+CASE0416,FCA01412,CUST10296,Transaction Monitoring,66.0,12,In Review,Further Investigation
+CASE0417,FCA01124,CUST10889,Sanctions,67.0,3,Closed,Closed - No SAR
+CASE0418,FCA00755,CUST10517,Fraud,37.0,6,Escalated,Closed - No SAR
+CASE0419,FCA00408,CUST10445,Fraud,69.0,17,Closed,Escalated for SAR Review
+CASE0420,FCA01541,CUST10030,Transaction Monitoring,100.0,32,Open,SAR Filed

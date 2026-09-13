@@ -1,0 +1,1801 @@
+alert_id,customer_id,alert_date,risk_category,risk_driver,risk_score,alert_amount,disposition,escalated_flag,month
+FCA00001,CUST10827,2026-01-03,Transaction Monitoring,Unusual Volume,44.0,8968.47,Closed - Explained,0,2026-01
+FCA00002,CUST11034,2026-09-20,Transaction Monitoring,Unusual Volume,22.0,27446.98,Closed - Explained,0,2026-09
+FCA00003,CUST10455,2026-07-20,KYC/EDD,Adverse Media,78.0,44579.83,Escalated,1,2026-07
+FCA00004,CUST10340,2026-02-22,Transaction Monitoring,Unusual Volume,60.0,62021.22,Escalated,1,2026-02
+FCA00005,CUST10383,2026-01-15,KYC/EDD,PEP Exposure,54.0,41452.32,Closed - Explained,0,2026-01
+FCA00006,CUST10546,2026-01-22,Sanctions,Name Match,58.0,8370.17,Escalated,1,2026-01
+FCA00007,CUST10528,2026-05-02,Transaction Monitoring,High-Risk Wire,66.0,9140.4,Closed - Explained,0,2026-05
+FCA00008,CUST10044,2026-09-24,KYC/EDD,Source of Funds,42.0,45973.45,Closed - Explained,0,2026-09
+FCA00009,CUST10415,2026-08-02,Transaction Monitoring,Rapid Movement,39.0,79986.17,Closed - Explained,0,2026-08
+FCA00010,CUST10181,2026-07-14,Transaction Monitoring,Rapid Movement,99.0,5809.45,Escalated,1,2026-07
+FCA00011,CUST10054,2026-07-03,Transaction Monitoring,High-Risk Wire,56.0,67583.92,Closed - Explained,0,2026-07
+FCA00012,CUST10860,2026-03-03,KYC/EDD,Adverse Media,52.0,8436.99,Closed - Explained,0,2026-03
+FCA00013,CUST10771,2026-01-10,KYC/EDD,PEP Exposure,41.0,4785.59,Closed - Explained,0,2026-01
+FCA00014,CUST11046,2026-04-30,Transaction Monitoring,Structuring,84.0,18570.64,Escalated,1,2026-04
+FCA00015,CUST10407,2026-02-24,Fraud,Geo Anomaly,56.0,13786.27,Closed - Explained,0,2026-02
+FCA00016,CUST10511,2026-06-16,Transaction Monitoring,Unusual Volume,36.0,16078.74,Closed - Explained,0,2026-06
+FCA00017,CUST10229,2026-01-01,Transaction Monitoring,Rapid Movement,35.0,6021.54,Closed - Explained,0,2026-01
+FCA00018,CUST10914,2026-07-24,Transaction Monitoring,Structuring,53.0,14390.72,Escalated,1,2026-07
+FCA00019,CUST10617,2026-06-22,Transaction Monitoring,High-Risk Wire,64.0,60573.67,Escalated,1,2026-06
+FCA00020,CUST10857,2026-06-04,Transaction Monitoring,Unusual Volume,41.0,88652.26,Closed - Explained,0,2026-06
+FCA00021,CUST10553,2026-03-22,Transaction Monitoring,High-Risk Wire,80.0,15484.73,Escalated,1,2026-03
+FCA00022,CUST10579,2026-03-29,Transaction Monitoring,High-Risk Wire,43.0,25299.84,Closed - Explained,0,2026-03
+FCA00023,CUST10148,2026-05-31,KYC/EDD,Adverse Media,76.0,249202.64,Closed - Explained,0,2026-05
+FCA00024,CUST10773,2026-05-09,Transaction Monitoring,High-Risk Wire,56.0,110025.34,Closed - Explained,0,2026-05
+FCA00025,CUST10624,2026-08-02,Sanctions,High-Risk Geography,61.0,13052.45,Escalated,1,2026-08
+FCA00026,CUST10476,2026-09-09,Transaction Monitoring,Unusual Volume,72.0,17422.63,Escalated,1,2026-09
+FCA00027,CUST10241,2026-01-29,Transaction Monitoring,Unusual Volume,71.0,137261.1,Closed - Explained,0,2026-01
+FCA00028,CUST10495,2026-07-07,Transaction Monitoring,Structuring,99.0,3491.17,Escalated,1,2026-07
+FCA00029,CUST10934,2026-08-17,Fraud,Suspicious Merchant,58.0,19313.62,Closed - Explained,0,2026-08
+FCA00030,CUST10844,2026-02-28,Transaction Monitoring,Structuring,68.0,46193.76,Escalated,1,2026-02
+FCA00031,CUST10551,2026-09-02,Fraud,Suspicious Merchant,60.0,48376.08,Closed - Explained,0,2026-09
+FCA00032,CUST11097,2026-02-06,Sanctions,Name Match,65.0,128580.88,Escalated,1,2026-02
+FCA00033,CUST11152,2026-03-10,Fraud,Geo Anomaly,77.0,41986.73,Escalated,1,2026-03
+FCA00034,CUST10771,2026-07-26,Transaction Monitoring,Unusual Volume,42.0,30939.31,Closed - Explained,0,2026-07
+FCA00035,CUST10298,2026-08-29,Transaction Monitoring,High-Risk Wire,100.0,73911.18,Escalated,1,2026-08
+FCA00036,CUST10478,2026-06-01,Sanctions,Watchlist Exposure,58.0,17756.03,Closed - Explained,0,2026-06
+FCA00037,CUST10111,2026-05-18,Transaction Monitoring,High-Risk Wire,64.0,3663.36,Escalated,1,2026-05
+FCA00038,CUST10750,2026-09-13,Transaction Monitoring,Unusual Volume,46.0,8079.41,Closed - Explained,0,2026-09
+FCA00039,CUST10454,2026-05-14,Fraud,Velocity Spike,69.0,55171.4,Escalated,1,2026-05
+FCA00040,CUST10456,2026-02-06,KYC/EDD,PEP Exposure,82.0,11836.94,Closed - Explained,0,2026-02
+FCA00041,CUST10581,2026-01-01,Fraud,Geo Anomaly,60.0,17547.17,Closed - Explained,0,2026-01
+FCA00042,CUST10023,2026-06-12,KYC/EDD,Adverse Media,52.0,48992.21,Closed - Explained,0,2026-06
+FCA00043,CUST11175,2026-05-26,Fraud,Suspicious Merchant,41.0,27533.93,Closed - Explained,0,2026-05
+FCA00044,CUST10422,2026-06-15,Transaction Monitoring,Rapid Movement,61.0,87576.03,Closed - Explained,0,2026-06
+FCA00045,CUST10983,2026-01-29,Transaction Monitoring,Structuring,24.0,16109.29,Closed - Explained,0,2026-01
+FCA00046,CUST10590,2026-07-28,Fraud,Suspicious Merchant,21.0,7235.29,Closed - Explained,0,2026-07
+FCA00047,CUST10565,2026-05-20,Transaction Monitoring,Rapid Movement,90.0,93833.91,Escalated,1,2026-05
+FCA00048,CUST10887,2026-09-26,Sanctions,Watchlist Exposure,52.0,100019.73,Escalated,1,2026-09
+FCA00049,CUST11069,2026-02-22,Transaction Monitoring,Unusual Volume,68.0,243148.29,Escalated,1,2026-02
+FCA00050,CUST10883,2026-02-10,Transaction Monitoring,Rapid Movement,67.0,111619.64,Closed - Explained,0,2026-02
+FCA00051,CUST10485,2026-05-19,Transaction Monitoring,Structuring,27.0,19480.88,Escalated,1,2026-05
+FCA00052,CUST10634,2026-06-02,Transaction Monitoring,High-Risk Wire,73.0,64973.07,Closed - Explained,0,2026-06
+FCA00053,CUST11199,2026-07-19,KYC/EDD,Adverse Media,52.0,43002.28,Closed - Explained,0,2026-07
+FCA00054,CUST10903,2026-01-23,Transaction Monitoring,Structuring,59.0,137990.73,Closed - Explained,0,2026-01
+FCA00055,CUST10245,2026-02-12,Transaction Monitoring,Rapid Movement,32.0,13321.41,Closed - Explained,0,2026-02
+FCA00056,CUST10176,2026-08-18,Fraud,Geo Anomaly,65.0,17022.54,Closed - Explained,0,2026-08
+FCA00057,CUST11109,2026-02-02,Transaction Monitoring,High-Risk Wire,71.0,33940.15,Closed - Explained,0,2026-02
+FCA00058,CUST10757,2026-05-16,Transaction Monitoring,Rapid Movement,55.0,4973.58,Closed - Explained,0,2026-05
+FCA00059,CUST10701,2026-04-25,Transaction Monitoring,Unusual Volume,34.0,8095.73,Closed - Explained,0,2026-04
+FCA00060,CUST10383,2026-04-10,Fraud,Suspicious Merchant,22.0,16256.05,Escalated,1,2026-04
+FCA00061,CUST10494,2026-03-31,Fraud,Suspicious Merchant,39.0,140632.8,Closed - Explained,0,2026-03
+FCA00062,CUST11139,2026-08-04,KYC/EDD,PEP Exposure,56.0,110354.22,Closed - Explained,0,2026-08
+FCA00063,CUST10539,2026-03-25,KYC/EDD,PEP Exposure,62.0,172501.12,Escalated,1,2026-03
+FCA00064,CUST10660,2026-06-01,KYC/EDD,PEP Exposure,61.0,41987.36,Closed - Explained,0,2026-06
+FCA00065,CUST10634,2026-08-25,Sanctions,Watchlist Exposure,87.0,24103.94,Escalated,1,2026-08
+FCA00066,CUST10947,2026-01-26,Transaction Monitoring,Rapid Movement,90.0,7798.36,Closed - Explained,0,2026-01
+FCA00067,CUST11090,2026-03-16,Sanctions,High-Risk Geography,74.0,103080.4,Closed - Explained,0,2026-03
+FCA00068,CUST10919,2026-04-22,Transaction Monitoring,High-Risk Wire,63.0,59766.38,Escalated,1,2026-04
+FCA00069,CUST10555,2026-09-24,KYC/EDD,Adverse Media,60.0,11419.18,Escalated,1,2026-09
+FCA00070,CUST10094,2026-08-13,Transaction Monitoring,Structuring,65.0,25801.73,Closed - Explained,0,2026-08
+FCA00071,CUST10624,2026-04-04,Sanctions,Watchlist Exposure,78.0,13970.68,Escalated,1,2026-04
+FCA00072,CUST10603,2026-01-22,Transaction Monitoring,High-Risk Wire,70.0,20140.1,Escalated,1,2026-01
+FCA00073,CUST10990,2026-03-13,Transaction Monitoring,Unusual Volume,18.0,101302.33,Closed - Explained,0,2026-03
+FCA00074,CUST11054,2026-04-20,Sanctions,High-Risk Geography,62.0,37591.74,Escalated,1,2026-04
+FCA00075,CUST10156,2026-02-07,Fraud,Geo Anomaly,53.0,60798.61,Closed - Explained,0,2026-02
+FCA00076,CUST10948,2026-05-06,Transaction Monitoring,Rapid Movement,43.0,29326.43,Closed - Explained,0,2026-05
+FCA00077,CUST10500,2026-09-26,Transaction Monitoring,High-Risk Wire,47.0,4608.16,Closed - Explained,0,2026-09
+FCA00078,CUST10685,2026-05-24,Sanctions,High-Risk Geography,47.0,48177.78,Closed - Explained,0,2026-05
+FCA00079,CUST10353,2026-03-18,Fraud,Account Takeover,76.0,32318.57,Escalated,1,2026-03
+FCA00080,CUST10578,2026-08-13,Transaction Monitoring,Unusual Volume,31.0,42721.03,Closed - Explained,0,2026-08
+FCA00081,CUST10323,2026-09-16,KYC/EDD,Adverse Media,30.0,30694.73,Closed - Explained,0,2026-09
+FCA00082,CUST10463,2026-05-15,Transaction Monitoring,Rapid Movement,32.0,295766.07,Closed - Explained,0,2026-05
+FCA00083,CUST10071,2026-06-14,Transaction Monitoring,Unusual Volume,45.0,81316.99,Closed - Explained,0,2026-06
+FCA00084,CUST10253,2026-02-08,KYC/EDD,PEP Exposure,71.0,23164.62,Escalated,1,2026-02
+FCA00085,CUST10510,2026-05-30,Transaction Monitoring,Unusual Volume,66.0,26235.95,Closed - Explained,0,2026-05
+FCA00086,CUST10768,2026-05-12,Fraud,Velocity Spike,80.0,16575.52,Escalated,1,2026-05
+FCA00087,CUST10036,2026-03-30,KYC/EDD,Adverse Media,70.0,46861.35,Closed - Explained,0,2026-03
+FCA00088,CUST10029,2026-01-07,KYC/EDD,KYC Refresh,52.0,29417.78,Closed - Explained,0,2026-01
+FCA00089,CUST10381,2026-01-28,Transaction Monitoring,Rapid Movement,61.0,79367.7,Escalated,1,2026-01
+FCA00090,CUST10936,2026-05-09,KYC/EDD,PEP Exposure,66.0,64443.47,Closed - Explained,0,2026-05
+FCA00091,CUST10641,2026-04-02,KYC/EDD,Source of Funds,35.0,63378.99,Closed - Explained,0,2026-04
+FCA00092,CUST11079,2026-07-20,Transaction Monitoring,Rapid Movement,42.0,39017.73,Closed - Explained,0,2026-07
+FCA00093,CUST10042,2026-03-02,Sanctions,Name Match,78.0,36081.36,Closed - Explained,0,2026-03
+FCA00094,CUST10835,2026-06-02,Fraud,Velocity Spike,99.0,28102.86,Escalated,1,2026-06
+FCA00095,CUST10440,2026-02-07,Transaction Monitoring,Unusual Volume,65.0,2966.24,Escalated,1,2026-02
+FCA00096,CUST10924,2026-08-23,Fraud,Velocity Spike,93.0,64957.61,Escalated,1,2026-08
+FCA00097,CUST10051,2026-03-06,Transaction Monitoring,Unusual Volume,49.0,29843.75,Closed - Explained,0,2026-03
+FCA00098,CUST10933,2026-07-03,Sanctions,Watchlist Exposure,64.0,17712.06,Closed - Explained,0,2026-07
+FCA00099,CUST10805,2026-09-13,Transaction Monitoring,Unusual Volume,67.0,62953.91,Escalated,1,2026-09
+FCA00100,CUST10069,2026-01-03,Fraud,Account Takeover,49.0,9946.89,Closed - Explained,0,2026-01
+FCA00101,CUST10629,2026-05-01,KYC/EDD,Adverse Media,79.0,11851.62,Closed - Explained,0,2026-05
+FCA00102,CUST11184,2026-09-08,Transaction Monitoring,Rapid Movement,52.0,424357.59,Closed - Explained,0,2026-09
+FCA00103,CUST10972,2026-03-10,Fraud,Velocity Spike,100.0,38797.16,Escalated,1,2026-03
+FCA00104,CUST11152,2026-08-27,KYC/EDD,PEP Exposure,94.0,48125.64,Closed - Explained,0,2026-08
+FCA00105,CUST10947,2026-05-11,Fraud,Account Takeover,47.0,18705.16,Closed - Explained,0,2026-05
+FCA00106,CUST10749,2026-01-26,Sanctions,Name Match,53.0,51268.22,Closed - Explained,0,2026-01
+FCA00107,CUST10498,2026-02-06,Transaction Monitoring,Structuring,5.0,67101.98,Closed - Explained,0,2026-02
+FCA00108,CUST10272,2026-08-04,Transaction Monitoring,Unusual Volume,50.0,7541.45,Closed - Explained,0,2026-08
+FCA00109,CUST10689,2026-06-07,Transaction Monitoring,High-Risk Wire,60.0,11098.72,Closed - Explained,0,2026-06
+FCA00110,CUST11022,2026-03-29,Transaction Monitoring,Rapid Movement,59.0,7040.56,Closed - Explained,0,2026-03
+FCA00111,CUST10496,2026-01-31,Fraud,Velocity Spike,48.0,19738.59,Closed - Explained,0,2026-01
+FCA00112,CUST10861,2026-01-20,Fraud,Geo Anomaly,38.0,51870.53,Closed - Explained,0,2026-01
+FCA00113,CUST10905,2026-05-09,Sanctions,Name Match,61.0,23443.63,Escalated,1,2026-05
+FCA00114,CUST10911,2026-03-05,Transaction Monitoring,Rapid Movement,95.0,18633.62,Escalated,1,2026-03
+FCA00115,CUST10653,2026-03-03,Transaction Monitoring,Unusual Volume,44.0,81896.52,Closed - Explained,0,2026-03
+FCA00116,CUST10321,2026-03-31,Fraud,Account Takeover,58.0,6876.36,Closed - Explained,0,2026-03
+FCA00117,CUST11181,2026-09-21,Transaction Monitoring,Rapid Movement,47.0,20038.2,Escalated,1,2026-09
+FCA00118,CUST11123,2026-02-15,Transaction Monitoring,Structuring,32.0,7215.69,Closed - Explained,0,2026-02
+FCA00119,CUST10708,2026-05-13,Transaction Monitoring,High-Risk Wire,52.0,65574.41,Closed - Explained,0,2026-05
+FCA00120,CUST10302,2026-06-12,Transaction Monitoring,Unusual Volume,93.0,21677.7,Escalated,1,2026-06
+FCA00121,CUST10780,2026-05-27,Fraud,Velocity Spike,65.0,113047.67,Closed - Explained,0,2026-05
+FCA00122,CUST10795,2026-05-25,Transaction Monitoring,Structuring,51.0,38403.14,Closed - Explained,0,2026-05
+FCA00123,CUST10637,2026-06-09,Fraud,Suspicious Merchant,34.0,50019.48,Closed - Explained,0,2026-06
+FCA00124,CUST11070,2026-02-28,Fraud,Velocity Spike,73.0,44045.77,Escalated,1,2026-02
+FCA00125,CUST10421,2026-06-21,Fraud,Velocity Spike,63.0,13799.63,Closed - Explained,0,2026-06
+FCA00126,CUST10628,2026-07-13,Fraud,Velocity Spike,80.0,112694.24,Escalated,1,2026-07
+FCA00127,CUST10012,2026-05-13,Fraud,Suspicious Merchant,57.0,72112.08,Escalated,1,2026-05
+FCA00128,CUST10442,2026-05-18,Fraud,Geo Anomaly,67.0,4140.48,Closed - Explained,0,2026-05
+FCA00129,CUST11110,2026-05-10,Fraud,Suspicious Merchant,46.0,10012.97,Closed - Explained,0,2026-05
+FCA00130,CUST10952,2026-01-21,Transaction Monitoring,Unusual Volume,56.0,19005.33,Closed - Explained,0,2026-01
+FCA00131,CUST10155,2026-03-15,Sanctions,Watchlist Exposure,54.0,207503.67,Escalated,1,2026-03
+FCA00132,CUST10855,2026-01-26,Transaction Monitoring,Structuring,37.0,16839.01,Closed - Explained,0,2026-01
+FCA00133,CUST10255,2026-02-13,KYC/EDD,PEP Exposure,47.0,49218.12,Closed - Explained,0,2026-02
+FCA00134,CUST10033,2026-06-07,Transaction Monitoring,Unusual Volume,86.0,16684.69,Escalated,1,2026-06
+FCA00135,CUST10981,2026-08-06,Transaction Monitoring,Structuring,67.0,6703.5,Closed - Explained,0,2026-08
+FCA00136,CUST10056,2026-03-01,Sanctions,High-Risk Geography,53.0,23805.2,Escalated,1,2026-03
+FCA00137,CUST10064,2026-05-05,Fraud,Velocity Spike,77.0,7225.82,Closed - Explained,0,2026-05
+FCA00138,CUST10166,2026-04-19,Transaction Monitoring,Structuring,90.0,61840.81,Escalated,1,2026-04
+FCA00139,CUST10256,2026-08-11,Transaction Monitoring,Rapid Movement,61.0,94468.01,Closed - Explained,0,2026-08
+FCA00140,CUST10007,2026-07-12,KYC/EDD,PEP Exposure,33.0,65462.59,Closed - Explained,0,2026-07
+FCA00141,CUST10915,2026-06-25,KYC/EDD,Source of Funds,47.0,26926.71,Closed - Explained,0,2026-06
+FCA00142,CUST10270,2026-05-17,KYC/EDD,KYC Refresh,58.0,66394.56,Closed - Explained,0,2026-05
+FCA00143,CUST10298,2026-05-18,Fraud,Velocity Spike,60.0,10206.63,Escalated,1,2026-05
+FCA00144,CUST10949,2026-06-25,Transaction Monitoring,Unusual Volume,91.0,17584.29,Closed - Explained,0,2026-06
+FCA00145,CUST10836,2026-01-18,Sanctions,High-Risk Geography,34.0,78194.32,Closed - Explained,0,2026-01
+FCA00146,CUST10924,2026-03-26,Fraud,Account Takeover,21.0,12393.41,Closed - Explained,0,2026-03
+FCA00147,CUST11002,2026-03-10,Transaction Monitoring,Unusual Volume,66.0,6578.13,Escalated,1,2026-03
+FCA00148,CUST10993,2026-07-28,Transaction Monitoring,Unusual Volume,52.0,60744.51,Closed - Explained,0,2026-07
+FCA00149,CUST10986,2026-07-23,Sanctions,Watchlist Exposure,60.0,19968.58,Escalated,1,2026-07
+FCA00150,CUST10755,2026-05-25,Fraud,Geo Anomaly,82.0,20028.52,Closed - Explained,0,2026-05
+FCA00151,CUST10076,2026-01-21,KYC/EDD,KYC Refresh,61.0,6983.88,Closed - Explained,0,2026-01
+FCA00152,CUST10799,2026-09-23,Fraud,Velocity Spike,88.0,21747.04,Escalated,1,2026-09
+FCA00153,CUST10317,2026-08-24,Transaction Monitoring,Rapid Movement,33.0,21613.28,Closed - Explained,0,2026-08
+FCA00154,CUST11007,2026-05-05,KYC/EDD,Adverse Media,69.0,18928.85,Closed - Explained,0,2026-05
+FCA00155,CUST10276,2026-05-15,Sanctions,High-Risk Geography,54.0,11433.92,Closed - Explained,0,2026-05
+FCA00156,CUST11122,2026-03-21,KYC/EDD,Source of Funds,49.0,28538.85,Escalated,1,2026-03
+FCA00157,CUST10902,2026-08-03,Fraud,Suspicious Merchant,68.0,20458.25,Escalated,1,2026-08
+FCA00158,CUST11181,2026-07-26,Transaction Monitoring,Structuring,50.0,6517.97,Closed - Explained,0,2026-07
+FCA00159,CUST10267,2026-07-05,Sanctions,Name Match,46.0,29568.2,Closed - Explained,0,2026-07
+FCA00160,CUST10298,2026-02-01,Fraud,Suspicious Merchant,84.0,50901.79,Escalated,1,2026-02
+FCA00161,CUST11051,2026-05-10,Transaction Monitoring,Structuring,73.0,228290.28,Closed - Explained,0,2026-05
+FCA00162,CUST10300,2026-08-23,Transaction Monitoring,High-Risk Wire,53.0,38712.95,Closed - Explained,0,2026-08
+FCA00163,CUST11003,2026-02-26,Transaction Monitoring,High-Risk Wire,65.0,35276.34,Closed - Explained,0,2026-02
+FCA00164,CUST10449,2026-09-06,Transaction Monitoring,Rapid Movement,31.0,1827.1,Closed - Explained,0,2026-09
+FCA00165,CUST11066,2026-06-11,Fraud,Account Takeover,62.0,117727.76,Closed - Explained,0,2026-06
+FCA00166,CUST10148,2026-01-06,Transaction Monitoring,Structuring,82.0,22401.46,Escalated,1,2026-01
+FCA00167,CUST10889,2026-07-06,Transaction Monitoring,High-Risk Wire,44.0,41721.07,Closed - Explained,0,2026-07
+FCA00168,CUST11161,2026-07-15,Transaction Monitoring,Rapid Movement,72.0,5956.63,Closed - Explained,0,2026-07
+FCA00169,CUST10200,2026-01-07,KYC/EDD,Adverse Media,45.0,14379.79,Closed - Explained,0,2026-01
+FCA00170,CUST10694,2026-09-28,Transaction Monitoring,Unusual Volume,67.0,8188.05,Escalated,1,2026-09
+FCA00171,CUST10530,2026-06-22,KYC/EDD,Source of Funds,47.0,71220.29,Closed - Explained,0,2026-06
+FCA00172,CUST10552,2026-09-05,Fraud,Account Takeover,75.0,53671.97,Closed - Explained,0,2026-09
+FCA00173,CUST11060,2026-05-24,Transaction Monitoring,Structuring,34.0,48038.64,Escalated,1,2026-05
+FCA00174,CUST10517,2026-06-26,Sanctions,Watchlist Exposure,72.0,20605.92,Escalated,1,2026-06
+FCA00175,CUST10943,2026-04-19,Transaction Monitoring,Rapid Movement,51.0,17699.75,Closed - Explained,0,2026-04
+FCA00176,CUST10787,2026-02-20,KYC/EDD,PEP Exposure,76.0,2307.53,Escalated,1,2026-02
+FCA00177,CUST10447,2026-03-14,KYC/EDD,Source of Funds,27.0,47460.79,Escalated,1,2026-03
+FCA00178,CUST10409,2026-02-07,Fraud,Velocity Spike,69.0,18544.56,Escalated,1,2026-02
+FCA00179,CUST10709,2026-03-04,Fraud,Account Takeover,73.0,68100.64,Closed - Explained,0,2026-03
+FCA00180,CUST10921,2026-06-04,Transaction Monitoring,Unusual Volume,66.0,53023.42,Closed - Explained,0,2026-06
+FCA00181,CUST10695,2026-07-28,Transaction Monitoring,High-Risk Wire,58.0,19950.58,Closed - Explained,0,2026-07
+FCA00182,CUST10679,2026-05-20,Fraud,Suspicious Merchant,39.0,32116.14,Escalated,1,2026-05
+FCA00183,CUST10448,2026-05-08,Fraud,Geo Anomaly,65.0,48442.7,Closed - Explained,0,2026-05
+FCA00184,CUST11016,2026-09-07,KYC/EDD,Source of Funds,93.0,18301.27,Closed - Explained,0,2026-09
+FCA00185,CUST10079,2026-06-26,Fraud,Account Takeover,71.0,5960.73,Escalated,1,2026-06
+FCA00186,CUST10184,2026-09-21,Transaction Monitoring,High-Risk Wire,56.0,44632.84,Closed - Explained,0,2026-09
+FCA00187,CUST10879,2026-03-16,Fraud,Suspicious Merchant,98.0,81826.32,Escalated,1,2026-03
+FCA00188,CUST11196,2026-04-07,Fraud,Velocity Spike,67.0,40691.17,Escalated,1,2026-04
+FCA00189,CUST10077,2026-02-15,Transaction Monitoring,Structuring,38.0,23675.42,Closed - Explained,0,2026-02
+FCA00190,CUST11042,2026-03-14,Transaction Monitoring,Unusual Volume,54.0,48440.15,Closed - Explained,0,2026-03
+FCA00191,CUST10750,2026-01-28,Fraud,Velocity Spike,60.0,15323.96,Escalated,1,2026-01
+FCA00192,CUST10387,2026-08-27,Transaction Monitoring,Structuring,61.0,28883.71,Escalated,1,2026-08
+FCA00193,CUST11071,2026-02-01,Sanctions,Name Match,21.0,207068.26,Closed - Explained,0,2026-02
+FCA00194,CUST11137,2026-08-16,Fraud,Geo Anomaly,56.0,18602.69,Escalated,1,2026-08
+FCA00195,CUST10426,2026-09-30,Transaction Monitoring,Rapid Movement,99.0,12931.65,Closed - Explained,0,2026-09
+FCA00196,CUST11154,2026-02-04,Fraud,Account Takeover,98.0,32568.23,Escalated,1,2026-02
+FCA00197,CUST10880,2026-02-23,KYC/EDD,Source of Funds,42.0,32121.87,Closed - Explained,0,2026-02
+FCA00198,CUST10846,2026-05-13,Fraud,Suspicious Merchant,13.0,21180.28,Closed - Explained,0,2026-05
+FCA00199,CUST10774,2026-09-16,KYC/EDD,Source of Funds,80.0,11065.0,Escalated,1,2026-09
+FCA00200,CUST10031,2026-07-17,Fraud,Velocity Spike,58.0,127232.18,Closed - Explained,0,2026-07
+FCA00201,CUST10756,2026-07-21,KYC/EDD,Source of Funds,91.0,60897.75,Closed - Explained,0,2026-07
+FCA00202,CUST10315,2026-05-01,Sanctions,Watchlist Exposure,27.0,63465.78,Closed - Explained,0,2026-05
+FCA00203,CUST10654,2026-08-13,Sanctions,High-Risk Geography,57.0,24518.32,Closed - Explained,0,2026-08
+FCA00204,CUST11188,2026-07-01,Fraud,Suspicious Merchant,57.0,14379.21,Closed - Explained,0,2026-07
+FCA00205,CUST10451,2026-01-03,Transaction Monitoring,Unusual Volume,29.0,15210.13,Closed - Explained,0,2026-01
+FCA00206,CUST10664,2026-06-13,Transaction Monitoring,Rapid Movement,97.0,53042.69,Escalated,1,2026-06
+FCA00207,CUST10386,2026-07-04,Transaction Monitoring,High-Risk Wire,84.0,14504.29,Closed - Explained,0,2026-07
+FCA00208,CUST10076,2026-06-18,KYC/EDD,Source of Funds,51.0,55498.52,Closed - Explained,0,2026-06
+FCA00209,CUST10102,2026-02-04,Sanctions,Name Match,76.0,6498.09,Closed - Explained,0,2026-02
+FCA00210,CUST10888,2026-03-13,Transaction Monitoring,Unusual Volume,70.0,87066.68,Escalated,1,2026-03
+FCA00211,CUST10398,2026-04-23,Sanctions,High-Risk Geography,41.0,13014.36,Closed - Explained,0,2026-04
+FCA00212,CUST10258,2026-04-10,KYC/EDD,PEP Exposure,71.0,79870.59,Closed - Explained,0,2026-04
+FCA00213,CUST10304,2026-06-03,Transaction Monitoring,High-Risk Wire,82.0,32042.7,Escalated,1,2026-06
+FCA00214,CUST11064,2026-05-04,Transaction Monitoring,Unusual Volume,91.0,70253.65,Escalated,1,2026-05
+FCA00215,CUST10216,2026-04-25,Fraud,Suspicious Merchant,29.0,20091.21,Closed - Explained,0,2026-04
+FCA00216,CUST10688,2026-02-27,Sanctions,Name Match,79.0,67687.81,Escalated,1,2026-02
+FCA00217,CUST11132,2026-01-31,KYC/EDD,KYC Refresh,55.0,21361.76,Escalated,1,2026-01
+FCA00218,CUST10579,2026-09-13,Transaction Monitoring,Unusual Volume,54.0,145249.72,Escalated,1,2026-09
+FCA00219,CUST10366,2026-08-12,Transaction Monitoring,Structuring,64.0,31574.53,Escalated,1,2026-08
+FCA00220,CUST10344,2026-04-04,KYC/EDD,Adverse Media,40.0,35880.38,Closed - Explained,0,2026-04
+FCA00221,CUST10544,2026-07-07,Sanctions,Watchlist Exposure,31.0,11485.92,Escalated,1,2026-07
+FCA00222,CUST10041,2026-07-02,Transaction Monitoring,High-Risk Wire,36.0,1329.62,Closed - Explained,0,2026-07
+FCA00223,CUST10162,2026-01-01,Fraud,Velocity Spike,35.0,6154.25,Closed - Explained,0,2026-01
+FCA00224,CUST10824,2026-08-18,Fraud,Velocity Spike,85.0,27590.85,Escalated,1,2026-08
+FCA00225,CUST11110,2026-04-22,Fraud,Suspicious Merchant,48.0,34581.06,Escalated,1,2026-04
+FCA00226,CUST10759,2026-04-21,Transaction Monitoring,Structuring,54.0,14297.97,Escalated,1,2026-04
+FCA00227,CUST10873,2026-05-10,Transaction Monitoring,Unusual Volume,82.0,72804.38,Escalated,1,2026-05
+FCA00228,CUST10383,2026-06-18,KYC/EDD,Adverse Media,51.0,19893.94,Closed - Explained,0,2026-06
+FCA00229,CUST11004,2026-07-14,Transaction Monitoring,Unusual Volume,90.0,4180.09,Escalated,1,2026-07
+FCA00230,CUST10189,2026-07-14,Transaction Monitoring,Unusual Volume,44.0,16569.73,Closed - Explained,0,2026-07
+FCA00231,CUST10711,2026-05-04,Transaction Monitoring,Unusual Volume,60.0,6773.94,Escalated,1,2026-05
+FCA00232,CUST10988,2026-08-08,Transaction Monitoring,Structuring,49.0,65815.1,Closed - Explained,0,2026-08
+FCA00233,CUST11008,2026-08-09,Transaction Monitoring,Structuring,54.0,57783.13,Closed - Explained,0,2026-08
+FCA00234,CUST10787,2026-05-10,Sanctions,Watchlist Exposure,63.0,68442.52,Escalated,1,2026-05
+FCA00235,CUST10416,2026-02-09,Transaction Monitoring,Unusual Volume,57.0,6193.36,Closed - Explained,0,2026-02
+FCA00236,CUST10646,2026-07-19,Transaction Monitoring,Structuring,94.0,72503.12,Escalated,1,2026-07
+FCA00237,CUST10518,2026-03-05,Transaction Monitoring,High-Risk Wire,53.0,4695.77,Closed - Explained,0,2026-03
+FCA00238,CUST10077,2026-04-21,Transaction Monitoring,Unusual Volume,53.0,62899.77,Closed - Explained,0,2026-04
+FCA00239,CUST10468,2026-06-12,KYC/EDD,PEP Exposure,76.0,114833.23,Closed - Explained,0,2026-06
+FCA00240,CUST11059,2026-05-13,KYC/EDD,Source of Funds,55.0,102771.6,Closed - Explained,0,2026-05
+FCA00241,CUST10645,2026-08-19,Sanctions,High-Risk Geography,52.0,32128.43,Closed - Explained,0,2026-08
+FCA00242,CUST10766,2026-06-30,KYC/EDD,Source of Funds,99.0,27929.03,Escalated,1,2026-06
+FCA00243,CUST10155,2026-08-01,Sanctions,Name Match,37.0,33723.82,Closed - Explained,0,2026-08
+FCA00244,CUST10580,2026-01-17,Transaction Monitoring,High-Risk Wire,51.0,109588.01,Closed - Explained,0,2026-01
+FCA00245,CUST10875,2026-09-10,KYC/EDD,PEP Exposure,56.0,91336.06,Closed - Explained,0,2026-09
+FCA00246,CUST10335,2026-04-24,Transaction Monitoring,Structuring,47.0,8041.75,Escalated,1,2026-04
+FCA00247,CUST10371,2026-04-09,Transaction Monitoring,Rapid Movement,57.0,23661.97,Closed - Explained,0,2026-04
+FCA00248,CUST11135,2026-04-13,Transaction Monitoring,Unusual Volume,80.0,32112.1,Escalated,1,2026-04
+FCA00249,CUST10161,2026-09-22,Sanctions,High-Risk Geography,52.0,3442.61,Closed - Explained,0,2026-09
+FCA00250,CUST10127,2026-07-28,Fraud,Geo Anomaly,41.0,83313.41,Closed - Explained,0,2026-07
+FCA00251,CUST10685,2026-08-05,Fraud,Account Takeover,71.0,47488.67,Closed - Explained,0,2026-08
+FCA00252,CUST10458,2026-08-28,Sanctions,High-Risk Geography,49.0,32734.82,Closed - Explained,0,2026-08
+FCA00253,CUST11187,2026-02-16,Fraud,Geo Anomaly,58.0,93846.94,Closed - Explained,0,2026-02
+FCA00254,CUST11034,2026-03-03,Sanctions,Watchlist Exposure,78.0,45341.7,Closed - Explained,0,2026-03
+FCA00255,CUST10079,2026-01-27,Transaction Monitoring,Rapid Movement,47.0,6725.76,Closed - Explained,0,2026-01
+FCA00256,CUST10069,2026-06-16,Transaction Monitoring,Structuring,55.0,543273.4,Closed - Explained,0,2026-06
+FCA00257,CUST10586,2026-09-24,Sanctions,Name Match,67.0,47711.27,Escalated,1,2026-09
+FCA00258,CUST10790,2026-05-16,KYC/EDD,Source of Funds,79.0,22626.93,Closed - Explained,0,2026-05
+FCA00259,CUST10371,2026-04-11,Transaction Monitoring,High-Risk Wire,77.0,49751.01,Escalated,1,2026-04
+FCA00260,CUST10002,2026-05-31,Transaction Monitoring,Structuring,60.0,16692.83,Escalated,1,2026-05
+FCA00261,CUST10548,2026-03-28,Transaction Monitoring,Structuring,43.0,79374.64,Escalated,1,2026-03
+FCA00262,CUST10027,2026-08-01,Transaction Monitoring,Unusual Volume,73.0,49870.27,Escalated,1,2026-08
+FCA00263,CUST11117,2026-03-16,Transaction Monitoring,Structuring,73.0,3143.77,Closed - Explained,0,2026-03
+FCA00264,CUST10782,2026-09-05,Transaction Monitoring,Rapid Movement,67.0,110014.0,Escalated,1,2026-09
+FCA00265,CUST10267,2026-09-17,Sanctions,High-Risk Geography,47.0,40820.98,Closed - Explained,0,2026-09
+FCA00266,CUST10828,2026-03-30,KYC/EDD,KYC Refresh,72.0,84619.94,Escalated,1,2026-03
+FCA00267,CUST11180,2026-09-21,Sanctions,High-Risk Geography,55.0,39845.72,Closed - Explained,0,2026-09
+FCA00268,CUST10247,2026-08-19,Fraud,Suspicious Merchant,46.0,11192.42,Escalated,1,2026-08
+FCA00269,CUST10535,2026-08-27,Sanctions,High-Risk Geography,39.0,56985.16,Escalated,1,2026-08
+FCA00270,CUST11179,2026-01-31,KYC/EDD,Source of Funds,55.0,74039.85,Closed - Explained,0,2026-01
+FCA00271,CUST10801,2026-07-28,KYC/EDD,KYC Refresh,27.0,38401.39,Closed - Explained,0,2026-07
+FCA00272,CUST10361,2026-06-11,KYC/EDD,Source of Funds,61.0,21372.36,Escalated,1,2026-06
+FCA00273,CUST10592,2026-08-11,Transaction Monitoring,Unusual Volume,51.0,6372.9,Closed - Explained,0,2026-08
+FCA00274,CUST10675,2026-04-26,KYC/EDD,Adverse Media,72.0,7109.19,Closed - Explained,0,2026-04
+FCA00275,CUST11157,2026-06-06,Fraud,Account Takeover,35.0,22489.33,Closed - Explained,0,2026-06
+FCA00276,CUST10210,2026-04-15,Fraud,Suspicious Merchant,69.0,8023.12,Closed - Explained,0,2026-04
+FCA00277,CUST10371,2026-07-01,Transaction Monitoring,Structuring,54.0,31584.69,Closed - Explained,0,2026-07
+FCA00278,CUST10073,2026-06-16,Sanctions,Name Match,69.0,19844.13,Closed - Explained,0,2026-06
+FCA00279,CUST10874,2026-03-18,Sanctions,High-Risk Geography,67.0,33659.3,Escalated,1,2026-03
+FCA00280,CUST10418,2026-04-18,Fraud,Account Takeover,52.0,13824.39,Closed - Explained,0,2026-04
+FCA00281,CUST10466,2026-05-23,Fraud,Geo Anomaly,50.0,14552.33,Escalated,1,2026-05
+FCA00282,CUST10078,2026-03-22,Transaction Monitoring,High-Risk Wire,66.0,35488.6,Escalated,1,2026-03
+FCA00283,CUST10939,2026-03-20,KYC/EDD,Source of Funds,48.0,82809.34,Escalated,1,2026-03
+FCA00284,CUST10963,2026-04-06,KYC/EDD,Adverse Media,71.0,67453.33,Closed - Explained,0,2026-04
+FCA00285,CUST11010,2026-04-27,Fraud,Velocity Spike,5.0,63549.03,Escalated,1,2026-04
+FCA00286,CUST11110,2026-09-27,Transaction Monitoring,Structuring,59.0,21683.87,Closed - Explained,0,2026-09
+FCA00287,CUST10227,2026-01-23,Transaction Monitoring,High-Risk Wire,55.0,19612.0,Closed - Explained,0,2026-01
+FCA00288,CUST10903,2026-09-04,Fraud,Geo Anomaly,88.0,30807.39,Closed - Explained,0,2026-09
+FCA00289,CUST10535,2026-05-17,Transaction Monitoring,Rapid Movement,59.0,23854.73,Closed - Explained,0,2026-05
+FCA00290,CUST10772,2026-02-21,Transaction Monitoring,Structuring,70.0,40062.82,Closed - Explained,0,2026-02
+FCA00291,CUST10329,2026-02-28,Transaction Monitoring,Structuring,79.0,43179.37,Escalated,1,2026-02
+FCA00292,CUST10675,2026-02-21,Transaction Monitoring,Rapid Movement,77.0,6027.7,Closed - Explained,0,2026-02
+FCA00293,CUST10045,2026-08-06,Transaction Monitoring,High-Risk Wire,73.0,26730.06,Escalated,1,2026-08
+FCA00294,CUST10801,2026-02-11,Fraud,Account Takeover,50.0,5577.04,Closed - Explained,0,2026-02
+FCA00295,CUST11015,2026-08-10,Fraud,Account Takeover,47.0,35422.55,Closed - Explained,0,2026-08
+FCA00296,CUST10369,2026-09-27,Fraud,Suspicious Merchant,63.0,50721.28,Closed - Explained,0,2026-09
+FCA00297,CUST11087,2026-02-24,Transaction Monitoring,Unusual Volume,70.0,13507.61,Escalated,1,2026-02
+FCA00298,CUST10536,2026-04-23,Sanctions,High-Risk Geography,57.0,63016.96,Closed - Explained,0,2026-04
+FCA00299,CUST10335,2026-02-27,Fraud,Suspicious Merchant,87.0,7457.27,Escalated,1,2026-02
+FCA00300,CUST10410,2026-02-24,Transaction Monitoring,High-Risk Wire,59.0,18382.06,Escalated,1,2026-02
+FCA00301,CUST10287,2026-02-23,Sanctions,High-Risk Geography,57.0,18362.36,Closed - Explained,0,2026-02
+FCA00302,CUST10032,2026-08-17,Transaction Monitoring,Unusual Volume,77.0,24969.29,Closed - Explained,0,2026-08
+FCA00303,CUST11143,2026-05-29,Transaction Monitoring,Unusual Volume,50.0,2227.44,Closed - Explained,0,2026-05
+FCA00304,CUST10305,2026-01-28,Transaction Monitoring,Rapid Movement,93.0,19460.05,Escalated,1,2026-01
+FCA00305,CUST10371,2026-01-19,Fraud,Velocity Spike,51.0,11543.96,Closed - Explained,0,2026-01
+FCA00306,CUST10420,2026-09-08,Sanctions,Name Match,33.0,4970.86,Closed - Explained,0,2026-09
+FCA00307,CUST10705,2026-05-20,Fraud,Geo Anomaly,52.0,49171.04,Closed - Explained,0,2026-05
+FCA00308,CUST10442,2026-05-18,Fraud,Suspicious Merchant,74.0,6855.08,Closed - Explained,0,2026-05
+FCA00309,CUST11004,2026-08-20,Transaction Monitoring,Unusual Volume,21.0,150220.09,Closed - Explained,0,2026-08
+FCA00310,CUST10804,2026-09-01,Transaction Monitoring,Structuring,56.0,35350.09,Closed - Explained,0,2026-09
+FCA00311,CUST11134,2026-02-23,Fraud,Suspicious Merchant,31.0,3574.95,Closed - Explained,0,2026-02
+FCA00312,CUST10096,2026-05-10,Sanctions,Name Match,26.0,19104.6,Closed - Explained,0,2026-05
+FCA00313,CUST10742,2026-06-06,Sanctions,Watchlist Exposure,100.0,96691.9,Escalated,1,2026-06
+FCA00314,CUST10364,2026-03-26,Sanctions,Watchlist Exposure,64.0,6746.54,Closed - Explained,0,2026-03
+FCA00315,CUST10618,2026-05-23,Transaction Monitoring,Rapid Movement,59.0,36450.29,Escalated,1,2026-05
+FCA00316,CUST10568,2026-04-23,Transaction Monitoring,High-Risk Wire,72.0,19548.17,Closed - Explained,0,2026-04
+FCA00317,CUST11053,2026-09-03,Fraud,Account Takeover,12.0,12192.91,Closed - Explained,0,2026-09
+FCA00318,CUST10543,2026-04-09,Fraud,Suspicious Merchant,69.0,16374.16,Escalated,1,2026-04
+FCA00319,CUST10932,2026-02-22,Fraud,Suspicious Merchant,39.0,55799.4,Closed - Explained,0,2026-02
+FCA00320,CUST10357,2026-04-25,Transaction Monitoring,High-Risk Wire,54.0,32605.52,Closed - Explained,0,2026-04
+FCA00321,CUST10844,2026-05-30,Sanctions,Name Match,30.0,16947.58,Closed - Explained,0,2026-05
+FCA00322,CUST10103,2026-09-01,Fraud,Velocity Spike,53.0,11390.73,Escalated,1,2026-09
+FCA00323,CUST10870,2026-08-28,Sanctions,Name Match,64.0,91463.91,Closed - Explained,0,2026-08
+FCA00324,CUST11103,2026-03-22,Transaction Monitoring,Unusual Volume,37.0,6032.47,Closed - Explained,0,2026-03
+FCA00325,CUST10817,2026-05-15,KYC/EDD,KYC Refresh,56.0,10374.78,Closed - Explained,0,2026-05
+FCA00326,CUST10521,2026-03-20,Transaction Monitoring,High-Risk Wire,84.0,8041.37,Escalated,1,2026-03
+FCA00327,CUST10546,2026-04-28,Transaction Monitoring,Rapid Movement,82.0,18596.83,Escalated,1,2026-04
+FCA00328,CUST10189,2026-08-16,Fraud,Geo Anomaly,48.0,16661.89,Closed - Explained,0,2026-08
+FCA00329,CUST10542,2026-02-04,KYC/EDD,Adverse Media,88.0,29830.46,Escalated,1,2026-02
+FCA00330,CUST10758,2026-05-17,KYC/EDD,KYC Refresh,76.0,16518.26,Escalated,1,2026-05
+FCA00331,CUST11063,2026-07-09,KYC/EDD,Adverse Media,83.0,51821.86,Escalated,1,2026-07
+FCA00332,CUST10585,2026-05-22,Transaction Monitoring,High-Risk Wire,71.0,60863.47,Closed - Explained,0,2026-05
+FCA00333,CUST10069,2026-03-30,Fraud,Velocity Spike,58.0,61099.59,Closed - Explained,0,2026-03
+FCA00334,CUST10952,2026-01-10,Fraud,Account Takeover,60.0,9683.55,Closed - Explained,0,2026-01
+FCA00335,CUST10322,2026-03-20,Fraud,Suspicious Merchant,77.0,13536.9,Closed - Explained,0,2026-03
+FCA00336,CUST10659,2026-03-08,Fraud,Suspicious Merchant,61.0,3412.94,Escalated,1,2026-03
+FCA00337,CUST10847,2026-04-08,Transaction Monitoring,Structuring,36.0,41404.09,Closed - Explained,0,2026-04
+FCA00338,CUST10272,2026-03-28,Transaction Monitoring,High-Risk Wire,42.0,6142.23,Escalated,1,2026-03
+FCA00339,CUST11110,2026-04-26,Fraud,Suspicious Merchant,50.0,31803.5,Closed - Explained,0,2026-04
+FCA00340,CUST11082,2026-05-15,Sanctions,Watchlist Exposure,52.0,53771.67,Closed - Explained,0,2026-05
+FCA00341,CUST10500,2026-02-20,Transaction Monitoring,Rapid Movement,66.0,1734.33,Escalated,1,2026-02
+FCA00342,CUST10206,2026-03-28,KYC/EDD,Source of Funds,61.0,30807.93,Closed - Explained,0,2026-03
+FCA00343,CUST10455,2026-06-08,KYC/EDD,Adverse Media,69.0,31079.24,Closed - Explained,0,2026-06
+FCA00344,CUST10352,2026-07-18,KYC/EDD,PEP Exposure,83.0,39310.18,Escalated,1,2026-07
+FCA00345,CUST10817,2026-03-13,Sanctions,Watchlist Exposure,59.0,12636.63,Closed - Explained,0,2026-03
+FCA00346,CUST11194,2026-03-29,Fraud,Geo Anomaly,32.0,9016.2,Closed - Explained,0,2026-03
+FCA00347,CUST10222,2026-08-15,Transaction Monitoring,Unusual Volume,63.0,31806.52,Escalated,1,2026-08
+FCA00348,CUST10554,2026-03-15,Fraud,Account Takeover,57.0,34078.85,Escalated,1,2026-03
+FCA00349,CUST10306,2026-08-15,KYC/EDD,Source of Funds,85.0,18619.93,Escalated,1,2026-08
+FCA00350,CUST11137,2026-05-28,Transaction Monitoring,Structuring,46.0,11175.91,Closed - Explained,0,2026-05
+FCA00351,CUST10565,2026-06-28,Fraud,Geo Anomaly,67.0,297559.21,Closed - Explained,0,2026-06
+FCA00352,CUST10564,2026-08-01,KYC/EDD,PEP Exposure,59.0,13877.4,Closed - Explained,0,2026-08
+FCA00353,CUST10463,2026-06-18,Transaction Monitoring,Unusual Volume,46.0,49934.63,Closed - Explained,0,2026-06
+FCA00354,CUST11061,2026-03-29,Sanctions,Watchlist Exposure,47.0,194257.54,Closed - Explained,0,2026-03
+FCA00355,CUST10348,2026-06-11,Transaction Monitoring,Structuring,53.0,5444.5,Closed - Explained,0,2026-06
+FCA00356,CUST10970,2026-07-28,Sanctions,Watchlist Exposure,44.0,42224.32,Closed - Explained,0,2026-07
+FCA00357,CUST10310,2026-01-28,Transaction Monitoring,Structuring,86.0,6009.07,Closed - Explained,0,2026-01
+FCA00358,CUST10373,2026-06-26,Transaction Monitoring,Unusual Volume,68.0,31870.32,Closed - Explained,0,2026-06
+FCA00359,CUST10848,2026-07-31,KYC/EDD,KYC Refresh,47.0,14102.8,Closed - Explained,0,2026-07
+FCA00360,CUST10868,2026-02-12,KYC/EDD,Adverse Media,25.0,3301.44,Closed - Explained,0,2026-02
+FCA00361,CUST10917,2026-08-29,KYC/EDD,KYC Refresh,72.0,120773.62,Escalated,1,2026-08
+FCA00362,CUST10022,2026-08-25,Fraud,Velocity Spike,67.0,25294.84,Escalated,1,2026-08
+FCA00363,CUST10133,2026-07-29,Sanctions,Name Match,73.0,6635.4,Escalated,1,2026-07
+FCA00364,CUST10003,2026-05-23,KYC/EDD,Adverse Media,52.0,237675.86,Closed - Explained,0,2026-05
+FCA00365,CUST10676,2026-02-05,Fraud,Suspicious Merchant,83.0,23713.37,Escalated,1,2026-02
+FCA00366,CUST10659,2026-04-08,Transaction Monitoring,Rapid Movement,57.0,6754.26,Closed - Explained,0,2026-04
+FCA00367,CUST10965,2026-01-06,KYC/EDD,KYC Refresh,52.0,84740.63,Closed - Explained,0,2026-01
+FCA00368,CUST10476,2026-03-03,Sanctions,Name Match,42.0,28887.49,Closed - Explained,0,2026-03
+FCA00369,CUST10510,2026-03-15,Fraud,Account Takeover,52.0,12813.21,Closed - Explained,0,2026-03
+FCA00370,CUST10008,2026-09-24,Fraud,Suspicious Merchant,59.0,16539.45,Closed - Explained,0,2026-09
+FCA00371,CUST10006,2026-05-26,Transaction Monitoring,Rapid Movement,17.0,15427.44,Closed - Explained,0,2026-05
+FCA00372,CUST10832,2026-06-06,Sanctions,Name Match,62.0,92109.95,Closed - Explained,0,2026-06
+FCA00373,CUST10708,2026-04-02,Transaction Monitoring,High-Risk Wire,71.0,91841.79,Escalated,1,2026-04
+FCA00374,CUST10398,2026-03-30,Sanctions,Watchlist Exposure,64.0,18443.3,Escalated,1,2026-03
+FCA00375,CUST11016,2026-04-17,KYC/EDD,Adverse Media,70.0,184593.58,Escalated,1,2026-04
+FCA00376,CUST10164,2026-03-04,KYC/EDD,Source of Funds,67.0,12632.82,Escalated,1,2026-03
+FCA00377,CUST10252,2026-06-24,Fraud,Geo Anomaly,84.0,9800.32,Escalated,1,2026-06
+FCA00378,CUST10198,2026-06-15,Transaction Monitoring,Rapid Movement,72.0,19731.02,Escalated,1,2026-06
+FCA00379,CUST10879,2026-06-29,Fraud,Account Takeover,56.0,76082.91,Closed - Explained,0,2026-06
+FCA00380,CUST10836,2026-09-03,Transaction Monitoring,Unusual Volume,65.0,16990.11,Escalated,1,2026-09
+FCA00381,CUST10228,2026-04-28,Transaction Monitoring,Rapid Movement,34.0,31704.63,Closed - Explained,0,2026-04
+FCA00382,CUST10120,2026-01-20,Fraud,Account Takeover,46.0,60144.09,Closed - Explained,0,2026-01
+FCA00383,CUST10816,2026-09-16,Fraud,Account Takeover,61.0,54174.9,Escalated,1,2026-09
+FCA00384,CUST10013,2026-06-15,Sanctions,High-Risk Geography,51.0,101978.24,Closed - Explained,0,2026-06
+FCA00385,CUST10634,2026-08-27,Sanctions,Watchlist Exposure,64.0,17066.58,Escalated,1,2026-08
+FCA00386,CUST10084,2026-07-14,Transaction Monitoring,High-Risk Wire,97.0,67606.59,Escalated,1,2026-07
+FCA00387,CUST10906,2026-06-16,Transaction Monitoring,Rapid Movement,29.0,18223.9,Closed - Explained,0,2026-06
+FCA00388,CUST10171,2026-05-09,Fraud,Geo Anomaly,36.0,141395.23,Closed - Explained,0,2026-05
+FCA00389,CUST10428,2026-09-12,Transaction Monitoring,Rapid Movement,58.0,49794.66,Closed - Explained,0,2026-09
+FCA00390,CUST10714,2026-01-16,KYC/EDD,Adverse Media,73.0,2105.82,Escalated,1,2026-01
+FCA00391,CUST10453,2026-08-05,KYC/EDD,Adverse Media,44.0,17987.45,Closed - Explained,0,2026-08
+FCA00392,CUST10426,2026-08-19,Transaction Monitoring,High-Risk Wire,79.0,10308.09,Closed - Explained,0,2026-08
+FCA00393,CUST10331,2026-07-21,Transaction Monitoring,Structuring,67.0,19807.43,Closed - Explained,0,2026-07
+FCA00394,CUST10953,2026-04-05,Transaction Monitoring,Rapid Movement,92.0,16696.46,Escalated,1,2026-04
+FCA00395,CUST10353,2026-08-24,Fraud,Account Takeover,43.0,9587.34,Closed - Explained,0,2026-08
+FCA00396,CUST10877,2026-06-02,Transaction Monitoring,Unusual Volume,79.0,43912.78,Escalated,1,2026-06
+FCA00397,CUST11117,2026-06-26,Transaction Monitoring,High-Risk Wire,62.0,2562.36,Closed - Explained,0,2026-06
+FCA00398,CUST10523,2026-05-14,Transaction Monitoring,Unusual Volume,42.0,277266.61,Closed - Explained,0,2026-05
+FCA00399,CUST11116,2026-04-23,Transaction Monitoring,Unusual Volume,24.0,7172.83,Closed - Explained,0,2026-04
+FCA00400,CUST10822,2026-09-16,Transaction Monitoring,Structuring,37.0,24103.1,Closed - Explained,0,2026-09
+FCA00401,CUST11159,2026-05-07,Fraud,Suspicious Merchant,69.0,48496.91,Escalated,1,2026-05
+FCA00402,CUST11023,2026-04-27,Fraud,Suspicious Merchant,64.0,7921.2,Escalated,1,2026-04
+FCA00403,CUST10578,2026-06-12,Fraud,Velocity Spike,31.0,126279.94,Closed - Explained,0,2026-06
+FCA00404,CUST11123,2026-03-10,Transaction Monitoring,Structuring,55.0,19268.98,Closed - Explained,0,2026-03
+FCA00405,CUST11197,2026-07-11,Fraud,Velocity Spike,46.0,92813.48,Closed - Explained,0,2026-07
+FCA00406,CUST11056,2026-08-27,KYC/EDD,KYC Refresh,96.0,118395.99,Escalated,1,2026-08
+FCA00407,CUST10329,2026-08-14,Transaction Monitoring,High-Risk Wire,81.0,39269.99,Escalated,1,2026-08
+FCA00408,CUST10445,2026-05-23,Fraud,Geo Anomaly,62.0,10627.05,Escalated,1,2026-05
+FCA00409,CUST10709,2026-08-07,Transaction Monitoring,Rapid Movement,58.0,17825.68,Closed - Explained,0,2026-08
+FCA00410,CUST10054,2026-05-10,KYC/EDD,Adverse Media,63.0,51822.39,Closed - Explained,0,2026-05
+FCA00411,CUST11149,2026-01-08,Fraud,Geo Anomaly,51.0,6176.49,Closed - Explained,0,2026-01
+FCA00412,CUST10826,2026-06-11,Sanctions,High-Risk Geography,57.0,6117.26,Closed - Explained,0,2026-06
+FCA00413,CUST10614,2026-09-23,Fraud,Velocity Spike,46.0,35196.14,Closed - Explained,0,2026-09
+FCA00414,CUST10994,2026-03-14,KYC/EDD,PEP Exposure,26.0,180250.75,Closed - Explained,0,2026-03
+FCA00415,CUST11133,2026-08-19,Transaction Monitoring,Unusual Volume,47.0,26810.51,Closed - Explained,0,2026-08
+FCA00416,CUST11159,2026-05-31,Transaction Monitoring,High-Risk Wire,17.0,14716.84,Closed - Explained,0,2026-05
+FCA00417,CUST10670,2026-03-01,Transaction Monitoring,Unusual Volume,49.0,224328.21,Closed - Explained,0,2026-03
+FCA00418,CUST11137,2026-01-05,Fraud,Suspicious Merchant,37.0,51164.28,Escalated,1,2026-01
+FCA00419,CUST10665,2026-05-27,KYC/EDD,Adverse Media,60.0,19487.68,Closed - Explained,0,2026-05
+FCA00420,CUST10418,2026-08-29,Transaction Monitoring,High-Risk Wire,86.0,7843.18,Closed - Explained,0,2026-08
+FCA00421,CUST10953,2026-03-09,Transaction Monitoring,Rapid Movement,63.0,782297.82,Escalated,1,2026-03
+FCA00422,CUST10311,2026-05-29,Transaction Monitoring,High-Risk Wire,64.0,9566.68,Escalated,1,2026-05
+FCA00423,CUST10022,2026-05-11,Fraud,Geo Anomaly,56.0,14731.1,Closed - Explained,0,2026-05
+FCA00424,CUST10129,2026-01-13,Fraud,Suspicious Merchant,34.0,39318.17,Escalated,1,2026-01
+FCA00425,CUST11010,2026-01-29,Fraud,Account Takeover,70.0,41454.59,Closed - Explained,0,2026-01
+FCA00426,CUST10195,2026-02-17,Fraud,Account Takeover,85.0,29211.8,Escalated,1,2026-02
+FCA00427,CUST10611,2026-05-12,Fraud,Account Takeover,49.0,9234.45,Escalated,1,2026-05
+FCA00428,CUST10526,2026-02-22,Sanctions,High-Risk Geography,63.0,10893.88,Escalated,1,2026-02
+FCA00429,CUST10773,2026-02-14,Transaction Monitoring,Structuring,80.0,3772.97,Escalated,1,2026-02
+FCA00430,CUST10833,2026-09-01,Sanctions,Name Match,72.0,178301.11,Escalated,1,2026-09
+FCA00431,CUST10709,2026-01-07,Fraud,Geo Anomaly,74.0,23894.08,Escalated,1,2026-01
+FCA00432,CUST10623,2026-06-20,Transaction Monitoring,Unusual Volume,26.0,2404.13,Closed - Explained,0,2026-06
+FCA00433,CUST11104,2026-05-29,Sanctions,Watchlist Exposure,87.0,70468.23,Escalated,1,2026-05
+FCA00434,CUST10000,2026-06-03,Transaction Monitoring,High-Risk Wire,72.0,4984.85,Closed - Explained,0,2026-06
+FCA00435,CUST11178,2026-02-19,Fraud,Velocity Spike,58.0,279820.19,Closed - Explained,0,2026-02
+FCA00436,CUST10515,2026-04-07,Transaction Monitoring,Unusual Volume,78.0,40264.5,Escalated,1,2026-04
+FCA00437,CUST10520,2026-01-27,KYC/EDD,Source of Funds,93.0,8042.27,Closed - Explained,0,2026-01
+FCA00438,CUST10560,2026-09-21,Transaction Monitoring,High-Risk Wire,76.0,20154.52,Closed - Explained,0,2026-09
+FCA00439,CUST10176,2026-09-19,Sanctions,Name Match,37.0,4413.72,Closed - Explained,0,2026-09
+FCA00440,CUST10204,2026-08-01,Fraud,Geo Anomaly,51.0,17597.3,Escalated,1,2026-08
+FCA00441,CUST10163,2026-08-03,Sanctions,Watchlist Exposure,66.0,8341.34,Closed - Explained,0,2026-08
+FCA00442,CUST11168,2026-01-13,Transaction Monitoring,Structuring,91.0,13977.08,Escalated,1,2026-01
+FCA00443,CUST10294,2026-07-04,Transaction Monitoring,Structuring,46.0,46016.14,Closed - Explained,0,2026-07
+FCA00444,CUST10582,2026-02-03,KYC/EDD,Adverse Media,100.0,41973.74,Closed - Explained,0,2026-02
+FCA00445,CUST10157,2026-04-17,KYC/EDD,KYC Refresh,27.0,69972.81,Closed - Explained,0,2026-04
+FCA00446,CUST11065,2026-02-20,Fraud,Account Takeover,69.0,49008.85,Closed - Explained,0,2026-02
+FCA00447,CUST11039,2026-05-01,Fraud,Velocity Spike,35.0,18857.67,Escalated,1,2026-05
+FCA00448,CUST11055,2026-02-18,Transaction Monitoring,Rapid Movement,88.0,15337.16,Escalated,1,2026-02
+FCA00449,CUST10734,2026-06-03,Transaction Monitoring,Structuring,44.0,83909.33,Escalated,1,2026-06
+FCA00450,CUST10610,2026-03-02,Transaction Monitoring,High-Risk Wire,84.0,7299.42,Escalated,1,2026-03
+FCA00451,CUST10072,2026-05-20,Transaction Monitoring,Rapid Movement,59.0,56075.52,Closed - Explained,0,2026-05
+FCA00452,CUST10602,2026-04-10,Transaction Monitoring,Structuring,51.0,12185.5,Escalated,1,2026-04
+FCA00453,CUST11092,2026-04-29,Transaction Monitoring,Structuring,63.0,43433.72,Closed - Explained,0,2026-04
+FCA00454,CUST10857,2026-01-10,Sanctions,Watchlist Exposure,67.0,47102.29,Closed - Explained,0,2026-01
+FCA00455,CUST10993,2026-01-28,Fraud,Suspicious Merchant,26.0,7961.26,Escalated,1,2026-01
+FCA00456,CUST10224,2026-09-08,Transaction Monitoring,Structuring,64.0,31687.26,Closed - Explained,0,2026-09
+FCA00457,CUST10303,2026-03-09,Fraud,Geo Anomaly,30.0,8725.68,Closed - Explained,0,2026-03
+FCA00458,CUST11050,2026-09-07,Transaction Monitoring,Unusual Volume,58.0,51705.06,Closed - Explained,0,2026-09
+FCA00459,CUST10291,2026-09-05,Transaction Monitoring,Unusual Volume,68.0,51143.73,Escalated,1,2026-09
+FCA00460,CUST10589,2026-03-28,Sanctions,Watchlist Exposure,41.0,39833.34,Escalated,1,2026-03
+FCA00461,CUST10505,2026-08-07,Transaction Monitoring,High-Risk Wire,34.0,17882.81,Closed - Explained,0,2026-08
+FCA00462,CUST10277,2026-07-27,Transaction Monitoring,Rapid Movement,34.0,200441.68,Closed - Explained,0,2026-07
+FCA00463,CUST10123,2026-05-11,Fraud,Geo Anomaly,53.0,66428.14,Closed - Explained,0,2026-05
+FCA00464,CUST10947,2026-03-03,Transaction Monitoring,Structuring,65.0,40560.94,Escalated,1,2026-03
+FCA00465,CUST10463,2026-09-06,Transaction Monitoring,Unusual Volume,89.0,33360.29,Escalated,1,2026-09
+FCA00466,CUST10145,2026-09-05,Fraud,Account Takeover,38.0,9858.73,Closed - Explained,0,2026-09
+FCA00467,CUST10741,2026-01-16,KYC/EDD,PEP Exposure,94.0,16886.15,Escalated,1,2026-01
+FCA00468,CUST11112,2026-08-01,Fraud,Geo Anomaly,51.0,4707.37,Closed - Explained,0,2026-08
+FCA00469,CUST10954,2026-09-13,Transaction Monitoring,Structuring,36.0,24741.52,Closed - Explained,0,2026-09
+FCA00470,CUST11103,2026-09-05,Transaction Monitoring,High-Risk Wire,30.0,14355.32,Closed - Explained,0,2026-09
+FCA00471,CUST11138,2026-09-08,Transaction Monitoring,Structuring,55.0,93938.83,Closed - Explained,0,2026-09
+FCA00472,CUST10407,2026-01-23,Transaction Monitoring,High-Risk Wire,59.0,9889.68,Escalated,1,2026-01
+FCA00473,CUST10784,2026-06-25,Transaction Monitoring,Unusual Volume,50.0,26717.22,Closed - Explained,0,2026-06
+FCA00474,CUST10535,2026-01-17,Fraud,Suspicious Merchant,84.0,45487.07,Closed - Explained,0,2026-01
+FCA00475,CUST10290,2026-06-14,Transaction Monitoring,High-Risk Wire,44.0,13572.55,Closed - Explained,0,2026-06
+FCA00476,CUST10587,2026-04-23,Sanctions,Name Match,41.0,62886.15,Closed - Explained,0,2026-04
+FCA00477,CUST10812,2026-02-09,Fraud,Account Takeover,29.0,51526.72,Closed - Explained,0,2026-02
+FCA00478,CUST10513,2026-05-02,Transaction Monitoring,High-Risk Wire,93.0,40686.51,Escalated,1,2026-05
+FCA00479,CUST10492,2026-01-10,KYC/EDD,PEP Exposure,39.0,19681.29,Closed - Explained,0,2026-01
+FCA00480,CUST10612,2026-05-17,Transaction Monitoring,Rapid Movement,49.0,37028.62,Closed - Explained,0,2026-05
+FCA00481,CUST10352,2026-08-30,Sanctions,Watchlist Exposure,62.0,101785.35,Closed - Explained,0,2026-08
+FCA00482,CUST10685,2026-04-17,Sanctions,Name Match,42.0,9229.73,Closed - Explained,0,2026-04
+FCA00483,CUST11189,2026-05-03,Sanctions,High-Risk Geography,96.0,4114.62,Escalated,1,2026-05
+FCA00484,CUST10011,2026-04-16,Transaction Monitoring,Rapid Movement,84.0,22034.62,Closed - Explained,0,2026-04
+FCA00485,CUST10092,2026-07-12,KYC/EDD,Source of Funds,60.0,312760.14,Closed - Explained,0,2026-07
+FCA00486,CUST10592,2026-01-12,Transaction Monitoring,Rapid Movement,35.0,10582.03,Closed - Explained,0,2026-01
+FCA00487,CUST10270,2026-09-11,Sanctions,Name Match,68.0,23089.84,Escalated,1,2026-09
+FCA00488,CUST10290,2026-02-14,Fraud,Geo Anomaly,60.0,92500.1,Closed - Explained,0,2026-02
+FCA00489,CUST10556,2026-06-23,Fraud,Velocity Spike,80.0,31052.61,Closed - Explained,0,2026-06
+FCA00490,CUST11007,2026-04-01,KYC/EDD,Adverse Media,48.0,46107.01,Closed - Explained,0,2026-04
+FCA00491,CUST10674,2026-06-14,KYC/EDD,KYC Refresh,65.0,38309.34,Escalated,1,2026-06
+FCA00492,CUST10648,2026-07-11,Fraud,Velocity Spike,42.0,24853.75,Closed - Explained,0,2026-07
+FCA00493,CUST10826,2026-05-25,Fraud,Geo Anomaly,74.0,24083.95,Closed - Explained,0,2026-05
+FCA00494,CUST10747,2026-04-18,Fraud,Velocity Spike,85.0,11609.69,Escalated,1,2026-04
+FCA00495,CUST11159,2026-08-17,Transaction Monitoring,High-Risk Wire,61.0,19381.29,Closed - Explained,0,2026-08
+FCA00496,CUST11132,2026-01-14,Sanctions,Name Match,58.0,70658.61,Closed - Explained,0,2026-01
+FCA00497,CUST10255,2026-08-23,Fraud,Velocity Spike,84.0,58993.75,Closed - Explained,0,2026-08
+FCA00498,CUST10096,2026-08-31,Sanctions,Watchlist Exposure,52.0,24786.05,Closed - Explained,0,2026-08
+FCA00499,CUST10329,2026-06-05,Transaction Monitoring,Rapid Movement,56.0,28256.04,Closed - Explained,0,2026-06
+FCA00500,CUST10985,2026-04-21,Fraud,Geo Anomaly,48.0,9599.91,Closed - Explained,0,2026-04
+FCA00501,CUST10747,2026-05-04,Transaction Monitoring,Rapid Movement,57.0,22119.7,Closed - Explained,0,2026-05
+FCA00502,CUST10893,2026-09-11,Transaction Monitoring,Unusual Volume,73.0,60581.26,Closed - Explained,0,2026-09
+FCA00503,CUST10026,2026-06-26,KYC/EDD,PEP Exposure,32.0,59079.3,Closed - Explained,0,2026-06
+FCA00504,CUST11128,2026-09-30,KYC/EDD,KYC Refresh,64.0,4077.95,Closed - Explained,0,2026-09
+FCA00505,CUST10244,2026-03-03,KYC/EDD,KYC Refresh,62.0,5945.09,Closed - Explained,0,2026-03
+FCA00506,CUST10905,2026-07-05,Sanctions,Name Match,75.0,66041.81,Escalated,1,2026-07
+FCA00507,CUST10137,2026-02-19,Transaction Monitoring,Structuring,29.0,27297.06,Escalated,1,2026-02
+FCA00508,CUST10437,2026-04-01,Sanctions,Name Match,57.0,49127.81,Closed - Explained,0,2026-04
+FCA00509,CUST11045,2026-06-22,Sanctions,Watchlist Exposure,44.0,15940.36,Escalated,1,2026-06
+FCA00510,CUST10200,2026-06-06,Transaction Monitoring,Rapid Movement,68.0,36492.94,Closed - Explained,0,2026-06
+FCA00511,CUST10969,2026-02-05,Transaction Monitoring,Unusual Volume,65.0,19354.17,Closed - Explained,0,2026-02
+FCA00512,CUST10617,2026-09-17,KYC/EDD,Adverse Media,89.0,75099.8,Escalated,1,2026-09
+FCA00513,CUST10790,2026-01-05,Transaction Monitoring,Unusual Volume,73.0,40368.54,Closed - Explained,0,2026-01
+FCA00514,CUST10172,2026-02-21,Transaction Monitoring,Unusual Volume,61.0,45787.36,Closed - Explained,0,2026-02
+FCA00515,CUST10527,2026-05-03,Sanctions,Watchlist Exposure,98.0,85139.32,Escalated,1,2026-05
+FCA00516,CUST11012,2026-06-03,Fraud,Geo Anomaly,81.0,50069.89,Closed - Explained,0,2026-06
+FCA00517,CUST10622,2026-05-08,Transaction Monitoring,Rapid Movement,38.0,36319.69,Escalated,1,2026-05
+FCA00518,CUST11199,2026-05-28,Fraud,Geo Anomaly,55.0,14454.99,Closed - Explained,0,2026-05
+FCA00519,CUST10406,2026-06-09,Sanctions,Watchlist Exposure,53.0,41695.98,Closed - Explained,0,2026-06
+FCA00520,CUST10593,2026-04-01,Fraud,Velocity Spike,38.0,41869.62,Closed - Explained,0,2026-04
+FCA00521,CUST10076,2026-06-01,Transaction Monitoring,High-Risk Wire,45.0,10014.79,Escalated,1,2026-06
+FCA00522,CUST10870,2026-04-25,KYC/EDD,Source of Funds,39.0,116566.54,Closed - Explained,0,2026-04
+FCA00523,CUST10365,2026-03-05,Transaction Monitoring,High-Risk Wire,44.0,121111.63,Escalated,1,2026-03
+FCA00524,CUST10161,2026-03-06,Fraud,Account Takeover,57.0,11319.93,Closed - Explained,0,2026-03
+FCA00525,CUST11007,2026-08-15,Sanctions,Watchlist Exposure,56.0,2364.25,Closed - Explained,0,2026-08
+FCA00526,CUST10526,2026-09-16,Fraud,Suspicious Merchant,66.0,86102.9,Closed - Explained,0,2026-09
+FCA00527,CUST10002,2026-07-16,Transaction Monitoring,Structuring,48.0,43004.62,Closed - Explained,0,2026-07
+FCA00528,CUST10800,2026-08-10,KYC/EDD,Source of Funds,54.0,25234.09,Escalated,1,2026-08
+FCA00529,CUST10540,2026-07-07,Transaction Monitoring,Structuring,53.0,33709.91,Closed - Explained,0,2026-07
+FCA00530,CUST10100,2026-04-22,Transaction Monitoring,Unusual Volume,58.0,21096.72,Closed - Explained,0,2026-04
+FCA00531,CUST10497,2026-08-05,KYC/EDD,Source of Funds,55.0,36169.49,Closed - Explained,0,2026-08
+FCA00532,CUST10471,2026-08-18,Fraud,Geo Anomaly,56.0,13555.0,Closed - Explained,0,2026-08
+FCA00533,CUST10889,2026-03-16,Fraud,Suspicious Merchant,28.0,13146.81,Escalated,1,2026-03
+FCA00534,CUST10524,2026-09-09,Transaction Monitoring,High-Risk Wire,46.0,59221.76,Escalated,1,2026-09
+FCA00535,CUST10174,2026-08-28,Transaction Monitoring,Structuring,50.0,79263.69,Closed - Explained,0,2026-08
+FCA00536,CUST10991,2026-02-17,Fraud,Velocity Spike,60.0,17849.3,Closed - Explained,0,2026-02
+FCA00537,CUST10435,2026-08-18,Transaction Monitoring,Rapid Movement,30.0,88066.17,Escalated,1,2026-08
+FCA00538,CUST10002,2026-04-11,Transaction Monitoring,Structuring,31.0,24085.56,Closed - Explained,0,2026-04
+FCA00539,CUST10917,2026-01-09,Fraud,Geo Anomaly,50.0,57769.14,Closed - Explained,0,2026-01
+FCA00540,CUST10852,2026-05-24,Sanctions,High-Risk Geography,34.0,36716.32,Escalated,1,2026-05
+FCA00541,CUST11112,2026-03-16,Sanctions,Name Match,21.0,19616.06,Closed - Explained,0,2026-03
+FCA00542,CUST10233,2026-01-02,Sanctions,High-Risk Geography,73.0,23283.7,Escalated,1,2026-01
+FCA00543,CUST10232,2026-04-09,Fraud,Velocity Spike,74.0,28945.77,Closed - Explained,0,2026-04
+FCA00544,CUST10611,2026-01-06,Transaction Monitoring,High-Risk Wire,61.0,15215.07,Closed - Explained,0,2026-01
+FCA00545,CUST10677,2026-01-02,Fraud,Suspicious Merchant,86.0,28273.07,Closed - Explained,0,2026-01
+FCA00546,CUST11188,2026-05-20,Sanctions,High-Risk Geography,57.0,58942.69,Closed - Explained,0,2026-05
+FCA00547,CUST11123,2026-02-14,Transaction Monitoring,Unusual Volume,42.0,7520.4,Closed - Explained,0,2026-02
+FCA00548,CUST10190,2026-04-15,Transaction Monitoring,High-Risk Wire,56.0,28133.47,Closed - Explained,0,2026-04
+FCA00549,CUST10732,2026-04-21,KYC/EDD,KYC Refresh,33.0,69817.1,Escalated,1,2026-04
+FCA00550,CUST10678,2026-05-04,Fraud,Geo Anomaly,44.0,32484.76,Closed - Explained,0,2026-05
+FCA00551,CUST10708,2026-04-19,Sanctions,Name Match,63.0,13604.1,Escalated,1,2026-04
+FCA00552,CUST10296,2026-05-29,Sanctions,Name Match,52.0,30948.97,Closed - Explained,0,2026-05
+FCA00553,CUST11198,2026-07-11,KYC/EDD,PEP Exposure,50.0,17367.62,Closed - Explained,0,2026-07
+FCA00554,CUST10146,2026-01-19,Fraud,Velocity Spike,76.0,21889.58,Closed - Explained,0,2026-01
+FCA00555,CUST10368,2026-01-25,Transaction Monitoring,Rapid Movement,74.0,62019.95,Closed - Explained,0,2026-01
+FCA00556,CUST10350,2026-09-16,Transaction Monitoring,Rapid Movement,34.0,39205.98,Closed - Explained,0,2026-09
+FCA00557,CUST10314,2026-07-01,Transaction Monitoring,Structuring,67.0,9496.7,Closed - Explained,0,2026-07
+FCA00558,CUST11053,2026-04-19,Sanctions,Name Match,75.0,5817.64,Escalated,1,2026-04
+FCA00559,CUST10128,2026-07-07,Fraud,Account Takeover,66.0,225362.49,Closed - Explained,0,2026-07
+FCA00560,CUST10789,2026-06-29,Transaction Monitoring,High-Risk Wire,86.0,20415.94,Escalated,1,2026-06
+FCA00561,CUST10362,2026-07-23,Transaction Monitoring,Rapid Movement,53.0,36755.91,Closed - Explained,0,2026-07
+FCA00562,CUST10726,2026-04-04,Sanctions,Watchlist Exposure,58.0,9836.85,Closed - Explained,0,2026-04
+FCA00563,CUST10481,2026-07-03,Transaction Monitoring,High-Risk Wire,51.0,46242.01,Closed - Explained,0,2026-07
+FCA00564,CUST10982,2026-09-21,Transaction Monitoring,Unusual Volume,71.0,84797.04,Closed - Explained,0,2026-09
+FCA00565,CUST10362,2026-09-01,Sanctions,High-Risk Geography,95.0,6133.48,Closed - Explained,0,2026-09
+FCA00566,CUST11118,2026-04-21,Transaction Monitoring,High-Risk Wire,52.0,50678.89,Closed - Explained,0,2026-04
+FCA00567,CUST11129,2026-09-05,Fraud,Velocity Spike,54.0,32638.15,Closed - Explained,0,2026-09
+FCA00568,CUST10516,2026-04-22,Transaction Monitoring,Unusual Volume,35.0,45177.84,Closed - Explained,0,2026-04
+FCA00569,CUST10739,2026-03-11,Sanctions,Name Match,63.0,15465.04,Closed - Explained,0,2026-03
+FCA00570,CUST10365,2026-02-07,Fraud,Velocity Spike,53.0,13297.88,Closed - Explained,0,2026-02
+FCA00571,CUST10307,2026-03-27,Sanctions,Name Match,49.0,47923.72,Closed - Explained,0,2026-03
+FCA00572,CUST11004,2026-09-10,Transaction Monitoring,Rapid Movement,62.0,74599.75,Closed - Explained,0,2026-09
+FCA00573,CUST10317,2026-08-30,Fraud,Geo Anomaly,53.0,24498.95,Closed - Explained,0,2026-08
+FCA00574,CUST11138,2026-02-03,Transaction Monitoring,High-Risk Wire,56.0,49721.7,Closed - Explained,0,2026-02
+FCA00575,CUST10274,2026-06-02,KYC/EDD,PEP Exposure,59.0,11549.73,Escalated,1,2026-06
+FCA00576,CUST10499,2026-08-02,KYC/EDD,Adverse Media,100.0,53339.7,Escalated,1,2026-08
+FCA00577,CUST10421,2026-06-09,Transaction Monitoring,Structuring,67.0,133750.88,Escalated,1,2026-06
+FCA00578,CUST10969,2026-04-27,Fraud,Velocity Spike,49.0,13326.82,Escalated,1,2026-04
+FCA00579,CUST10414,2026-03-24,Transaction Monitoring,Rapid Movement,78.0,134895.98,Escalated,1,2026-03
+FCA00580,CUST10774,2026-08-19,KYC/EDD,Source of Funds,59.0,18470.72,Closed - Explained,0,2026-08
+FCA00581,CUST10732,2026-08-28,Transaction Monitoring,Structuring,48.0,19067.78,Closed - Explained,0,2026-08
+FCA00582,CUST11087,2026-03-28,Transaction Monitoring,Structuring,61.0,16149.12,Escalated,1,2026-03
+FCA00583,CUST10024,2026-09-15,Transaction Monitoring,Structuring,53.0,67832.97,Escalated,1,2026-09
+FCA00584,CUST10183,2026-07-25,Transaction Monitoring,High-Risk Wire,87.0,66180.82,Escalated,1,2026-07
+FCA00585,CUST10635,2026-03-18,Transaction Monitoring,Rapid Movement,35.0,12412.05,Closed - Explained,0,2026-03
+FCA00586,CUST11026,2026-09-10,Transaction Monitoring,High-Risk Wire,46.0,13334.0,Closed - Explained,0,2026-09
+FCA00587,CUST10107,2026-08-27,Transaction Monitoring,High-Risk Wire,26.0,6090.24,Escalated,1,2026-08
+FCA00588,CUST10518,2026-05-18,Transaction Monitoring,Unusual Volume,35.0,49596.3,Closed - Explained,0,2026-05
+FCA00589,CUST11068,2026-03-22,Fraud,Geo Anomaly,98.0,29790.0,Escalated,1,2026-03
+FCA00590,CUST10410,2026-07-24,Transaction Monitoring,Rapid Movement,58.0,7181.07,Escalated,1,2026-07
+FCA00591,CUST10186,2026-09-30,Transaction Monitoring,Unusual Volume,57.0,28150.5,Closed - Explained,0,2026-09
+FCA00592,CUST10732,2026-02-11,Transaction Monitoring,Unusual Volume,43.0,84822.52,Closed - Explained,0,2026-02
+FCA00593,CUST10922,2026-09-23,KYC/EDD,Source of Funds,51.0,51693.83,Escalated,1,2026-09
+FCA00594,CUST10374,2026-01-10,Sanctions,Name Match,62.0,135963.49,Closed - Explained,0,2026-01
+FCA00595,CUST10907,2026-02-01,Transaction Monitoring,High-Risk Wire,55.0,10249.67,Closed - Explained,0,2026-02
+FCA00596,CUST10695,2026-05-12,KYC/EDD,Adverse Media,49.0,15081.6,Closed - Explained,0,2026-05
+FCA00597,CUST11158,2026-01-11,Transaction Monitoring,High-Risk Wire,73.0,12340.21,Closed - Explained,0,2026-01
+FCA00598,CUST10983,2026-04-06,KYC/EDD,PEP Exposure,53.0,20070.22,Closed - Explained,0,2026-04
+FCA00599,CUST10189,2026-04-05,Sanctions,Name Match,36.0,13389.65,Closed - Explained,0,2026-04
+FCA00600,CUST10916,2026-08-28,Transaction Monitoring,Rapid Movement,48.0,15470.25,Closed - Explained,0,2026-08
+FCA00601,CUST10384,2026-08-24,Fraud,Geo Anomaly,69.0,23004.18,Escalated,1,2026-08
+FCA00602,CUST10890,2026-04-26,Sanctions,Watchlist Exposure,100.0,15812.47,Escalated,1,2026-04
+FCA00603,CUST10248,2026-02-01,KYC/EDD,Adverse Media,66.0,74003.98,Closed - Explained,0,2026-02
+FCA00604,CUST10882,2026-09-23,Transaction Monitoring,High-Risk Wire,56.0,47727.76,Escalated,1,2026-09
+FCA00605,CUST10915,2026-07-26,Transaction Monitoring,Unusual Volume,53.0,16362.91,Closed - Explained,0,2026-07
+FCA00606,CUST10425,2026-06-08,Transaction Monitoring,Unusual Volume,53.0,20709.35,Closed - Explained,0,2026-06
+FCA00607,CUST10831,2026-07-05,Transaction Monitoring,Structuring,44.0,19186.28,Closed - Explained,0,2026-07
+FCA00608,CUST10452,2026-07-13,Transaction Monitoring,Rapid Movement,25.0,23700.19,Escalated,1,2026-07
+FCA00609,CUST11169,2026-05-18,Fraud,Account Takeover,83.0,16456.41,Escalated,1,2026-05
+FCA00610,CUST10740,2026-05-18,Transaction Monitoring,Rapid Movement,49.0,128772.97,Closed - Explained,0,2026-05
+FCA00611,CUST11068,2026-02-06,Transaction Monitoring,High-Risk Wire,90.0,104777.17,Escalated,1,2026-02
+FCA00612,CUST11093,2026-05-17,Transaction Monitoring,Unusual Volume,93.0,24765.65,Escalated,1,2026-05
+FCA00613,CUST10580,2026-01-11,Fraud,Geo Anomaly,59.0,11275.91,Closed - Explained,0,2026-01
+FCA00614,CUST10617,2026-04-25,KYC/EDD,Source of Funds,80.0,32818.09,Closed - Explained,0,2026-04
+FCA00615,CUST10577,2026-09-10,Transaction Monitoring,High-Risk Wire,82.0,101058.37,Escalated,1,2026-09
+FCA00616,CUST10056,2026-01-02,Fraud,Account Takeover,69.0,97655.76,Closed - Explained,0,2026-01
+FCA00617,CUST10106,2026-07-11,KYC/EDD,PEP Exposure,59.0,48964.07,Closed - Explained,0,2026-07
+FCA00618,CUST10136,2026-08-22,Fraud,Geo Anomaly,76.0,72980.38,Escalated,1,2026-08
+FCA00619,CUST10980,2026-09-21,Transaction Monitoring,Rapid Movement,34.0,45327.01,Closed - Explained,0,2026-09
+FCA00620,CUST10945,2026-05-08,Fraud,Suspicious Merchant,57.0,4474.15,Closed - Explained,0,2026-05
+FCA00621,CUST10185,2026-04-13,KYC/EDD,Adverse Media,97.0,9368.29,Escalated,1,2026-04
+FCA00622,CUST10084,2026-02-20,Transaction Monitoring,Unusual Volume,70.0,37472.03,Closed - Explained,0,2026-02
+FCA00623,CUST11138,2026-03-25,Fraud,Suspicious Merchant,69.0,24831.35,Closed - Explained,0,2026-03
+FCA00624,CUST10814,2026-08-12,Sanctions,Watchlist Exposure,57.0,28329.8,Escalated,1,2026-08
+FCA00625,CUST10396,2026-04-15,Sanctions,High-Risk Geography,85.0,73316.18,Closed - Explained,0,2026-04
+FCA00626,CUST10688,2026-06-24,Fraud,Velocity Spike,65.0,9233.85,Closed - Explained,0,2026-06
+FCA00627,CUST10299,2026-05-15,KYC/EDD,Source of Funds,44.0,29374.14,Closed - Explained,0,2026-05
+FCA00628,CUST10436,2026-08-10,Transaction Monitoring,High-Risk Wire,70.0,14460.93,Closed - Explained,0,2026-08
+FCA00629,CUST10389,2026-08-21,Transaction Monitoring,Structuring,60.0,76375.03,Escalated,1,2026-08
+FCA00630,CUST10488,2026-07-01,Transaction Monitoring,High-Risk Wire,34.0,44414.74,Closed - Explained,0,2026-07
+FCA00631,CUST10066,2026-03-25,Sanctions,High-Risk Geography,70.0,83589.44,Escalated,1,2026-03
+FCA00632,CUST10787,2026-09-25,Transaction Monitoring,Structuring,74.0,32426.37,Escalated,1,2026-09
+FCA00633,CUST10490,2026-04-13,Fraud,Geo Anomaly,54.0,196813.1,Closed - Explained,0,2026-04
+FCA00634,CUST10120,2026-05-17,Transaction Monitoring,Unusual Volume,58.0,21029.37,Closed - Explained,0,2026-05
+FCA00635,CUST10396,2026-05-04,Fraud,Suspicious Merchant,55.0,44062.63,Closed - Explained,0,2026-05
+FCA00636,CUST11117,2026-08-20,Transaction Monitoring,Rapid Movement,56.0,72848.02,Closed - Explained,0,2026-08
+FCA00637,CUST10601,2026-09-29,Transaction Monitoring,High-Risk Wire,71.0,11390.14,Closed - Explained,0,2026-09
+FCA00638,CUST10767,2026-03-08,Fraud,Suspicious Merchant,33.0,16875.52,Closed - Explained,0,2026-03
+FCA00639,CUST10984,2026-08-08,KYC/EDD,Source of Funds,64.0,18946.85,Closed - Explained,0,2026-08
+FCA00640,CUST10463,2026-03-22,Sanctions,Name Match,26.0,10853.52,Closed - Explained,0,2026-03
+FCA00641,CUST10646,2026-02-21,Transaction Monitoring,High-Risk Wire,71.0,77392.92,Escalated,1,2026-02
+FCA00642,CUST10101,2026-09-08,Transaction Monitoring,Unusual Volume,72.0,31821.02,Closed - Explained,0,2026-09
+FCA00643,CUST10830,2026-08-20,Sanctions,Name Match,69.0,13169.5,Escalated,1,2026-08
+FCA00644,CUST10172,2026-08-03,KYC/EDD,KYC Refresh,45.0,32127.8,Closed - Explained,0,2026-08
+FCA00645,CUST11179,2026-03-01,Sanctions,Name Match,43.0,13371.92,Closed - Explained,0,2026-03
+FCA00646,CUST10668,2026-05-15,Fraud,Suspicious Merchant,84.0,16979.67,Closed - Explained,0,2026-05
+FCA00647,CUST10835,2026-04-02,Fraud,Account Takeover,74.0,46887.22,Escalated,1,2026-04
+FCA00648,CUST11020,2026-03-31,Sanctions,High-Risk Geography,84.0,37236.12,Closed - Explained,0,2026-03
+FCA00649,CUST10194,2026-07-18,Transaction Monitoring,High-Risk Wire,48.0,25493.41,Closed - Explained,0,2026-07
+FCA00650,CUST10137,2026-07-18,Fraud,Account Takeover,81.0,18238.06,Escalated,1,2026-07
+FCA00651,CUST11105,2026-07-02,Transaction Monitoring,Unusual Volume,57.0,48607.76,Closed - Explained,0,2026-07
+FCA00652,CUST10409,2026-06-30,Fraud,Account Takeover,44.0,9642.66,Closed - Explained,0,2026-06
+FCA00653,CUST10200,2026-09-08,Fraud,Suspicious Merchant,83.0,4163.14,Escalated,1,2026-09
+FCA00654,CUST10725,2026-05-30,Transaction Monitoring,Rapid Movement,63.0,32179.7,Closed - Explained,0,2026-05
+FCA00655,CUST10317,2026-04-30,Fraud,Velocity Spike,75.0,73607.52,Escalated,1,2026-04
+FCA00656,CUST10081,2026-01-05,KYC/EDD,Adverse Media,67.0,41151.21,Escalated,1,2026-01
+FCA00657,CUST11013,2026-01-01,KYC/EDD,PEP Exposure,57.0,276464.79,Closed - Explained,0,2026-01
+FCA00658,CUST10016,2026-08-08,Transaction Monitoring,High-Risk Wire,43.0,2774.74,Closed - Explained,0,2026-08
+FCA00659,CUST10011,2026-05-08,Fraud,Geo Anomaly,58.0,81005.86,Closed - Explained,0,2026-05
+FCA00660,CUST10247,2026-09-21,Transaction Monitoring,Structuring,43.0,2563.09,Closed - Explained,0,2026-09
+FCA00661,CUST11159,2026-04-29,KYC/EDD,Adverse Media,56.0,117614.08,Closed - Explained,0,2026-04
+FCA00662,CUST10649,2026-01-05,Sanctions,High-Risk Geography,39.0,8366.63,Escalated,1,2026-01
+FCA00663,CUST10945,2026-02-27,Transaction Monitoring,Structuring,90.0,91859.0,Escalated,1,2026-02
+FCA00664,CUST11086,2026-02-20,Transaction Monitoring,Unusual Volume,53.0,7409.95,Closed - Explained,0,2026-02
+FCA00665,CUST10894,2026-09-15,KYC/EDD,KYC Refresh,40.0,28828.4,Closed - Explained,0,2026-09
+FCA00666,CUST10195,2026-01-15,KYC/EDD,Source of Funds,70.0,5546.49,Closed - Explained,0,2026-01
+FCA00667,CUST10442,2026-07-18,Transaction Monitoring,Unusual Volume,100.0,19083.51,Escalated,1,2026-07
+FCA00668,CUST10733,2026-09-14,KYC/EDD,Adverse Media,58.0,27740.62,Closed - Explained,0,2026-09
+FCA00669,CUST10300,2026-03-28,Transaction Monitoring,High-Risk Wire,86.0,8936.0,Escalated,1,2026-03
+FCA00670,CUST10382,2026-06-01,Fraud,Suspicious Merchant,32.0,14693.98,Closed - Explained,0,2026-06
+FCA00671,CUST10304,2026-04-25,Sanctions,Name Match,15.0,2565.94,Closed - Explained,0,2026-04
+FCA00672,CUST10309,2026-09-23,Transaction Monitoring,Structuring,47.0,19722.79,Closed - Explained,0,2026-09
+FCA00673,CUST10228,2026-09-22,KYC/EDD,KYC Refresh,83.0,4949.73,Escalated,1,2026-09
+FCA00674,CUST10369,2026-07-18,Fraud,Suspicious Merchant,67.0,42235.98,Closed - Explained,0,2026-07
+FCA00675,CUST10696,2026-04-21,Transaction Monitoring,Structuring,37.0,4825.89,Closed - Explained,0,2026-04
+FCA00676,CUST10904,2026-08-22,KYC/EDD,Source of Funds,46.0,42757.56,Closed - Explained,0,2026-08
+FCA00677,CUST10298,2026-05-04,Sanctions,Name Match,56.0,43408.45,Closed - Explained,0,2026-05
+FCA00678,CUST10389,2026-04-16,Fraud,Geo Anomaly,36.0,10150.99,Closed - Explained,0,2026-04
+FCA00679,CUST10517,2026-02-02,Transaction Monitoring,Structuring,16.0,6790.02,Closed - Explained,0,2026-02
+FCA00680,CUST10007,2026-05-23,KYC/EDD,Source of Funds,67.0,73996.06,Closed - Explained,0,2026-05
+FCA00681,CUST10505,2026-01-30,Transaction Monitoring,Unusual Volume,16.0,6406.75,Closed - Explained,0,2026-01
+FCA00682,CUST10469,2026-08-24,Fraud,Suspicious Merchant,30.0,23461.13,Escalated,1,2026-08
+FCA00683,CUST11135,2026-05-10,Sanctions,Name Match,44.0,35398.72,Closed - Explained,0,2026-05
+FCA00684,CUST10104,2026-03-07,Transaction Monitoring,High-Risk Wire,49.0,54409.57,Closed - Explained,0,2026-03
+FCA00685,CUST11132,2026-03-11,Transaction Monitoring,Rapid Movement,61.0,19618.45,Escalated,1,2026-03
+FCA00686,CUST10669,2026-01-20,Transaction Monitoring,Structuring,30.0,49431.47,Closed - Explained,0,2026-01
+FCA00687,CUST10184,2026-09-26,Sanctions,Watchlist Exposure,57.0,26943.94,Closed - Explained,0,2026-09
+FCA00688,CUST10239,2026-01-21,Sanctions,Name Match,48.0,26676.48,Closed - Explained,0,2026-01
+FCA00689,CUST11156,2026-06-19,KYC/EDD,Source of Funds,64.0,34045.44,Escalated,1,2026-06
+FCA00690,CUST10640,2026-04-19,Transaction Monitoring,Structuring,49.0,106835.08,Closed - Explained,0,2026-04
+FCA00691,CUST10742,2026-08-18,Transaction Monitoring,Unusual Volume,27.0,12749.72,Closed - Explained,0,2026-08
+FCA00692,CUST10077,2026-03-21,Transaction Monitoring,Rapid Movement,5.0,12111.86,Closed - Explained,0,2026-03
+FCA00693,CUST10525,2026-02-15,Transaction Monitoring,Structuring,72.0,80737.55,Escalated,1,2026-02
+FCA00694,CUST10873,2026-03-02,Transaction Monitoring,Unusual Volume,58.0,29247.8,Closed - Explained,0,2026-03
+FCA00695,CUST10377,2026-05-26,Sanctions,High-Risk Geography,35.0,7854.18,Closed - Explained,0,2026-05
+FCA00696,CUST10851,2026-06-25,KYC/EDD,Source of Funds,68.0,25214.12,Closed - Explained,0,2026-06
+FCA00697,CUST10103,2026-05-28,Transaction Monitoring,High-Risk Wire,74.0,52929.06,Closed - Explained,0,2026-05
+FCA00698,CUST10193,2026-07-27,Sanctions,Watchlist Exposure,79.0,27361.91,Closed - Explained,0,2026-07
+FCA00699,CUST11000,2026-05-27,KYC/EDD,Source of Funds,62.0,16131.85,Closed - Explained,0,2026-05
+FCA00700,CUST10917,2026-07-05,Sanctions,Watchlist Exposure,47.0,11542.36,Escalated,1,2026-07
+FCA00701,CUST10738,2026-09-30,Sanctions,Name Match,47.0,5090.11,Closed - Explained,0,2026-09
+FCA00702,CUST10252,2026-06-19,Transaction Monitoring,Unusual Volume,48.0,12723.75,Closed - Explained,0,2026-06
+FCA00703,CUST10138,2026-04-22,Fraud,Velocity Spike,34.0,19537.4,Closed - Explained,0,2026-04
+FCA00704,CUST10570,2026-07-05,Sanctions,High-Risk Geography,66.0,765972.96,Closed - Explained,0,2026-07
+FCA00705,CUST11176,2026-03-01,Transaction Monitoring,Rapid Movement,69.0,11393.51,Closed - Explained,0,2026-03
+FCA00706,CUST10465,2026-08-25,KYC/EDD,Adverse Media,37.0,6937.61,Closed - Explained,0,2026-08
+FCA00707,CUST10346,2026-05-13,KYC/EDD,Source of Funds,49.0,81830.57,Closed - Explained,0,2026-05
+FCA00708,CUST11072,2026-07-23,Transaction Monitoring,Structuring,67.0,18353.07,Escalated,1,2026-07
+FCA00709,CUST10593,2026-08-25,Transaction Monitoring,Structuring,74.0,21937.49,Closed - Explained,0,2026-08
+FCA00710,CUST10872,2026-07-06,KYC/EDD,PEP Exposure,66.0,61457.51,Closed - Explained,0,2026-07
+FCA00711,CUST10788,2026-07-17,Transaction Monitoring,Structuring,63.0,31011.54,Escalated,1,2026-07
+FCA00712,CUST10409,2026-03-16,KYC/EDD,Source of Funds,25.0,53343.52,Closed - Explained,0,2026-03
+FCA00713,CUST10002,2026-02-22,Fraud,Account Takeover,73.0,16509.43,Closed - Explained,0,2026-02
+FCA00714,CUST10902,2026-04-25,Sanctions,High-Risk Geography,90.0,16122.39,Escalated,1,2026-04
+FCA00715,CUST10461,2026-08-16,Fraud,Account Takeover,61.0,12122.35,Closed - Explained,0,2026-08
+FCA00716,CUST10941,2026-05-31,KYC/EDD,Source of Funds,70.0,7155.86,Escalated,1,2026-05
+FCA00717,CUST10112,2026-09-07,KYC/EDD,KYC Refresh,32.0,16042.41,Closed - Explained,0,2026-09
+FCA00718,CUST10437,2026-08-22,Transaction Monitoring,High-Risk Wire,65.0,6846.96,Closed - Explained,0,2026-08
+FCA00719,CUST10062,2026-05-27,Transaction Monitoring,High-Risk Wire,79.0,11218.95,Closed - Explained,0,2026-05
+FCA00720,CUST10349,2026-07-16,Transaction Monitoring,Structuring,65.0,18404.54,Escalated,1,2026-07
+FCA00721,CUST10198,2026-03-04,Transaction Monitoring,Structuring,82.0,17000.96,Escalated,1,2026-03
+FCA00722,CUST11100,2026-05-25,Transaction Monitoring,Unusual Volume,83.0,144838.53,Escalated,1,2026-05
+FCA00723,CUST10227,2026-05-29,Transaction Monitoring,Rapid Movement,47.0,25579.49,Closed - Explained,0,2026-05
+FCA00724,CUST10930,2026-07-13,Transaction Monitoring,Rapid Movement,56.0,37244.04,Closed - Explained,0,2026-07
+FCA00725,CUST10881,2026-04-03,Transaction Monitoring,High-Risk Wire,56.0,2746.59,Closed - Explained,0,2026-04
+FCA00726,CUST10900,2026-06-29,Transaction Monitoring,Unusual Volume,50.0,42891.43,Escalated,1,2026-06
+FCA00727,CUST10996,2026-07-05,Fraud,Velocity Spike,46.0,55143.2,Escalated,1,2026-07
+FCA00728,CUST11035,2026-01-18,Transaction Monitoring,Rapid Movement,86.0,47200.24,Closed - Explained,0,2026-01
+FCA00729,CUST11066,2026-09-28,Sanctions,Name Match,62.0,194836.01,Closed - Explained,0,2026-09
+FCA00730,CUST10225,2026-02-01,Sanctions,Watchlist Exposure,60.0,163659.07,Escalated,1,2026-02
+FCA00731,CUST10741,2026-03-08,Transaction Monitoring,Structuring,54.0,51030.86,Closed - Explained,0,2026-03
+FCA00732,CUST10061,2026-01-04,Fraud,Suspicious Merchant,76.0,5666.73,Closed - Explained,0,2026-01
+FCA00733,CUST10613,2026-01-08,Transaction Monitoring,High-Risk Wire,36.0,108712.98,Closed - Explained,0,2026-01
+FCA00734,CUST10796,2026-04-08,Sanctions,High-Risk Geography,33.0,60534.92,Escalated,1,2026-04
+FCA00735,CUST10436,2026-05-12,Transaction Monitoring,Unusual Volume,39.0,7915.4,Escalated,1,2026-05
+FCA00736,CUST10449,2026-01-26,Transaction Monitoring,Structuring,40.0,23348.53,Escalated,1,2026-01
+FCA00737,CUST10952,2026-04-27,KYC/EDD,Source of Funds,100.0,112429.71,Closed - Explained,0,2026-04
+FCA00738,CUST10325,2026-06-30,Sanctions,Name Match,51.0,72011.09,Closed - Explained,0,2026-06
+FCA00739,CUST10394,2026-03-21,Transaction Monitoring,Unusual Volume,59.0,7143.59,Closed - Explained,0,2026-03
+FCA00740,CUST10922,2026-09-14,Fraud,Account Takeover,50.0,57488.84,Closed - Explained,0,2026-09
+FCA00741,CUST10131,2026-04-07,KYC/EDD,Adverse Media,79.0,54901.57,Closed - Explained,0,2026-04
+FCA00742,CUST10646,2026-04-20,Fraud,Suspicious Merchant,85.0,24861.76,Escalated,1,2026-04
+FCA00743,CUST11130,2026-06-23,Sanctions,Watchlist Exposure,58.0,37161.76,Closed - Explained,0,2026-06
+FCA00744,CUST10121,2026-07-03,Fraud,Geo Anomaly,42.0,8661.39,Closed - Explained,0,2026-07
+FCA00745,CUST10438,2026-07-31,Transaction Monitoring,High-Risk Wire,48.0,36017.58,Closed - Explained,0,2026-07
+FCA00746,CUST10587,2026-05-29,KYC/EDD,Adverse Media,93.0,59414.87,Escalated,1,2026-05
+FCA00747,CUST10716,2026-07-24,Sanctions,Watchlist Exposure,79.0,111801.09,Closed - Explained,0,2026-07
+FCA00748,CUST10763,2026-02-19,KYC/EDD,Adverse Media,25.0,106947.18,Closed - Explained,0,2026-02
+FCA00749,CUST10491,2026-08-22,Fraud,Account Takeover,75.0,62568.09,Closed - Explained,0,2026-08
+FCA00750,CUST10643,2026-04-10,Transaction Monitoring,Unusual Volume,41.0,28731.32,Escalated,1,2026-04
+FCA00751,CUST10978,2026-05-18,KYC/EDD,Adverse Media,49.0,15831.56,Closed - Explained,0,2026-05
+FCA00752,CUST10342,2026-02-02,Sanctions,High-Risk Geography,52.0,13745.94,Escalated,1,2026-02
+FCA00753,CUST11081,2026-08-13,Sanctions,High-Risk Geography,58.0,12145.63,Escalated,1,2026-08
+FCA00754,CUST11158,2026-04-06,Transaction Monitoring,Rapid Movement,45.0,266222.86,Closed - Explained,0,2026-04
+FCA00755,CUST10517,2026-06-02,Fraud,Suspicious Merchant,41.0,29409.31,Escalated,1,2026-06
+FCA00756,CUST10901,2026-06-11,Fraud,Geo Anomaly,66.0,17052.6,Escalated,1,2026-06
+FCA00757,CUST10415,2026-08-02,Transaction Monitoring,Unusual Volume,100.0,11434.55,Escalated,1,2026-08
+FCA00758,CUST10341,2026-01-19,Transaction Monitoring,High-Risk Wire,61.0,3761.8,Closed - Explained,0,2026-01
+FCA00759,CUST10276,2026-09-10,Sanctions,Name Match,44.0,39289.34,Closed - Explained,0,2026-09
+FCA00760,CUST10470,2026-04-05,Transaction Monitoring,Structuring,47.0,224795.96,Escalated,1,2026-04
+FCA00761,CUST10896,2026-01-16,KYC/EDD,Adverse Media,84.0,7654.07,Closed - Explained,0,2026-01
+FCA00762,CUST11096,2026-01-07,Transaction Monitoring,Rapid Movement,67.0,280643.51,Escalated,1,2026-01
+FCA00763,CUST10328,2026-09-18,Transaction Monitoring,Unusual Volume,80.0,58955.44,Escalated,1,2026-09
+FCA00764,CUST10225,2026-09-01,Transaction Monitoring,Unusual Volume,83.0,39278.97,Closed - Explained,0,2026-09
+FCA00765,CUST10216,2026-01-08,KYC/EDD,Source of Funds,81.0,3815.84,Escalated,1,2026-01
+FCA00766,CUST10728,2026-05-18,Sanctions,Watchlist Exposure,41.0,17426.89,Closed - Explained,0,2026-05
+FCA00767,CUST10258,2026-07-02,Transaction Monitoring,Unusual Volume,93.0,16059.04,Escalated,1,2026-07
+FCA00768,CUST11145,2026-06-11,Fraud,Velocity Spike,51.0,66294.8,Closed - Explained,0,2026-06
+FCA00769,CUST10964,2026-06-25,Sanctions,Watchlist Exposure,46.0,14909.91,Escalated,1,2026-06
+FCA00770,CUST10435,2026-05-22,KYC/EDD,Adverse Media,52.0,123418.89,Closed - Explained,0,2026-05
+FCA00771,CUST10380,2026-07-29,Fraud,Velocity Spike,38.0,46846.69,Escalated,1,2026-07
+FCA00772,CUST11171,2026-08-23,KYC/EDD,KYC Refresh,50.0,20476.17,Closed - Explained,0,2026-08
+FCA00773,CUST10463,2026-03-12,Fraud,Account Takeover,6.0,58659.13,Closed - Explained,0,2026-03
+FCA00774,CUST10406,2026-03-07,Fraud,Account Takeover,65.0,53163.93,Closed - Explained,0,2026-03
+FCA00775,CUST11004,2026-09-09,KYC/EDD,Source of Funds,59.0,27855.15,Closed - Explained,0,2026-09
+FCA00776,CUST10398,2026-06-01,Transaction Monitoring,Structuring,61.0,19188.94,Escalated,1,2026-06
+FCA00777,CUST10903,2026-05-16,Transaction Monitoring,Rapid Movement,97.0,45266.31,Closed - Explained,0,2026-05
+FCA00778,CUST11158,2026-01-23,Transaction Monitoring,High-Risk Wire,49.0,25030.81,Closed - Explained,0,2026-01
+FCA00779,CUST10868,2026-07-20,Transaction Monitoring,High-Risk Wire,39.0,2832.19,Closed - Explained,0,2026-07
+FCA00780,CUST10958,2026-06-10,KYC/EDD,PEP Exposure,83.0,29495.2,Escalated,1,2026-06
+FCA00781,CUST10795,2026-03-18,Transaction Monitoring,Unusual Volume,30.0,22331.2,Closed - Explained,0,2026-03
+FCA00782,CUST10538,2026-05-03,Transaction Monitoring,Rapid Movement,68.0,16731.31,Escalated,1,2026-05
+FCA00783,CUST10510,2026-09-07,Transaction Monitoring,High-Risk Wire,72.0,108087.44,Escalated,1,2026-09
+FCA00784,CUST10657,2026-01-10,Transaction Monitoring,Rapid Movement,28.0,45860.87,Closed - Explained,0,2026-01
+FCA00785,CUST10576,2026-08-25,Sanctions,Name Match,50.0,3778.12,Closed - Explained,0,2026-08
+FCA00786,CUST10912,2026-04-27,KYC/EDD,PEP Exposure,66.0,17344.87,Escalated,1,2026-04
+FCA00787,CUST10534,2026-08-13,Fraud,Geo Anomaly,76.0,31445.87,Escalated,1,2026-08
+FCA00788,CUST10711,2026-01-20,KYC/EDD,Source of Funds,68.0,80949.58,Closed - Explained,0,2026-01
+FCA00789,CUST11183,2026-06-02,Fraud,Suspicious Merchant,27.0,33529.57,Closed - Explained,0,2026-06
+FCA00790,CUST11043,2026-03-14,Transaction Monitoring,Structuring,15.0,6560.41,Closed - Explained,0,2026-03
+FCA00791,CUST10386,2026-09-08,Transaction Monitoring,Structuring,69.0,15264.1,Escalated,1,2026-09
+FCA00792,CUST10398,2026-03-27,Fraud,Velocity Spike,47.0,10473.88,Closed - Explained,0,2026-03
+FCA00793,CUST10095,2026-05-10,Transaction Monitoring,Unusual Volume,83.0,13415.95,Escalated,1,2026-05
+FCA00794,CUST11190,2026-04-24,Transaction Monitoring,Structuring,62.0,55942.89,Closed - Explained,0,2026-04
+FCA00795,CUST10829,2026-03-29,KYC/EDD,Source of Funds,28.0,7358.33,Closed - Explained,0,2026-03
+FCA00796,CUST10779,2026-07-18,Transaction Monitoring,High-Risk Wire,17.0,60980.62,Closed - Explained,0,2026-07
+FCA00797,CUST10924,2026-05-09,Fraud,Geo Anomaly,84.0,7401.99,Escalated,1,2026-05
+FCA00798,CUST10100,2026-01-09,KYC/EDD,Source of Funds,92.0,25858.87,Escalated,1,2026-01
+FCA00799,CUST10664,2026-09-02,Sanctions,Name Match,58.0,25192.94,Closed - Explained,0,2026-09
+FCA00800,CUST11185,2026-08-27,Transaction Monitoring,Unusual Volume,5.0,3637.65,Closed - Explained,0,2026-08
+FCA00801,CUST10770,2026-09-13,Transaction Monitoring,Rapid Movement,58.0,199249.19,Escalated,1,2026-09
+FCA00802,CUST10742,2026-08-08,Fraud,Geo Anomaly,77.0,23543.16,Escalated,1,2026-08
+FCA00803,CUST10765,2026-07-17,Fraud,Geo Anomaly,39.0,14093.76,Escalated,1,2026-07
+FCA00804,CUST11027,2026-05-08,Transaction Monitoring,High-Risk Wire,20.0,10770.68,Closed - Explained,0,2026-05
+FCA00805,CUST11165,2026-06-11,Fraud,Account Takeover,53.0,8550.15,Closed - Explained,0,2026-06
+FCA00806,CUST10230,2026-05-06,Sanctions,High-Risk Geography,68.0,8345.75,Escalated,1,2026-05
+FCA00807,CUST10771,2026-09-06,Sanctions,Name Match,85.0,24192.67,Closed - Explained,0,2026-09
+FCA00808,CUST10206,2026-06-10,Transaction Monitoring,Unusual Volume,70.0,31992.57,Closed - Explained,0,2026-06
+FCA00809,CUST10961,2026-08-22,Fraud,Suspicious Merchant,62.0,26292.44,Closed - Explained,0,2026-08
+FCA00810,CUST10027,2026-06-10,KYC/EDD,Source of Funds,68.0,22687.21,Closed - Explained,0,2026-06
+FCA00811,CUST11153,2026-09-01,Fraud,Suspicious Merchant,60.0,18728.99,Closed - Explained,0,2026-09
+FCA00812,CUST10988,2026-06-06,Transaction Monitoring,High-Risk Wire,77.0,15026.56,Escalated,1,2026-06
+FCA00813,CUST10849,2026-04-09,Transaction Monitoring,Rapid Movement,52.0,79189.76,Escalated,1,2026-04
+FCA00814,CUST10918,2026-08-14,Fraud,Suspicious Merchant,44.0,10927.32,Closed - Explained,0,2026-08
+FCA00815,CUST10245,2026-01-26,Transaction Monitoring,Unusual Volume,46.0,72458.67,Escalated,1,2026-01
+FCA00816,CUST10001,2026-08-21,Transaction Monitoring,Rapid Movement,61.0,41026.71,Escalated,1,2026-08
+FCA00817,CUST10716,2026-04-30,Fraud,Geo Anomaly,36.0,101363.81,Closed - Explained,0,2026-04
+FCA00818,CUST10724,2026-05-30,KYC/EDD,PEP Exposure,66.0,65821.48,Escalated,1,2026-05
+FCA00819,CUST11036,2026-05-12,Transaction Monitoring,Structuring,57.0,26272.28,Closed - Explained,0,2026-05
+FCA00820,CUST10274,2026-09-19,Transaction Monitoring,Rapid Movement,28.0,27962.48,Closed - Explained,0,2026-09
+FCA00821,CUST10248,2026-03-21,Transaction Monitoring,Unusual Volume,70.0,33997.98,Escalated,1,2026-03
+FCA00822,CUST11045,2026-02-05,Sanctions,High-Risk Geography,43.0,14907.77,Escalated,1,2026-02
+FCA00823,CUST10129,2026-03-27,Transaction Monitoring,Rapid Movement,58.0,56301.7,Escalated,1,2026-03
+FCA00824,CUST10782,2026-07-05,Fraud,Geo Anomaly,42.0,6864.53,Closed - Explained,0,2026-07
+FCA00825,CUST10496,2026-02-07,Transaction Monitoring,Structuring,45.0,9418.53,Closed - Explained,0,2026-02
+FCA00826,CUST10407,2026-06-16,Transaction Monitoring,Unusual Volume,56.0,15726.48,Closed - Explained,0,2026-06
+FCA00827,CUST10042,2026-01-12,Fraud,Geo Anomaly,39.0,37300.88,Closed - Explained,0,2026-01
+FCA00828,CUST10729,2026-09-07,Fraud,Suspicious Merchant,89.0,19387.43,Escalated,1,2026-09
+FCA00829,CUST10976,2026-07-31,Transaction Monitoring,High-Risk Wire,76.0,43092.8,Closed - Explained,0,2026-07
+FCA00830,CUST10426,2026-01-11,Transaction Monitoring,High-Risk Wire,74.0,4495.09,Escalated,1,2026-01
+FCA00831,CUST10733,2026-09-18,KYC/EDD,PEP Exposure,34.0,8202.61,Closed - Explained,0,2026-09
+FCA00832,CUST10536,2026-09-18,Transaction Monitoring,Structuring,39.0,7303.91,Escalated,1,2026-09
+FCA00833,CUST10302,2026-01-21,Transaction Monitoring,Structuring,53.0,158952.34,Closed - Explained,0,2026-01
+FCA00834,CUST11043,2026-03-26,Transaction Monitoring,Rapid Movement,91.0,33777.26,Escalated,1,2026-03
+FCA00835,CUST10400,2026-08-08,Transaction Monitoring,High-Risk Wire,73.0,21188.14,Escalated,1,2026-08
+FCA00836,CUST10089,2026-04-10,Fraud,Geo Anomaly,32.0,18474.58,Closed - Explained,0,2026-04
+FCA00837,CUST10979,2026-03-14,Fraud,Suspicious Merchant,34.0,38885.54,Closed - Explained,0,2026-03
+FCA00838,CUST10055,2026-05-05,Transaction Monitoring,Rapid Movement,86.0,8221.78,Escalated,1,2026-05
+FCA00839,CUST10734,2026-01-29,Transaction Monitoring,Structuring,54.0,24558.17,Closed - Explained,0,2026-01
+FCA00840,CUST10326,2026-03-09,KYC/EDD,PEP Exposure,35.0,64132.51,Escalated,1,2026-03
+FCA00841,CUST10872,2026-06-05,KYC/EDD,KYC Refresh,61.0,6358.89,Escalated,1,2026-06
+FCA00842,CUST10904,2026-05-04,Fraud,Geo Anomaly,48.0,13762.73,Closed - Explained,0,2026-05
+FCA00843,CUST10471,2026-08-30,KYC/EDD,PEP Exposure,60.0,44028.69,Closed - Explained,0,2026-08
+FCA00844,CUST10303,2026-04-24,Fraud,Velocity Spike,74.0,68460.56,Escalated,1,2026-04
+FCA00845,CUST10392,2026-03-22,Fraud,Geo Anomaly,50.0,33504.06,Escalated,1,2026-03
+FCA00846,CUST11069,2026-09-24,Transaction Monitoring,High-Risk Wire,54.0,22454.35,Closed - Explained,0,2026-09
+FCA00847,CUST10485,2026-06-30,Fraud,Geo Anomaly,37.0,16080.76,Closed - Explained,0,2026-06
+FCA00848,CUST10989,2026-05-19,KYC/EDD,KYC Refresh,61.0,7051.73,Closed - Explained,0,2026-05
+FCA00849,CUST10882,2026-05-01,KYC/EDD,PEP Exposure,76.0,19493.99,Closed - Explained,0,2026-05
+FCA00850,CUST10421,2026-02-01,Sanctions,High-Risk Geography,61.0,128993.06,Escalated,1,2026-02
+FCA00851,CUST11085,2026-07-05,Transaction Monitoring,High-Risk Wire,52.0,99064.2,Closed - Explained,0,2026-07
+FCA00852,CUST10119,2026-07-15,Fraud,Account Takeover,62.0,1780.39,Escalated,1,2026-07
+FCA00853,CUST10136,2026-07-13,Transaction Monitoring,Rapid Movement,32.0,39347.08,Escalated,1,2026-07
+FCA00854,CUST11151,2026-05-21,Sanctions,Watchlist Exposure,58.0,36606.92,Escalated,1,2026-05
+FCA00855,CUST10196,2026-01-01,Sanctions,Watchlist Exposure,46.0,4769.94,Closed - Explained,0,2026-01
+FCA00856,CUST10260,2026-07-11,Fraud,Velocity Spike,65.0,38510.09,Escalated,1,2026-07
+FCA00857,CUST10978,2026-02-06,Sanctions,Name Match,58.0,33060.88,Escalated,1,2026-02
+FCA00858,CUST10492,2026-07-18,Transaction Monitoring,High-Risk Wire,79.0,11289.95,Escalated,1,2026-07
+FCA00859,CUST10517,2026-03-30,KYC/EDD,PEP Exposure,47.0,9587.08,Closed - Explained,0,2026-03
+FCA00860,CUST10426,2026-03-01,Transaction Monitoring,Unusual Volume,58.0,140884.92,Closed - Explained,0,2026-03
+FCA00861,CUST11023,2026-01-02,Transaction Monitoring,Structuring,25.0,14678.27,Closed - Explained,0,2026-01
+FCA00862,CUST11140,2026-09-26,Transaction Monitoring,Unusual Volume,64.0,90276.23,Closed - Explained,0,2026-09
+FCA00863,CUST10275,2026-04-22,KYC/EDD,KYC Refresh,58.0,57898.13,Closed - Explained,0,2026-04
+FCA00864,CUST10566,2026-03-24,Transaction Monitoring,Unusual Volume,43.0,30514.42,Closed - Explained,0,2026-03
+FCA00865,CUST10637,2026-05-11,Transaction Monitoring,Unusual Volume,69.0,4590.75,Escalated,1,2026-05
+FCA00866,CUST10798,2026-01-22,Transaction Monitoring,Structuring,40.0,17221.21,Closed - Explained,0,2026-01
+FCA00867,CUST11154,2026-05-01,Transaction Monitoring,Structuring,42.0,16014.02,Closed - Explained,0,2026-05
+FCA00868,CUST10366,2026-06-06,Transaction Monitoring,Structuring,86.0,125162.81,Closed - Explained,0,2026-06
+FCA00869,CUST11184,2026-06-04,Sanctions,Name Match,44.0,11169.28,Escalated,1,2026-06
+FCA00870,CUST10256,2026-03-29,Transaction Monitoring,Unusual Volume,54.0,37112.7,Closed - Explained,0,2026-03
+FCA00871,CUST10278,2026-09-13,Transaction Monitoring,Rapid Movement,82.0,16342.52,Escalated,1,2026-09
+FCA00872,CUST10764,2026-09-25,Transaction Monitoring,Unusual Volume,57.0,24186.74,Closed - Explained,0,2026-09
+FCA00873,CUST10110,2026-04-10,KYC/EDD,KYC Refresh,65.0,63213.06,Escalated,1,2026-04
+FCA00874,CUST10273,2026-05-12,Fraud,Velocity Spike,65.0,34140.78,Closed - Explained,0,2026-05
+FCA00875,CUST10359,2026-09-17,KYC/EDD,PEP Exposure,47.0,92739.11,Escalated,1,2026-09
+FCA00876,CUST10029,2026-06-25,Fraud,Geo Anomaly,70.0,22381.84,Closed - Explained,0,2026-06
+FCA00877,CUST10507,2026-03-04,KYC/EDD,KYC Refresh,73.0,8804.88,Closed - Explained,0,2026-03
+FCA00878,CUST10906,2026-03-25,Transaction Monitoring,Rapid Movement,73.0,77237.28,Escalated,1,2026-03
+FCA00879,CUST10010,2026-06-04,Fraud,Account Takeover,48.0,40330.92,Closed - Explained,0,2026-06
+FCA00880,CUST10404,2026-05-25,Transaction Monitoring,Rapid Movement,54.0,65792.13,Closed - Explained,0,2026-05
+FCA00881,CUST10538,2026-03-28,Fraud,Account Takeover,64.0,9913.0,Escalated,1,2026-03
+FCA00882,CUST10688,2026-08-11,KYC/EDD,PEP Exposure,88.0,21072.58,Escalated,1,2026-08
+FCA00883,CUST10170,2026-02-25,Sanctions,Watchlist Exposure,63.0,72092.14,Escalated,1,2026-02
+FCA00884,CUST10195,2026-05-05,KYC/EDD,Adverse Media,53.0,38255.43,Closed - Explained,0,2026-05
+FCA00885,CUST10045,2026-05-20,Transaction Monitoring,Unusual Volume,49.0,10668.41,Closed - Explained,0,2026-05
+FCA00886,CUST11192,2026-06-08,Transaction Monitoring,High-Risk Wire,60.0,21825.56,Escalated,1,2026-06
+FCA00887,CUST10913,2026-01-16,Transaction Monitoring,Rapid Movement,60.0,41823.99,Escalated,1,2026-01
+FCA00888,CUST10292,2026-08-01,Fraud,Suspicious Merchant,26.0,7521.55,Escalated,1,2026-08
+FCA00889,CUST10942,2026-02-11,Transaction Monitoring,High-Risk Wire,66.0,6121.08,Closed - Explained,0,2026-02
+FCA00890,CUST11005,2026-07-04,Fraud,Geo Anomaly,64.0,113118.09,Escalated,1,2026-07
+FCA00891,CUST11072,2026-07-07,Fraud,Geo Anomaly,64.0,4418.01,Closed - Explained,0,2026-07
+FCA00892,CUST10004,2026-01-10,Sanctions,Name Match,59.0,31784.3,Escalated,1,2026-01
+FCA00893,CUST10877,2026-07-17,KYC/EDD,Adverse Media,51.0,128128.66,Closed - Explained,0,2026-07
+FCA00894,CUST10141,2026-02-08,Sanctions,High-Risk Geography,67.0,10533.59,Escalated,1,2026-02
+FCA00895,CUST11066,2026-03-31,Transaction Monitoring,Rapid Movement,35.0,14582.76,Closed - Explained,0,2026-03
+FCA00896,CUST11144,2026-02-05,Fraud,Suspicious Merchant,63.0,43644.7,Closed - Explained,0,2026-02
+FCA00897,CUST10531,2026-03-07,Transaction Monitoring,Unusual Volume,28.0,13088.79,Closed - Explained,0,2026-03
+FCA00898,CUST10982,2026-03-17,Transaction Monitoring,Unusual Volume,78.0,82022.65,Closed - Explained,0,2026-03
+FCA00899,CUST10944,2026-01-31,Fraud,Geo Anomaly,55.0,11982.02,Closed - Explained,0,2026-01
+FCA00900,CUST10531,2026-09-02,KYC/EDD,Source of Funds,53.0,27910.76,Closed - Explained,0,2026-09
+FCA00901,CUST10809,2026-04-06,Transaction Monitoring,High-Risk Wire,54.0,24262.34,Escalated,1,2026-04
+FCA00902,CUST10760,2026-02-06,Transaction Monitoring,High-Risk Wire,74.0,33844.34,Escalated,1,2026-02
+FCA00903,CUST10387,2026-04-29,KYC/EDD,PEP Exposure,62.0,43981.63,Closed - Explained,0,2026-04
+FCA00904,CUST10395,2026-03-13,Transaction Monitoring,Unusual Volume,78.0,20921.37,Closed - Explained,0,2026-03
+FCA00905,CUST11023,2026-07-27,Fraud,Velocity Spike,73.0,9327.4,Closed - Explained,0,2026-07
+FCA00906,CUST10789,2026-02-25,KYC/EDD,Source of Funds,66.0,94778.49,Closed - Explained,0,2026-02
+FCA00907,CUST10692,2026-09-07,Transaction Monitoring,Structuring,68.0,77707.1,Escalated,1,2026-09
+FCA00908,CUST10332,2026-08-09,KYC/EDD,Source of Funds,54.0,15408.98,Closed - Explained,0,2026-08
+FCA00909,CUST10877,2026-07-23,Fraud,Velocity Spike,34.0,5999.24,Closed - Explained,0,2026-07
+FCA00910,CUST10578,2026-04-06,Fraud,Geo Anomaly,74.0,24828.7,Closed - Explained,0,2026-04
+FCA00911,CUST10650,2026-02-14,Transaction Monitoring,Structuring,68.0,16696.14,Escalated,1,2026-02
+FCA00912,CUST10323,2026-05-03,KYC/EDD,Source of Funds,52.0,4198.58,Closed - Explained,0,2026-05
+FCA00913,CUST10821,2026-06-28,Transaction Monitoring,High-Risk Wire,64.0,11656.16,Escalated,1,2026-06
+FCA00914,CUST10672,2026-09-18,Fraud,Account Takeover,41.0,16019.19,Closed - Explained,0,2026-09
+FCA00915,CUST10558,2026-02-07,Transaction Monitoring,Structuring,100.0,112179.46,Closed - Explained,0,2026-02
+FCA00916,CUST10120,2026-08-26,Sanctions,High-Risk Geography,73.0,80935.11,Escalated,1,2026-08
+FCA00917,CUST10393,2026-09-27,Sanctions,Watchlist Exposure,65.0,8123.02,Escalated,1,2026-09
+FCA00918,CUST10200,2026-08-17,Transaction Monitoring,Structuring,52.0,5822.71,Closed - Explained,0,2026-08
+FCA00919,CUST10302,2026-09-22,Fraud,Velocity Spike,32.0,110605.26,Closed - Explained,0,2026-09
+FCA00920,CUST11039,2026-02-20,Fraud,Suspicious Merchant,77.0,148635.1,Closed - Explained,0,2026-02
+FCA00921,CUST10439,2026-01-16,Sanctions,High-Risk Geography,21.0,1601.06,Closed - Explained,0,2026-01
+FCA00922,CUST10240,2026-01-17,Fraud,Suspicious Merchant,29.0,35360.36,Closed - Explained,0,2026-01
+FCA00923,CUST10973,2026-08-15,Transaction Monitoring,High-Risk Wire,64.0,9977.37,Escalated,1,2026-08
+FCA00924,CUST10326,2026-04-27,Transaction Monitoring,Unusual Volume,78.0,14612.33,Closed - Explained,0,2026-04
+FCA00925,CUST10536,2026-09-17,KYC/EDD,KYC Refresh,70.0,3338.47,Closed - Explained,0,2026-09
+FCA00926,CUST10885,2026-05-24,Fraud,Account Takeover,44.0,12808.86,Closed - Explained,0,2026-05
+FCA00927,CUST10781,2026-09-19,Transaction Monitoring,Structuring,75.0,75761.16,Closed - Explained,0,2026-09
+FCA00928,CUST10465,2026-01-30,Transaction Monitoring,Structuring,45.0,5802.26,Closed - Explained,0,2026-01
+FCA00929,CUST10757,2026-02-01,KYC/EDD,KYC Refresh,52.0,17398.29,Closed - Explained,0,2026-02
+FCA00930,CUST10973,2026-01-18,Transaction Monitoring,Structuring,67.0,22090.12,Escalated,1,2026-01
+FCA00931,CUST10635,2026-06-30,Transaction Monitoring,Rapid Movement,57.0,14753.85,Closed - Explained,0,2026-06
+FCA00932,CUST10379,2026-07-24,Sanctions,Name Match,59.0,7564.25,Closed - Explained,0,2026-07
+FCA00933,CUST10143,2026-04-05,Transaction Monitoring,Unusual Volume,60.0,12144.08,Escalated,1,2026-04
+FCA00934,CUST10944,2026-08-12,Transaction Monitoring,Structuring,65.0,22382.72,Closed - Explained,0,2026-08
+FCA00935,CUST10431,2026-07-15,Transaction Monitoring,High-Risk Wire,100.0,105374.81,Closed - Explained,0,2026-07
+FCA00936,CUST10736,2026-02-15,Fraud,Account Takeover,99.0,94981.09,Escalated,1,2026-02
+FCA00937,CUST10038,2026-04-28,Transaction Monitoring,Unusual Volume,79.0,13903.69,Escalated,1,2026-04
+FCA00938,CUST10044,2026-01-31,Fraud,Velocity Spike,52.0,16354.13,Closed - Explained,0,2026-01
+FCA00939,CUST10864,2026-01-05,Transaction Monitoring,High-Risk Wire,58.0,69720.09,Closed - Explained,0,2026-01
+FCA00940,CUST10257,2026-01-01,Fraud,Suspicious Merchant,82.0,45957.58,Escalated,1,2026-01
+FCA00941,CUST10733,2026-05-02,Sanctions,Name Match,45.0,33991.73,Closed - Explained,0,2026-05
+FCA00942,CUST10156,2026-02-18,Sanctions,High-Risk Geography,51.0,46020.8,Closed - Explained,0,2026-02
+FCA00943,CUST10651,2026-08-31,Fraud,Velocity Spike,46.0,87800.38,Escalated,1,2026-08
+FCA00944,CUST10161,2026-03-09,Transaction Monitoring,Structuring,68.0,41789.76,Closed - Explained,0,2026-03
+FCA00945,CUST10706,2026-01-08,Transaction Monitoring,High-Risk Wire,75.0,40945.45,Escalated,1,2026-01
+FCA00946,CUST10882,2026-07-14,KYC/EDD,PEP Exposure,80.0,21122.98,Escalated,1,2026-07
+FCA00947,CUST10451,2026-07-03,Sanctions,Watchlist Exposure,69.0,26424.41,Escalated,1,2026-07
+FCA00948,CUST10652,2026-01-30,Transaction Monitoring,Unusual Volume,68.0,1514.93,Closed - Explained,0,2026-01
+FCA00949,CUST10655,2026-07-15,Sanctions,High-Risk Geography,65.0,14319.98,Escalated,1,2026-07
+FCA00950,CUST10652,2026-01-21,Fraud,Account Takeover,72.0,88032.04,Closed - Explained,0,2026-01
+FCA00951,CUST10979,2026-04-08,KYC/EDD,Source of Funds,31.0,391088.35,Closed - Explained,0,2026-04
+FCA00952,CUST10125,2026-08-12,Fraud,Geo Anomaly,8.0,33757.85,Escalated,1,2026-08
+FCA00953,CUST10480,2026-08-30,Fraud,Velocity Spike,61.0,48593.01,Closed - Explained,0,2026-08
+FCA00954,CUST10626,2026-01-26,Fraud,Geo Anomaly,71.0,13074.72,Escalated,1,2026-01
+FCA00955,CUST11049,2026-01-06,KYC/EDD,Source of Funds,36.0,14671.89,Closed - Explained,0,2026-01
+FCA00956,CUST10641,2026-07-14,Transaction Monitoring,Rapid Movement,27.0,31255.77,Escalated,1,2026-07
+FCA00957,CUST10062,2026-04-10,KYC/EDD,KYC Refresh,57.0,135075.73,Closed - Explained,0,2026-04
+FCA00958,CUST10723,2026-02-28,Transaction Monitoring,Unusual Volume,63.0,23352.59,Escalated,1,2026-02
+FCA00959,CUST10131,2026-05-16,Sanctions,Watchlist Exposure,49.0,24722.43,Closed - Explained,0,2026-05
+FCA00960,CUST10741,2026-01-04,Sanctions,High-Risk Geography,61.0,49771.86,Escalated,1,2026-01
+FCA00961,CUST10571,2026-04-14,Sanctions,Name Match,51.0,5364.99,Closed - Explained,0,2026-04
+FCA00962,CUST10951,2026-06-20,KYC/EDD,Adverse Media,95.0,6044.79,Closed - Explained,0,2026-06
+FCA00963,CUST10246,2026-03-05,Transaction Monitoring,Unusual Volume,53.0,27424.07,Closed - Explained,0,2026-03
+FCA00964,CUST11104,2026-02-27,KYC/EDD,PEP Exposure,49.0,37831.71,Closed - Explained,0,2026-02
+FCA00965,CUST10073,2026-09-04,Fraud,Suspicious Merchant,49.0,11333.29,Closed - Explained,0,2026-09
+FCA00966,CUST10018,2026-06-18,Transaction Monitoring,Rapid Movement,66.0,232597.6,Closed - Explained,0,2026-06
+FCA00967,CUST10891,2026-08-26,KYC/EDD,PEP Exposure,44.0,24447.09,Closed - Explained,0,2026-08
+FCA00968,CUST10169,2026-03-10,Sanctions,Watchlist Exposure,40.0,15031.39,Closed - Explained,0,2026-03
+FCA00969,CUST11043,2026-09-15,KYC/EDD,Source of Funds,33.0,5787.53,Closed - Explained,0,2026-09
+FCA00970,CUST10712,2026-04-02,Fraud,Velocity Spike,77.0,1998.18,Escalated,1,2026-04
+FCA00971,CUST10535,2026-07-15,Transaction Monitoring,Unusual Volume,69.0,32310.02,Escalated,1,2026-07
+FCA00972,CUST10871,2026-08-26,Transaction Monitoring,Structuring,55.0,82850.66,Closed - Explained,0,2026-08
+FCA00973,CUST10621,2026-09-25,Transaction Monitoring,Rapid Movement,62.0,66629.7,Escalated,1,2026-09
+FCA00974,CUST11039,2026-03-19,KYC/EDD,Source of Funds,59.0,12886.79,Closed - Explained,0,2026-03
+FCA00975,CUST11079,2026-03-26,Fraud,Suspicious Merchant,73.0,21528.05,Closed - Explained,0,2026-03
+FCA00976,CUST10820,2026-03-19,Transaction Monitoring,High-Risk Wire,38.0,7539.64,Closed - Explained,0,2026-03
+FCA00977,CUST11074,2026-09-21,Sanctions,Watchlist Exposure,61.0,14008.33,Escalated,1,2026-09
+FCA00978,CUST10285,2026-08-03,Transaction Monitoring,Rapid Movement,68.0,45484.8,Closed - Explained,0,2026-08
+FCA00979,CUST10106,2026-03-02,Sanctions,High-Risk Geography,53.0,5327.28,Closed - Explained,0,2026-03
+FCA00980,CUST10622,2026-07-24,Transaction Monitoring,High-Risk Wire,46.0,8285.32,Closed - Explained,0,2026-07
+FCA00981,CUST11031,2026-01-18,Transaction Monitoring,Unusual Volume,72.0,7041.86,Closed - Explained,0,2026-01
+FCA00982,CUST10586,2026-07-17,Transaction Monitoring,Rapid Movement,99.0,5173.88,Escalated,1,2026-07
+FCA00983,CUST11101,2026-05-08,Transaction Monitoring,High-Risk Wire,90.0,6810.32,Escalated,1,2026-05
+FCA00984,CUST10178,2026-08-19,KYC/EDD,Adverse Media,75.0,21110.16,Escalated,1,2026-08
+FCA00985,CUST10297,2026-06-04,Transaction Monitoring,Rapid Movement,68.0,50023.91,Escalated,1,2026-06
+FCA00986,CUST10612,2026-03-14,Transaction Monitoring,Structuring,41.0,90717.31,Closed - Explained,0,2026-03
+FCA00987,CUST10421,2026-01-29,KYC/EDD,Source of Funds,52.0,14846.04,Closed - Explained,0,2026-01
+FCA00988,CUST10261,2026-04-26,Sanctions,Watchlist Exposure,93.0,189321.69,Closed - Explained,0,2026-04
+FCA00989,CUST11053,2026-09-20,Fraud,Suspicious Merchant,93.0,39726.0,Closed - Explained,0,2026-09
+FCA00990,CUST10541,2026-04-27,Sanctions,Name Match,45.0,8505.1,Closed - Explained,0,2026-04
+FCA00991,CUST11112,2026-08-05,Transaction Monitoring,High-Risk Wire,30.0,45786.41,Closed - Explained,0,2026-08
+FCA00992,CUST10403,2026-04-26,Transaction Monitoring,High-Risk Wire,26.0,47817.01,Closed - Explained,0,2026-04
+FCA00993,CUST10550,2026-08-21,Fraud,Account Takeover,43.0,4271.86,Closed - Explained,0,2026-08
+FCA00994,CUST10650,2026-09-24,Transaction Monitoring,High-Risk Wire,64.0,54086.47,Escalated,1,2026-09
+FCA00995,CUST10125,2026-08-05,Fraud,Suspicious Merchant,69.0,6904.59,Closed - Explained,0,2026-08
+FCA00996,CUST11094,2026-07-03,Fraud,Velocity Spike,62.0,58724.28,Closed - Explained,0,2026-07
+FCA00997,CUST10503,2026-09-02,KYC/EDD,PEP Exposure,76.0,530187.29,Escalated,1,2026-09
+FCA00998,CUST10845,2026-01-20,Transaction Monitoring,Unusual Volume,43.0,11785.7,Closed - Explained,0,2026-01
+FCA00999,CUST10821,2026-05-23,Sanctions,Name Match,46.0,129041.45,Closed - Explained,0,2026-05
+FCA01000,CUST10874,2026-04-29,Transaction Monitoring,Structuring,61.0,15713.05,Closed - Explained,0,2026-04
+FCA01001,CUST10749,2026-06-16,Transaction Monitoring,Rapid Movement,76.0,55506.19,Escalated,1,2026-06
+FCA01002,CUST10654,2026-04-06,KYC/EDD,Source of Funds,83.0,10856.75,Closed - Explained,0,2026-04
+FCA01003,CUST10502,2026-08-14,Sanctions,Name Match,56.0,25215.19,Closed - Explained,0,2026-08
+FCA01004,CUST10104,2026-06-10,Transaction Monitoring,High-Risk Wire,44.0,55211.89,Escalated,1,2026-06
+FCA01005,CUST10060,2026-07-02,Sanctions,High-Risk Geography,61.0,66469.43,Escalated,1,2026-07
+FCA01006,CUST10921,2026-07-24,Fraud,Account Takeover,47.0,44172.52,Closed - Explained,0,2026-07
+FCA01007,CUST10102,2026-08-07,Transaction Monitoring,Unusual Volume,70.0,31316.53,Closed - Explained,0,2026-08
+FCA01008,CUST10252,2026-09-11,Transaction Monitoring,Rapid Movement,31.0,17305.53,Escalated,1,2026-09
+FCA01009,CUST10575,2026-07-06,Transaction Monitoring,Structuring,72.0,10881.38,Escalated,1,2026-07
+FCA01010,CUST10727,2026-08-22,Fraud,Suspicious Merchant,59.0,51592.25,Closed - Explained,0,2026-08
+FCA01011,CUST11019,2026-09-11,Transaction Monitoring,Unusual Volume,60.0,5186.6,Escalated,1,2026-09
+FCA01012,CUST10960,2026-01-27,Transaction Monitoring,Unusual Volume,74.0,138888.57,Closed - Explained,0,2026-01
+FCA01013,CUST10063,2026-07-30,Transaction Monitoring,High-Risk Wire,54.0,11363.63,Closed - Explained,0,2026-07
+FCA01014,CUST10286,2026-01-08,Fraud,Account Takeover,42.0,64449.32,Closed - Explained,0,2026-01
+FCA01015,CUST10267,2026-09-30,Transaction Monitoring,High-Risk Wire,66.0,6783.39,Closed - Explained,0,2026-09
+FCA01016,CUST10317,2026-04-06,Transaction Monitoring,Rapid Movement,34.0,71277.15,Closed - Explained,0,2026-04
+FCA01017,CUST10908,2026-01-14,Fraud,Geo Anomaly,44.0,20340.28,Closed - Explained,0,2026-01
+FCA01018,CUST10351,2026-08-12,Transaction Monitoring,High-Risk Wire,73.0,12303.17,Closed - Explained,0,2026-08
+FCA01019,CUST10232,2026-04-13,Fraud,Velocity Spike,36.0,163807.78,Closed - Explained,0,2026-04
+FCA01020,CUST10313,2026-05-23,KYC/EDD,PEP Exposure,66.0,91638.83,Escalated,1,2026-05
+FCA01021,CUST10642,2026-07-17,KYC/EDD,PEP Exposure,59.0,37359.77,Escalated,1,2026-07
+FCA01022,CUST10273,2026-03-18,Sanctions,Watchlist Exposure,86.0,76901.32,Escalated,1,2026-03
+FCA01023,CUST10150,2026-04-03,Transaction Monitoring,Structuring,55.0,25724.42,Closed - Explained,0,2026-04
+FCA01024,CUST10420,2026-01-15,Transaction Monitoring,Unusual Volume,34.0,14493.35,Closed - Explained,0,2026-01
+FCA01025,CUST10519,2026-07-13,Transaction Monitoring,Structuring,74.0,8175.23,Escalated,1,2026-07
+FCA01026,CUST11135,2026-01-09,KYC/EDD,Source of Funds,46.0,31563.25,Closed - Explained,0,2026-01
+FCA01027,CUST11118,2026-06-06,KYC/EDD,Adverse Media,65.0,18329.79,Escalated,1,2026-06
+FCA01028,CUST11074,2026-05-19,Transaction Monitoring,High-Risk Wire,38.0,10228.5,Closed - Explained,0,2026-05
+FCA01029,CUST10673,2026-04-08,Sanctions,High-Risk Geography,58.0,12134.89,Closed - Explained,0,2026-04
+FCA01030,CUST10032,2026-08-16,KYC/EDD,PEP Exposure,47.0,64909.31,Closed - Explained,0,2026-08
+FCA01031,CUST10068,2026-07-27,Transaction Monitoring,High-Risk Wire,57.0,33646.4,Closed - Explained,0,2026-07
+FCA01032,CUST10332,2026-04-01,KYC/EDD,Source of Funds,52.0,31750.13,Escalated,1,2026-04
+FCA01033,CUST10602,2026-07-16,Transaction Monitoring,Unusual Volume,94.0,2997.66,Escalated,1,2026-07
+FCA01034,CUST10045,2026-03-08,Sanctions,Watchlist Exposure,77.0,3572.37,Escalated,1,2026-03
+FCA01035,CUST10402,2026-03-02,Fraud,Suspicious Merchant,53.0,42026.38,Closed - Explained,0,2026-03
+FCA01036,CUST11183,2026-05-15,Fraud,Velocity Spike,31.0,11003.57,Closed - Explained,0,2026-05
+FCA01037,CUST11197,2026-02-28,Transaction Monitoring,High-Risk Wire,63.0,26587.39,Escalated,1,2026-02
+FCA01038,CUST11150,2026-01-31,Transaction Monitoring,Unusual Volume,53.0,7964.44,Closed - Explained,0,2026-01
+FCA01039,CUST10876,2026-01-16,Transaction Monitoring,Rapid Movement,49.0,5514.05,Closed - Explained,0,2026-01
+FCA01040,CUST10717,2026-01-18,Transaction Monitoring,Unusual Volume,62.0,28363.89,Closed - Explained,0,2026-01
+FCA01041,CUST11171,2026-09-03,Fraud,Geo Anomaly,20.0,104650.68,Closed - Explained,0,2026-09
+FCA01042,CUST10007,2026-06-17,KYC/EDD,PEP Exposure,87.0,14437.26,Escalated,1,2026-06
+FCA01043,CUST11075,2026-08-13,Fraud,Suspicious Merchant,93.0,24740.35,Escalated,1,2026-08
+FCA01044,CUST11151,2026-08-16,Transaction Monitoring,Structuring,43.0,56504.25,Closed - Explained,0,2026-08
+FCA01045,CUST10520,2026-01-27,KYC/EDD,PEP Exposure,63.0,8493.07,Closed - Explained,0,2026-01
+FCA01046,CUST10494,2026-07-06,Transaction Monitoring,Rapid Movement,88.0,10199.53,Escalated,1,2026-07
+FCA01047,CUST10964,2026-02-02,Transaction Monitoring,High-Risk Wire,40.0,33719.84,Closed - Explained,0,2026-02
+FCA01048,CUST10084,2026-09-22,Fraud,Account Takeover,65.0,5765.96,Escalated,1,2026-09
+FCA01049,CUST11150,2026-08-13,Transaction Monitoring,Rapid Movement,56.0,32138.18,Closed - Explained,0,2026-08
+FCA01050,CUST10250,2026-07-18,Sanctions,Name Match,60.0,24121.12,Escalated,1,2026-07
+FCA01051,CUST10042,2026-06-03,Fraud,Velocity Spike,65.0,40048.31,Closed - Explained,0,2026-06
+FCA01052,CUST10147,2026-03-05,Sanctions,Name Match,73.0,50801.94,Closed - Explained,0,2026-03
+FCA01053,CUST10412,2026-06-20,Transaction Monitoring,Rapid Movement,54.0,44482.97,Closed - Explained,0,2026-06
+FCA01054,CUST10978,2026-03-09,Fraud,Suspicious Merchant,100.0,36136.59,Escalated,1,2026-03
+FCA01055,CUST10342,2026-03-12,Fraud,Geo Anomaly,25.0,15393.35,Escalated,1,2026-03
+FCA01056,CUST11149,2026-06-04,KYC/EDD,Source of Funds,56.0,72061.9,Escalated,1,2026-06
+FCA01057,CUST10256,2026-08-21,Sanctions,High-Risk Geography,38.0,103764.24,Closed - Explained,0,2026-08
+FCA01058,CUST10068,2026-02-24,Transaction Monitoring,Unusual Volume,67.0,25306.2,Closed - Explained,0,2026-02
+FCA01059,CUST10303,2026-02-24,Transaction Monitoring,Structuring,83.0,23960.91,Closed - Explained,0,2026-02
+FCA01060,CUST10741,2026-04-30,Transaction Monitoring,Unusual Volume,45.0,55107.98,Escalated,1,2026-04
+FCA01061,CUST10515,2026-05-09,Sanctions,High-Risk Geography,41.0,16629.02,Closed - Explained,0,2026-05
+FCA01062,CUST10378,2026-02-07,Fraud,Geo Anomaly,60.0,17453.42,Closed - Explained,0,2026-02
+FCA01063,CUST10273,2026-03-28,Transaction Monitoring,Unusual Volume,61.0,2234.83,Escalated,1,2026-03
+FCA01064,CUST11107,2026-05-05,KYC/EDD,PEP Exposure,46.0,51593.28,Closed - Explained,0,2026-05
+FCA01065,CUST11166,2026-02-24,Transaction Monitoring,Unusual Volume,39.0,19741.2,Closed - Explained,0,2026-02
+FCA01066,CUST10863,2026-04-17,Fraud,Geo Anomaly,39.0,959.14,Closed - Explained,0,2026-04
+FCA01067,CUST10601,2026-06-20,Transaction Monitoring,High-Risk Wire,23.0,285676.07,Closed - Explained,0,2026-06
+FCA01068,CUST10472,2026-01-07,Transaction Monitoring,High-Risk Wire,35.0,43313.33,Closed - Explained,0,2026-01
+FCA01069,CUST10407,2026-09-29,KYC/EDD,KYC Refresh,81.0,54665.35,Escalated,1,2026-09
+FCA01070,CUST10510,2026-03-23,KYC/EDD,Adverse Media,69.0,29533.18,Closed - Explained,0,2026-03
+FCA01071,CUST10942,2026-08-31,KYC/EDD,KYC Refresh,92.0,61302.06,Escalated,1,2026-08
+FCA01072,CUST10748,2026-06-22,Transaction Monitoring,High-Risk Wire,76.0,75337.02,Closed - Explained,0,2026-06
+FCA01073,CUST10726,2026-08-18,Transaction Monitoring,Unusual Volume,62.0,13294.45,Closed - Explained,0,2026-08
+FCA01074,CUST10056,2026-09-11,Transaction Monitoring,Structuring,58.0,342875.18,Closed - Explained,0,2026-09
+FCA01075,CUST11093,2026-07-03,Transaction Monitoring,High-Risk Wire,100.0,19230.44,Escalated,1,2026-07
+FCA01076,CUST10250,2026-05-15,KYC/EDD,KYC Refresh,100.0,11560.23,Escalated,1,2026-05
+FCA01077,CUST10625,2026-06-27,Transaction Monitoring,Unusual Volume,62.0,17946.37,Escalated,1,2026-06
+FCA01078,CUST11140,2026-04-10,Fraud,Velocity Spike,72.0,41469.19,Escalated,1,2026-04
+FCA01079,CUST10778,2026-07-13,Fraud,Geo Anomaly,68.0,44711.23,Closed - Explained,0,2026-07
+FCA01080,CUST10021,2026-03-01,KYC/EDD,KYC Refresh,36.0,37059.43,Closed - Explained,0,2026-03
+FCA01081,CUST10757,2026-08-14,Sanctions,High-Risk Geography,64.0,34199.4,Escalated,1,2026-08
+FCA01082,CUST10169,2026-05-22,Transaction Monitoring,Rapid Movement,23.0,5464.76,Closed - Explained,0,2026-05
+FCA01083,CUST10850,2026-09-15,KYC/EDD,Adverse Media,73.0,392158.7,Closed - Explained,0,2026-09
+FCA01084,CUST10921,2026-03-08,Transaction Monitoring,High-Risk Wire,41.0,8300.28,Closed - Explained,0,2026-03
+FCA01085,CUST10571,2026-04-11,Fraud,Account Takeover,57.0,43958.32,Escalated,1,2026-04
+FCA01086,CUST10928,2026-04-21,KYC/EDD,PEP Exposure,61.0,24455.29,Closed - Explained,0,2026-04
+FCA01087,CUST10271,2026-08-17,Fraud,Suspicious Merchant,39.0,10534.16,Closed - Explained,0,2026-08
+FCA01088,CUST10689,2026-05-12,Fraud,Geo Anomaly,91.0,33081.63,Closed - Explained,0,2026-05
+FCA01089,CUST11099,2026-02-14,Fraud,Account Takeover,93.0,18073.47,Escalated,1,2026-02
+FCA01090,CUST11062,2026-02-17,KYC/EDD,KYC Refresh,48.0,61438.31,Closed - Explained,0,2026-02
+FCA01091,CUST10006,2026-06-27,KYC/EDD,Source of Funds,36.0,27775.02,Closed - Explained,0,2026-06
+FCA01092,CUST10805,2026-02-23,Sanctions,High-Risk Geography,85.0,91881.42,Escalated,1,2026-02
+FCA01093,CUST11132,2026-08-24,KYC/EDD,Adverse Media,84.0,41344.67,Escalated,1,2026-08
+FCA01094,CUST10189,2026-07-31,Fraud,Geo Anomaly,60.0,56289.03,Closed - Explained,0,2026-07
+FCA01095,CUST10975,2026-04-17,KYC/EDD,Adverse Media,76.0,10260.38,Escalated,1,2026-04
+FCA01096,CUST11093,2026-08-31,Transaction Monitoring,High-Risk Wire,61.0,75406.89,Closed - Explained,0,2026-08
+FCA01097,CUST10802,2026-09-06,Sanctions,High-Risk Geography,62.0,23978.82,Escalated,1,2026-09
+FCA01098,CUST10156,2026-07-01,Fraud,Account Takeover,49.0,12536.31,Closed - Explained,0,2026-07
+FCA01099,CUST10431,2026-05-08,Sanctions,High-Risk Geography,64.0,71709.45,Escalated,1,2026-05
+FCA01100,CUST11135,2026-08-15,Transaction Monitoring,Unusual Volume,60.0,13885.08,Escalated,1,2026-08
+FCA01101,CUST10350,2026-04-29,KYC/EDD,PEP Exposure,27.0,13089.03,Escalated,1,2026-04
+FCA01102,CUST10519,2026-04-23,Transaction Monitoring,Unusual Volume,55.0,94085.52,Closed - Explained,0,2026-04
+FCA01103,CUST10025,2026-09-16,Fraud,Geo Anomaly,69.0,48029.79,Closed - Explained,0,2026-09
+FCA01104,CUST10786,2026-03-16,Transaction Monitoring,Rapid Movement,46.0,7193.02,Closed - Explained,0,2026-03
+FCA01105,CUST10202,2026-08-26,KYC/EDD,Source of Funds,83.0,76180.14,Closed - Explained,0,2026-08
+FCA01106,CUST10560,2026-09-25,Transaction Monitoring,Rapid Movement,93.0,13495.97,Closed - Explained,0,2026-09
+FCA01107,CUST10119,2026-02-26,Fraud,Geo Anomaly,51.0,7236.3,Escalated,1,2026-02
+FCA01108,CUST10099,2026-05-11,Fraud,Geo Anomaly,41.0,6952.96,Closed - Explained,0,2026-05
+FCA01109,CUST10229,2026-02-10,Transaction Monitoring,Rapid Movement,64.0,100217.21,Escalated,1,2026-02
+FCA01110,CUST10875,2026-07-22,Sanctions,Name Match,66.0,34426.49,Closed - Explained,0,2026-07
+FCA01111,CUST11001,2026-05-27,Transaction Monitoring,High-Risk Wire,70.0,165831.85,Escalated,1,2026-05
+FCA01112,CUST10799,2026-08-19,KYC/EDD,PEP Exposure,26.0,27863.24,Closed - Explained,0,2026-08
+FCA01113,CUST10714,2026-03-05,Transaction Monitoring,Unusual Volume,57.0,22515.28,Escalated,1,2026-03
+FCA01114,CUST11037,2026-03-09,Fraud,Account Takeover,33.0,24179.85,Closed - Explained,0,2026-03
+FCA01115,CUST10563,2026-08-12,Fraud,Suspicious Merchant,54.0,11780.23,Closed - Explained,0,2026-08
+FCA01116,CUST10955,2026-03-25,Transaction Monitoring,Structuring,69.0,37880.31,Closed - Explained,0,2026-03
+FCA01117,CUST11153,2026-07-30,Sanctions,High-Risk Geography,100.0,14348.15,Escalated,1,2026-07
+FCA01118,CUST10675,2026-07-22,Transaction Monitoring,Structuring,41.0,72616.08,Closed - Explained,0,2026-07
+FCA01119,CUST10739,2026-04-07,Transaction Monitoring,Rapid Movement,51.0,55976.35,Closed - Explained,0,2026-04
+FCA01120,CUST10321,2026-06-27,Transaction Monitoring,Rapid Movement,78.0,28266.09,Escalated,1,2026-06
+FCA01121,CUST10331,2026-02-17,Transaction Monitoring,Unusual Volume,56.0,4029.55,Closed - Explained,0,2026-02
+FCA01122,CUST11094,2026-04-22,Transaction Monitoring,Structuring,54.0,101594.73,Closed - Explained,0,2026-04
+FCA01123,CUST10817,2026-09-07,Sanctions,Name Match,87.0,6687.12,Escalated,1,2026-09
+FCA01124,CUST10889,2026-09-21,Sanctions,Name Match,63.0,17670.88,Escalated,1,2026-09
+FCA01125,CUST10724,2026-09-19,KYC/EDD,Adverse Media,40.0,16950.14,Closed - Explained,0,2026-09
+FCA01126,CUST11164,2026-01-05,Transaction Monitoring,Rapid Movement,59.0,20880.77,Closed - Explained,0,2026-01
+FCA01127,CUST10084,2026-06-19,Transaction Monitoring,Structuring,91.0,88143.71,Escalated,1,2026-06
+FCA01128,CUST11042,2026-09-02,Transaction Monitoring,Structuring,52.0,2510.04,Closed - Explained,0,2026-09
+FCA01129,CUST10661,2026-03-05,Transaction Monitoring,Unusual Volume,74.0,12197.85,Escalated,1,2026-03
+FCA01130,CUST10695,2026-09-11,KYC/EDD,PEP Exposure,61.0,23785.92,Escalated,1,2026-09
+FCA01131,CUST10594,2026-09-06,Transaction Monitoring,High-Risk Wire,50.0,153448.04,Closed - Explained,0,2026-09
+FCA01132,CUST10740,2026-07-30,Sanctions,Watchlist Exposure,51.0,21295.78,Closed - Explained,0,2026-07
+FCA01133,CUST10463,2026-08-02,KYC/EDD,PEP Exposure,57.0,20779.12,Closed - Explained,0,2026-08
+FCA01134,CUST10786,2026-09-17,Sanctions,High-Risk Geography,84.0,28637.86,Escalated,1,2026-09
+FCA01135,CUST10894,2026-09-11,KYC/EDD,Source of Funds,66.0,18945.74,Closed - Explained,0,2026-09
+FCA01136,CUST10320,2026-03-01,Transaction Monitoring,Structuring,54.0,28997.3,Closed - Explained,0,2026-03
+FCA01137,CUST11005,2026-05-01,Transaction Monitoring,High-Risk Wire,23.0,37376.99,Closed - Explained,0,2026-05
+FCA01138,CUST10524,2026-05-27,Sanctions,High-Risk Geography,60.0,50542.0,Closed - Explained,0,2026-05
+FCA01139,CUST10746,2026-02-18,Transaction Monitoring,Unusual Volume,77.0,20194.58,Closed - Explained,0,2026-02
+FCA01140,CUST10702,2026-09-14,Fraud,Suspicious Merchant,43.0,20880.68,Closed - Explained,0,2026-09
+FCA01141,CUST10979,2026-03-09,Transaction Monitoring,High-Risk Wire,39.0,14215.81,Closed - Explained,0,2026-03
+FCA01142,CUST10452,2026-06-21,Transaction Monitoring,Rapid Movement,65.0,54286.06,Escalated,1,2026-06
+FCA01143,CUST10756,2026-06-17,Transaction Monitoring,Unusual Volume,57.0,30572.93,Escalated,1,2026-06
+FCA01144,CUST11068,2026-05-24,Fraud,Account Takeover,62.0,185410.95,Escalated,1,2026-05
+FCA01145,CUST10500,2026-09-16,KYC/EDD,Source of Funds,65.0,32859.47,Closed - Explained,0,2026-09
+FCA01146,CUST10400,2026-06-22,Fraud,Suspicious Merchant,45.0,54685.44,Escalated,1,2026-06
+FCA01147,CUST11006,2026-04-23,Transaction Monitoring,Structuring,52.0,33159.95,Closed - Explained,0,2026-04
+FCA01148,CUST10764,2026-09-24,Fraud,Geo Anomaly,43.0,126155.28,Closed - Explained,0,2026-09
+FCA01149,CUST11171,2026-06-09,Transaction Monitoring,Unusual Volume,51.0,25807.97,Closed - Explained,0,2026-06
+FCA01150,CUST10663,2026-07-05,Transaction Monitoring,Structuring,63.0,84004.59,Escalated,1,2026-07
+FCA01151,CUST10267,2026-07-25,Transaction Monitoring,Unusual Volume,63.0,17631.25,Closed - Explained,0,2026-07
+FCA01152,CUST10037,2026-07-15,Sanctions,Name Match,55.0,39603.14,Closed - Explained,0,2026-07
+FCA01153,CUST10527,2026-04-10,Fraud,Account Takeover,53.0,16035.4,Closed - Explained,0,2026-04
+FCA01154,CUST10847,2026-01-08,KYC/EDD,Adverse Media,80.0,36289.17,Escalated,1,2026-01
+FCA01155,CUST10409,2026-01-18,Sanctions,High-Risk Geography,100.0,26996.85,Closed - Explained,0,2026-01
+FCA01156,CUST10184,2026-05-07,Transaction Monitoring,Structuring,60.0,146439.81,Closed - Explained,0,2026-05
+FCA01157,CUST10465,2026-03-04,Fraud,Velocity Spike,80.0,20308.41,Closed - Explained,0,2026-03
+FCA01158,CUST10079,2026-01-15,Fraud,Geo Anomaly,74.0,35323.26,Closed - Explained,0,2026-01
+FCA01159,CUST10714,2026-05-20,Sanctions,Watchlist Exposure,49.0,50119.66,Closed - Explained,0,2026-05
+FCA01160,CUST10318,2026-07-10,KYC/EDD,Adverse Media,27.0,51109.74,Closed - Explained,0,2026-07
+FCA01161,CUST10453,2026-07-12,KYC/EDD,PEP Exposure,11.0,35854.14,Closed - Explained,0,2026-07
+FCA01162,CUST10425,2026-08-19,Transaction Monitoring,Unusual Volume,33.0,21458.82,Closed - Explained,0,2026-08
+FCA01163,CUST10408,2026-08-18,Transaction Monitoring,Structuring,49.0,19537.79,Closed - Explained,0,2026-08
+FCA01164,CUST10984,2026-02-25,KYC/EDD,KYC Refresh,74.0,16994.44,Closed - Explained,0,2026-02
+FCA01165,CUST11196,2026-04-18,KYC/EDD,PEP Exposure,80.0,98513.95,Closed - Explained,0,2026-04
+FCA01166,CUST10616,2026-04-05,Transaction Monitoring,Unusual Volume,42.0,94616.43,Escalated,1,2026-04
+FCA01167,CUST10453,2026-07-27,Transaction Monitoring,Structuring,64.0,10667.96,Escalated,1,2026-07
+FCA01168,CUST10930,2026-02-20,Transaction Monitoring,High-Risk Wire,47.0,22262.18,Closed - Explained,0,2026-02
+FCA01169,CUST10935,2026-03-31,Transaction Monitoring,Unusual Volume,16.0,29816.9,Closed - Explained,0,2026-03
+FCA01170,CUST10872,2026-05-03,Sanctions,High-Risk Geography,92.0,15431.99,Closed - Explained,0,2026-05
+FCA01171,CUST10460,2026-08-17,Fraud,Geo Anomaly,76.0,15080.18,Escalated,1,2026-08
+FCA01172,CUST10288,2026-03-26,Transaction Monitoring,Rapid Movement,49.0,15743.32,Closed - Explained,0,2026-03
+FCA01173,CUST10666,2026-03-07,Transaction Monitoring,Structuring,64.0,5317.77,Escalated,1,2026-03
+FCA01174,CUST10429,2026-08-06,Transaction Monitoring,Unusual Volume,54.0,6576.68,Closed - Explained,0,2026-08
+FCA01175,CUST10287,2026-06-29,Transaction Monitoring,Structuring,43.0,38703.6,Closed - Explained,0,2026-06
+FCA01176,CUST10320,2026-06-28,Transaction Monitoring,Rapid Movement,67.0,9859.02,Closed - Explained,0,2026-06
+FCA01177,CUST11095,2026-04-18,Transaction Monitoring,Structuring,60.0,14895.79,Closed - Explained,0,2026-04
+FCA01178,CUST10296,2026-01-19,Sanctions,High-Risk Geography,49.0,43178.45,Closed - Explained,0,2026-01
+FCA01179,CUST10385,2026-04-26,Sanctions,Name Match,40.0,123611.35,Closed - Explained,0,2026-04
+FCA01180,CUST10360,2026-08-21,KYC/EDD,Source of Funds,48.0,25926.79,Closed - Explained,0,2026-08
+FCA01181,CUST11064,2026-03-24,Transaction Monitoring,Unusual Volume,74.0,25421.41,Escalated,1,2026-03
+FCA01182,CUST10806,2026-02-23,Fraud,Suspicious Merchant,67.0,64574.55,Escalated,1,2026-02
+FCA01183,CUST10927,2026-03-27,Transaction Monitoring,High-Risk Wire,52.0,44958.85,Closed - Explained,0,2026-03
+FCA01184,CUST10300,2026-09-14,KYC/EDD,PEP Exposure,71.0,18275.52,Escalated,1,2026-09
+FCA01185,CUST10172,2026-01-27,Transaction Monitoring,Unusual Volume,36.0,20176.89,Closed - Explained,0,2026-01
+FCA01186,CUST10518,2026-02-11,Transaction Monitoring,High-Risk Wire,42.0,115687.44,Closed - Explained,0,2026-02
+FCA01187,CUST10546,2026-03-13,Fraud,Account Takeover,54.0,41603.86,Closed - Explained,0,2026-03
+FCA01188,CUST10630,2026-07-11,Transaction Monitoring,Structuring,52.0,32468.95,Closed - Explained,0,2026-07
+FCA01189,CUST10825,2026-07-28,Transaction Monitoring,High-Risk Wire,31.0,29046.69,Closed - Explained,0,2026-07
+FCA01190,CUST11112,2026-01-09,Sanctions,Name Match,87.0,76809.61,Closed - Explained,0,2026-01
+FCA01191,CUST10850,2026-07-02,Transaction Monitoring,High-Risk Wire,48.0,34200.51,Escalated,1,2026-07
+FCA01192,CUST10208,2026-06-13,Transaction Monitoring,Structuring,20.0,53412.41,Closed - Explained,0,2026-06
+FCA01193,CUST10836,2026-02-24,Transaction Monitoring,Rapid Movement,46.0,26305.19,Closed - Explained,0,2026-02
+FCA01194,CUST10124,2026-01-10,Sanctions,Watchlist Exposure,58.0,48936.84,Closed - Explained,0,2026-01
+FCA01195,CUST10400,2026-03-26,Transaction Monitoring,Structuring,79.0,3243.51,Closed - Explained,0,2026-03
+FCA01196,CUST10633,2026-09-12,Transaction Monitoring,Structuring,63.0,29185.43,Escalated,1,2026-09
+FCA01197,CUST10256,2026-04-09,Fraud,Account Takeover,14.0,9481.29,Closed - Explained,0,2026-04
+FCA01198,CUST10718,2026-09-27,KYC/EDD,Adverse Media,69.0,34669.05,Closed - Explained,0,2026-09
+FCA01199,CUST10780,2026-06-29,Fraud,Velocity Spike,62.0,58712.93,Closed - Explained,0,2026-06
+FCA01200,CUST10651,2026-04-17,KYC/EDD,KYC Refresh,54.0,23294.36,Closed - Explained,0,2026-04
+FCA01201,CUST11172,2026-05-05,Transaction Monitoring,High-Risk Wire,35.0,55392.95,Closed - Explained,0,2026-05
+FCA01202,CUST10384,2026-03-07,Fraud,Account Takeover,83.0,17905.54,Closed - Explained,0,2026-03
+FCA01203,CUST10512,2026-03-26,Transaction Monitoring,Unusual Volume,67.0,15933.38,Escalated,1,2026-03
+FCA01204,CUST11131,2026-08-06,Sanctions,High-Risk Geography,83.0,71621.21,Closed - Explained,0,2026-08
+FCA01205,CUST10718,2026-02-06,Fraud,Geo Anomaly,66.0,5493.84,Escalated,1,2026-02
+FCA01206,CUST10443,2026-04-02,Transaction Monitoring,Unusual Volume,21.0,12892.03,Closed - Explained,0,2026-04
+FCA01207,CUST10158,2026-07-05,KYC/EDD,KYC Refresh,41.0,102450.95,Escalated,1,2026-07
+FCA01208,CUST10983,2026-03-25,KYC/EDD,Source of Funds,50.0,23167.86,Closed - Explained,0,2026-03
+FCA01209,CUST10908,2026-01-21,Fraud,Account Takeover,63.0,15801.56,Escalated,1,2026-01
+FCA01210,CUST10738,2026-08-01,Sanctions,Watchlist Exposure,55.0,32122.46,Closed - Explained,0,2026-08
+FCA01211,CUST10888,2026-09-13,Sanctions,Watchlist Exposure,22.0,6641.65,Closed - Explained,0,2026-09
+FCA01212,CUST10146,2026-05-18,Fraud,Velocity Spike,74.0,20934.29,Escalated,1,2026-05
+FCA01213,CUST10309,2026-08-15,Sanctions,Name Match,66.0,34405.69,Closed - Explained,0,2026-08
+FCA01214,CUST11161,2026-08-05,Transaction Monitoring,Rapid Movement,15.0,16594.14,Closed - Explained,0,2026-08
+FCA01215,CUST10981,2026-02-03,Fraud,Velocity Spike,79.0,45652.0,Closed - Explained,0,2026-02
+FCA01216,CUST10130,2026-06-29,Sanctions,Name Match,24.0,47455.44,Closed - Explained,0,2026-06
+FCA01217,CUST10177,2026-07-13,Sanctions,Name Match,62.0,2380.44,Closed - Explained,0,2026-07
+FCA01218,CUST10207,2026-05-10,Sanctions,High-Risk Geography,22.0,20290.66,Closed - Explained,0,2026-05
+FCA01219,CUST10740,2026-05-13,KYC/EDD,Adverse Media,61.0,30836.11,Closed - Explained,0,2026-05
+FCA01220,CUST10530,2026-06-27,Fraud,Velocity Spike,60.0,219527.7,Closed - Explained,0,2026-06
+FCA01221,CUST10438,2026-09-16,Sanctions,Name Match,63.0,20906.39,Closed - Explained,0,2026-09
+FCA01222,CUST10279,2026-01-15,Transaction Monitoring,Structuring,75.0,20718.48,Closed - Explained,0,2026-01
+FCA01223,CUST10634,2026-07-07,Transaction Monitoring,Rapid Movement,46.0,2284.96,Closed - Explained,0,2026-07
+FCA01224,CUST11197,2026-04-17,Sanctions,High-Risk Geography,57.0,15517.13,Closed - Explained,0,2026-04
+FCA01225,CUST10124,2026-01-16,KYC/EDD,Source of Funds,68.0,197102.74,Escalated,1,2026-01
+FCA01226,CUST10905,2026-03-14,Fraud,Suspicious Merchant,76.0,50540.33,Escalated,1,2026-03
+FCA01227,CUST10638,2026-01-17,Fraud,Velocity Spike,46.0,10103.63,Closed - Explained,0,2026-01
+FCA01228,CUST10992,2026-08-07,Fraud,Suspicious Merchant,57.0,26319.35,Escalated,1,2026-08
+FCA01229,CUST11102,2026-04-09,Transaction Monitoring,Structuring,42.0,13030.84,Closed - Explained,0,2026-04
+FCA01230,CUST10252,2026-01-09,KYC/EDD,Adverse Media,71.0,19424.45,Closed - Explained,0,2026-01
+FCA01231,CUST10666,2026-01-01,Transaction Monitoring,Unusual Volume,35.0,130173.03,Closed - Explained,0,2026-01
+FCA01232,CUST10735,2026-01-02,Sanctions,High-Risk Geography,81.0,83544.41,Escalated,1,2026-01
+FCA01233,CUST10066,2026-01-08,Transaction Monitoring,High-Risk Wire,49.0,4070.35,Closed - Explained,0,2026-01
+FCA01234,CUST10152,2026-06-14,KYC/EDD,KYC Refresh,68.0,7092.24,Escalated,1,2026-06
+FCA01235,CUST10464,2026-09-10,Transaction Monitoring,Structuring,54.0,30333.91,Closed - Explained,0,2026-09
+FCA01236,CUST10129,2026-06-02,Transaction Monitoring,High-Risk Wire,48.0,7912.83,Closed - Explained,0,2026-06
+FCA01237,CUST10706,2026-07-14,Fraud,Account Takeover,18.0,31514.97,Closed - Explained,0,2026-07
+FCA01238,CUST10888,2026-09-21,KYC/EDD,Adverse Media,46.0,13730.34,Closed - Explained,0,2026-09
+FCA01239,CUST11098,2026-05-16,KYC/EDD,PEP Exposure,55.0,491474.74,Closed - Explained,0,2026-05
+FCA01240,CUST10117,2026-06-22,Sanctions,Watchlist Exposure,51.0,58235.21,Closed - Explained,0,2026-06
+FCA01241,CUST10820,2026-05-27,KYC/EDD,KYC Refresh,69.0,45131.19,Escalated,1,2026-05
+FCA01242,CUST10039,2026-08-08,Fraud,Suspicious Merchant,72.0,23059.23,Escalated,1,2026-08
+FCA01243,CUST10456,2026-04-11,Transaction Monitoring,Structuring,26.0,39433.91,Closed - Explained,0,2026-04
+FCA01244,CUST10332,2026-08-12,Sanctions,High-Risk Geography,43.0,195729.44,Closed - Explained,0,2026-08
+FCA01245,CUST10634,2026-06-07,KYC/EDD,Adverse Media,30.0,1945.72,Closed - Explained,0,2026-06
+FCA01246,CUST10646,2026-05-15,Fraud,Geo Anomaly,63.0,82587.83,Escalated,1,2026-05
+FCA01247,CUST11123,2026-03-02,KYC/EDD,Adverse Media,100.0,70447.93,Closed - Explained,0,2026-03
+FCA01248,CUST10524,2026-02-28,Transaction Monitoring,Structuring,39.0,3837.79,Closed - Explained,0,2026-02
+FCA01249,CUST10875,2026-01-28,KYC/EDD,Source of Funds,88.0,12900.22,Escalated,1,2026-01
+FCA01250,CUST11040,2026-01-05,KYC/EDD,Adverse Media,72.0,25656.59,Closed - Explained,0,2026-01
+FCA01251,CUST10960,2026-02-16,Transaction Monitoring,Rapid Movement,53.0,9174.25,Escalated,1,2026-02
+FCA01252,CUST10775,2026-07-07,KYC/EDD,Source of Funds,59.0,27114.54,Closed - Explained,0,2026-07
+FCA01253,CUST10161,2026-09-02,Sanctions,Watchlist Exposure,60.0,16537.7,Closed - Explained,0,2026-09
+FCA01254,CUST10371,2026-03-27,Sanctions,Watchlist Exposure,47.0,12408.51,Closed - Explained,0,2026-03
+FCA01255,CUST10721,2026-07-19,Fraud,Geo Anomaly,95.0,9909.85,Closed - Explained,0,2026-07
+FCA01256,CUST10224,2026-09-09,Transaction Monitoring,Structuring,50.0,35074.05,Closed - Explained,0,2026-09
+FCA01257,CUST10394,2026-01-17,Fraud,Velocity Spike,50.0,37031.97,Closed - Explained,0,2026-01
+FCA01258,CUST10997,2026-02-15,Sanctions,Name Match,68.0,66865.14,Closed - Explained,0,2026-02
+FCA01259,CUST10634,2026-02-04,KYC/EDD,KYC Refresh,48.0,5040.81,Closed - Explained,0,2026-02
+FCA01260,CUST10336,2026-02-17,KYC/EDD,Source of Funds,57.0,114805.04,Closed - Explained,0,2026-02
+FCA01261,CUST11148,2026-02-04,Transaction Monitoring,Structuring,56.0,51981.89,Closed - Explained,0,2026-02
+FCA01262,CUST11042,2026-04-21,Sanctions,Watchlist Exposure,54.0,21765.2,Closed - Explained,0,2026-04
+FCA01263,CUST10370,2026-08-31,Transaction Monitoring,Unusual Volume,62.0,12951.31,Closed - Explained,0,2026-08
+FCA01264,CUST10793,2026-06-06,Fraud,Suspicious Merchant,59.0,14092.63,Closed - Explained,0,2026-06
+FCA01265,CUST10079,2026-07-09,Sanctions,High-Risk Geography,67.0,16447.96,Closed - Explained,0,2026-07
+FCA01266,CUST10957,2026-02-05,Sanctions,Watchlist Exposure,61.0,49378.58,Escalated,1,2026-02
+FCA01267,CUST10327,2026-03-07,Transaction Monitoring,Unusual Volume,44.0,64452.49,Escalated,1,2026-03
+FCA01268,CUST10798,2026-09-18,Transaction Monitoring,Rapid Movement,77.0,69586.15,Escalated,1,2026-09
+FCA01269,CUST11016,2026-02-20,Fraud,Account Takeover,77.0,32882.61,Closed - Explained,0,2026-02
+FCA01270,CUST11003,2026-07-25,Transaction Monitoring,Structuring,59.0,190521.56,Closed - Explained,0,2026-07
+FCA01271,CUST10359,2026-04-24,Transaction Monitoring,High-Risk Wire,53.0,32892.14,Closed - Explained,0,2026-04
+FCA01272,CUST10693,2026-02-03,Fraud,Suspicious Merchant,66.0,12066.13,Closed - Explained,0,2026-02
+FCA01273,CUST11196,2026-03-02,Sanctions,High-Risk Geography,36.0,57402.8,Closed - Explained,0,2026-03
+FCA01274,CUST10690,2026-07-02,Fraud,Geo Anomaly,76.0,18379.98,Closed - Explained,0,2026-07
+FCA01275,CUST10371,2026-05-04,Fraud,Account Takeover,59.0,52837.02,Escalated,1,2026-05
+FCA01276,CUST11115,2026-02-17,Fraud,Account Takeover,92.0,3399.25,Closed - Explained,0,2026-02
+FCA01277,CUST10866,2026-04-13,Transaction Monitoring,High-Risk Wire,75.0,16587.89,Escalated,1,2026-04
+FCA01278,CUST11144,2026-07-05,Fraud,Suspicious Merchant,50.0,70075.33,Closed - Explained,0,2026-07
+FCA01279,CUST10478,2026-08-24,Transaction Monitoring,Structuring,72.0,12851.66,Escalated,1,2026-08
+FCA01280,CUST10268,2026-03-02,Sanctions,High-Risk Geography,63.0,31268.21,Closed - Explained,0,2026-03
+FCA01281,CUST10296,2026-05-20,Fraud,Geo Anomaly,6.0,19331.99,Closed - Explained,0,2026-05
+FCA01282,CUST11019,2026-07-16,KYC/EDD,Source of Funds,59.0,91365.31,Closed - Explained,0,2026-07
+FCA01283,CUST10223,2026-07-14,Sanctions,Name Match,50.0,5601.09,Closed - Explained,0,2026-07
+FCA01284,CUST10427,2026-06-03,Transaction Monitoring,Unusual Volume,74.0,26275.25,Closed - Explained,0,2026-06
+FCA01285,CUST10435,2026-01-10,Transaction Monitoring,Structuring,64.0,15326.14,Escalated,1,2026-01
+FCA01286,CUST11041,2026-02-03,KYC/EDD,Adverse Media,66.0,28054.58,Closed - Explained,0,2026-02
+FCA01287,CUST10059,2026-04-08,Transaction Monitoring,Rapid Movement,44.0,17501.95,Escalated,1,2026-04
+FCA01288,CUST11020,2026-05-02,Transaction Monitoring,Rapid Movement,69.0,43331.06,Closed - Explained,0,2026-05
+FCA01289,CUST10282,2026-02-16,Sanctions,Watchlist Exposure,49.0,12327.22,Closed - Explained,0,2026-02
+FCA01290,CUST10041,2026-03-07,Transaction Monitoring,Unusual Volume,39.0,13510.71,Closed - Explained,0,2026-03
+FCA01291,CUST10206,2026-08-11,Transaction Monitoring,Structuring,44.0,33215.05,Closed - Explained,0,2026-08
+FCA01292,CUST10583,2026-08-31,Transaction Monitoring,Rapid Movement,46.0,8328.8,Closed - Explained,0,2026-08
+FCA01293,CUST10384,2026-03-23,Sanctions,High-Risk Geography,89.0,18837.68,Escalated,1,2026-03
+FCA01294,CUST10686,2026-04-15,Sanctions,Watchlist Exposure,58.0,29078.37,Closed - Explained,0,2026-04
+FCA01295,CUST11149,2026-02-15,KYC/EDD,Source of Funds,78.0,23254.42,Escalated,1,2026-02
+FCA01296,CUST10119,2026-06-07,Transaction Monitoring,Rapid Movement,67.0,36082.01,Escalated,1,2026-06
+FCA01297,CUST10565,2026-08-16,Sanctions,Watchlist Exposure,46.0,31603.54,Escalated,1,2026-08
+FCA01298,CUST10012,2026-06-10,Transaction Monitoring,Rapid Movement,43.0,16266.24,Closed - Explained,0,2026-06
+FCA01299,CUST10899,2026-03-17,KYC/EDD,Adverse Media,46.0,28721.42,Closed - Explained,0,2026-03
+FCA01300,CUST11078,2026-05-11,Sanctions,High-Risk Geography,44.0,76555.37,Closed - Explained,0,2026-05
+FCA01301,CUST10960,2026-09-22,Transaction Monitoring,Rapid Movement,95.0,10909.47,Escalated,1,2026-09
+FCA01302,CUST10263,2026-08-02,Transaction Monitoring,Rapid Movement,58.0,6905.62,Closed - Explained,0,2026-08
+FCA01303,CUST10226,2026-03-17,Fraud,Velocity Spike,41.0,15853.62,Escalated,1,2026-03
+FCA01304,CUST11143,2026-07-19,Transaction Monitoring,High-Risk Wire,73.0,5973.19,Closed - Explained,0,2026-07
+FCA01305,CUST10146,2026-04-06,Fraud,Velocity Spike,63.0,157464.63,Escalated,1,2026-04
+FCA01306,CUST10589,2026-03-13,KYC/EDD,PEP Exposure,47.0,12384.85,Closed - Explained,0,2026-03
+FCA01307,CUST11137,2026-08-04,KYC/EDD,KYC Refresh,7.0,23093.08,Closed - Explained,0,2026-08
+FCA01308,CUST10643,2026-08-29,Transaction Monitoring,High-Risk Wire,37.0,9897.91,Closed - Explained,0,2026-08
+FCA01309,CUST10299,2026-07-05,Fraud,Velocity Spike,73.0,8436.35,Closed - Explained,0,2026-07
+FCA01310,CUST10072,2026-04-01,Transaction Monitoring,Structuring,38.0,194379.6,Closed - Explained,0,2026-04
+FCA01311,CUST10829,2026-05-12,Sanctions,Watchlist Exposure,49.0,26510.54,Closed - Explained,0,2026-05
+FCA01312,CUST10505,2026-07-20,Transaction Monitoring,Structuring,57.0,43058.66,Closed - Explained,0,2026-07
+FCA01313,CUST10739,2026-07-30,Fraud,Suspicious Merchant,67.0,26989.58,Escalated,1,2026-07
+FCA01314,CUST10494,2026-05-12,Fraud,Velocity Spike,88.0,37805.33,Closed - Explained,0,2026-05
+FCA01315,CUST11004,2026-06-14,Sanctions,Watchlist Exposure,84.0,122336.22,Escalated,1,2026-06
+FCA01316,CUST10528,2026-06-25,Transaction Monitoring,High-Risk Wire,73.0,2628.46,Escalated,1,2026-06
+FCA01317,CUST10460,2026-08-29,Transaction Monitoring,High-Risk Wire,75.0,8661.46,Closed - Explained,0,2026-08
+FCA01318,CUST10271,2026-07-13,KYC/EDD,KYC Refresh,43.0,19844.09,Closed - Explained,0,2026-07
+FCA01319,CUST10033,2026-03-02,Sanctions,Watchlist Exposure,16.0,49509.21,Closed - Explained,0,2026-03
+FCA01320,CUST10918,2026-08-27,KYC/EDD,Adverse Media,48.0,19986.56,Closed - Explained,0,2026-08
+FCA01321,CUST10565,2026-09-19,Transaction Monitoring,High-Risk Wire,60.0,10790.39,Escalated,1,2026-09
+FCA01322,CUST10398,2026-05-02,Sanctions,High-Risk Geography,37.0,10191.05,Closed - Explained,0,2026-05
+FCA01323,CUST11079,2026-02-22,Transaction Monitoring,Structuring,62.0,23956.71,Escalated,1,2026-02
+FCA01324,CUST10175,2026-06-24,Fraud,Account Takeover,63.0,69123.77,Escalated,1,2026-06
+FCA01325,CUST10652,2026-06-19,Sanctions,High-Risk Geography,87.0,4694.53,Closed - Explained,0,2026-06
+FCA01326,CUST10082,2026-06-09,Fraud,Geo Anomaly,57.0,13544.06,Closed - Explained,0,2026-06
+FCA01327,CUST10024,2026-07-16,Transaction Monitoring,Rapid Movement,42.0,52976.21,Closed - Explained,0,2026-07
+FCA01328,CUST10480,2026-04-26,Fraud,Suspicious Merchant,37.0,32291.31,Closed - Explained,0,2026-04
+FCA01329,CUST10781,2026-04-27,KYC/EDD,PEP Exposure,53.0,4980.27,Closed - Explained,0,2026-04
+FCA01330,CUST10185,2026-03-02,KYC/EDD,Adverse Media,6.0,75198.71,Closed - Explained,0,2026-03
+FCA01331,CUST11033,2026-05-22,Fraud,Account Takeover,59.0,43770.29,Escalated,1,2026-05
+FCA01332,CUST10970,2026-03-07,Fraud,Account Takeover,45.0,173910.61,Closed - Explained,0,2026-03
+FCA01333,CUST10998,2026-04-11,KYC/EDD,Adverse Media,62.0,48242.49,Escalated,1,2026-04
+FCA01334,CUST10851,2026-09-14,Fraud,Velocity Spike,66.0,2293.96,Escalated,1,2026-09
+FCA01335,CUST10288,2026-03-21,Transaction Monitoring,High-Risk Wire,83.0,13802.36,Escalated,1,2026-03
+FCA01336,CUST10714,2026-04-27,Transaction Monitoring,Rapid Movement,23.0,17149.29,Closed - Explained,0,2026-04
+FCA01337,CUST10543,2026-09-01,Transaction Monitoring,Structuring,68.0,6444.89,Closed - Explained,0,2026-09
+FCA01338,CUST11004,2026-05-25,Sanctions,High-Risk Geography,57.0,169860.5,Closed - Explained,0,2026-05
+FCA01339,CUST10897,2026-06-02,Transaction Monitoring,Rapid Movement,42.0,32464.39,Closed - Explained,0,2026-06
+FCA01340,CUST10081,2026-09-23,KYC/EDD,Source of Funds,66.0,51915.68,Closed - Explained,0,2026-09
+FCA01341,CUST10662,2026-06-25,KYC/EDD,PEP Exposure,34.0,24816.28,Closed - Explained,0,2026-06
+FCA01342,CUST10406,2026-09-22,Transaction Monitoring,Rapid Movement,84.0,29824.21,Escalated,1,2026-09
+FCA01343,CUST10136,2026-01-23,KYC/EDD,Adverse Media,49.0,14376.31,Closed - Explained,0,2026-01
+FCA01344,CUST10925,2026-08-15,Transaction Monitoring,High-Risk Wire,70.0,14672.65,Escalated,1,2026-08
+FCA01345,CUST10176,2026-02-07,Fraud,Suspicious Merchant,67.0,106820.99,Escalated,1,2026-02
+FCA01346,CUST10466,2026-02-26,Fraud,Velocity Spike,87.0,36729.24,Escalated,1,2026-02
+FCA01347,CUST10380,2026-02-28,Sanctions,Name Match,5.0,7593.25,Closed - Explained,0,2026-02
+FCA01348,CUST10388,2026-01-22,Sanctions,Name Match,88.0,22784.25,Escalated,1,2026-01
+FCA01349,CUST10034,2026-01-14,Transaction Monitoring,Rapid Movement,37.0,8902.09,Closed - Explained,0,2026-01
+FCA01350,CUST10624,2026-03-13,Fraud,Account Takeover,75.0,11095.44,Escalated,1,2026-03
+FCA01351,CUST10121,2026-05-17,Fraud,Suspicious Merchant,41.0,18826.79,Closed - Explained,0,2026-05
+FCA01352,CUST10931,2026-08-02,Fraud,Account Takeover,52.0,17647.24,Closed - Explained,0,2026-08
+FCA01353,CUST11012,2026-08-03,KYC/EDD,KYC Refresh,64.0,7888.82,Escalated,1,2026-08
+FCA01354,CUST10984,2026-03-15,KYC/EDD,PEP Exposure,56.0,68075.55,Closed - Explained,0,2026-03
+FCA01355,CUST10029,2026-05-04,Transaction Monitoring,Unusual Volume,90.0,5140.74,Escalated,1,2026-05
+FCA01356,CUST10784,2026-06-27,KYC/EDD,Adverse Media,42.0,16692.82,Closed - Explained,0,2026-06
+FCA01357,CUST10349,2026-09-06,KYC/EDD,Adverse Media,47.0,37868.58,Closed - Explained,0,2026-09
+FCA01358,CUST10309,2026-06-21,Transaction Monitoring,Structuring,81.0,38504.79,Escalated,1,2026-06
+FCA01359,CUST10838,2026-05-20,KYC/EDD,Source of Funds,48.0,19196.74,Closed - Explained,0,2026-05
+FCA01360,CUST10485,2026-04-16,KYC/EDD,PEP Exposure,91.0,57230.07,Escalated,1,2026-04
+FCA01361,CUST10096,2026-03-12,KYC/EDD,Adverse Media,90.0,29796.54,Escalated,1,2026-03
+FCA01362,CUST10486,2026-05-25,Transaction Monitoring,Structuring,60.0,8334.44,Escalated,1,2026-05
+FCA01363,CUST10490,2026-08-24,Sanctions,Name Match,61.0,8336.48,Closed - Explained,0,2026-08
+FCA01364,CUST10093,2026-08-23,Transaction Monitoring,Structuring,73.0,187384.26,Escalated,1,2026-08
+FCA01365,CUST10638,2026-08-01,Fraud,Velocity Spike,30.0,7876.62,Escalated,1,2026-08
+FCA01366,CUST10437,2026-02-19,Transaction Monitoring,Rapid Movement,45.0,27148.14,Closed - Explained,0,2026-02
+FCA01367,CUST10976,2026-08-13,Transaction Monitoring,Unusual Volume,43.0,14297.56,Closed - Explained,0,2026-08
+FCA01368,CUST10927,2026-07-12,Fraud,Suspicious Merchant,50.0,25074.26,Closed - Explained,0,2026-07
+FCA01369,CUST10293,2026-03-12,Transaction Monitoring,Rapid Movement,50.0,385627.11,Closed - Explained,0,2026-03
+FCA01370,CUST10249,2026-03-11,Transaction Monitoring,Unusual Volume,50.0,35564.54,Closed - Explained,0,2026-03
+FCA01371,CUST10299,2026-08-24,Fraud,Velocity Spike,50.0,11282.86,Closed - Explained,0,2026-08
+FCA01372,CUST10651,2026-06-25,Transaction Monitoring,High-Risk Wire,54.0,26709.95,Escalated,1,2026-06
+FCA01373,CUST10420,2026-02-01,Fraud,Suspicious Merchant,80.0,20425.61,Escalated,1,2026-02
+FCA01374,CUST10480,2026-05-28,Fraud,Geo Anomaly,61.0,77501.29,Escalated,1,2026-05
+FCA01375,CUST10143,2026-07-06,Sanctions,Name Match,86.0,58841.52,Escalated,1,2026-07
+FCA01376,CUST10446,2026-09-12,Transaction Monitoring,Rapid Movement,56.0,41816.08,Closed - Explained,0,2026-09
+FCA01377,CUST10735,2026-08-30,Transaction Monitoring,Rapid Movement,47.0,17352.94,Closed - Explained,0,2026-08
+FCA01378,CUST10623,2026-01-28,Fraud,Account Takeover,74.0,122851.79,Closed - Explained,0,2026-01
+FCA01379,CUST10766,2026-08-04,Fraud,Account Takeover,69.0,184275.96,Escalated,1,2026-08
+FCA01380,CUST11028,2026-01-10,Fraud,Account Takeover,64.0,45861.61,Closed - Explained,0,2026-01
+FCA01381,CUST11195,2026-09-04,Transaction Monitoring,Structuring,68.0,37205.4,Escalated,1,2026-09
+FCA01382,CUST10865,2026-05-04,Transaction Monitoring,Structuring,39.0,7060.47,Escalated,1,2026-05
+FCA01383,CUST10418,2026-01-08,KYC/EDD,KYC Refresh,45.0,29230.36,Closed - Explained,0,2026-01
+FCA01384,CUST10031,2026-02-22,Sanctions,Name Match,40.0,4700.72,Closed - Explained,0,2026-02
+FCA01385,CUST10436,2026-01-18,Transaction Monitoring,Structuring,86.0,6762.78,Escalated,1,2026-01
+FCA01386,CUST10131,2026-02-21,Transaction Monitoring,Rapid Movement,78.0,90391.37,Closed - Explained,0,2026-02
+FCA01387,CUST10173,2026-06-07,Transaction Monitoring,Unusual Volume,33.0,21698.01,Closed - Explained,0,2026-06
+FCA01388,CUST10646,2026-09-28,Transaction Monitoring,High-Risk Wire,65.0,17130.66,Escalated,1,2026-09
+FCA01389,CUST10031,2026-01-15,Fraud,Geo Anomaly,21.0,32368.17,Escalated,1,2026-01
+FCA01390,CUST10350,2026-03-22,Sanctions,High-Risk Geography,73.0,11076.74,Escalated,1,2026-03
+FCA01391,CUST10514,2026-08-02,Transaction Monitoring,High-Risk Wire,65.0,63366.82,Escalated,1,2026-08
+FCA01392,CUST10264,2026-04-14,Transaction Monitoring,Rapid Movement,76.0,40196.54,Escalated,1,2026-04
+FCA01393,CUST10656,2026-06-16,Sanctions,High-Risk Geography,63.0,18177.62,Escalated,1,2026-06
+FCA01394,CUST10293,2026-03-08,Transaction Monitoring,Unusual Volume,31.0,76902.3,Closed - Explained,0,2026-03
+FCA01395,CUST10287,2026-04-23,Fraud,Velocity Spike,32.0,48713.62,Closed - Explained,0,2026-04
+FCA01396,CUST10621,2026-04-22,Transaction Monitoring,Structuring,36.0,70198.48,Closed - Explained,0,2026-04
+FCA01397,CUST10542,2026-01-24,Sanctions,High-Risk Geography,84.0,105709.77,Escalated,1,2026-01
+FCA01398,CUST10242,2026-05-15,Transaction Monitoring,Structuring,24.0,17257.56,Closed - Explained,0,2026-05
+FCA01399,CUST10512,2026-08-06,Transaction Monitoring,High-Risk Wire,53.0,12595.91,Closed - Explained,0,2026-08
+FCA01400,CUST10558,2026-03-12,Sanctions,Name Match,62.0,19289.55,Escalated,1,2026-03
+FCA01401,CUST10421,2026-06-11,Fraud,Velocity Spike,65.0,35632.18,Closed - Explained,0,2026-06
+FCA01402,CUST10082,2026-07-12,Fraud,Account Takeover,63.0,27270.83,Escalated,1,2026-07
+FCA01403,CUST10045,2026-08-29,KYC/EDD,Source of Funds,65.0,41591.83,Closed - Explained,0,2026-08
+FCA01404,CUST10124,2026-08-29,Sanctions,Watchlist Exposure,55.0,4673.17,Closed - Explained,0,2026-08
+FCA01405,CUST10136,2026-06-24,KYC/EDD,KYC Refresh,33.0,205522.62,Closed - Explained,0,2026-06
+FCA01406,CUST10030,2026-01-10,Transaction Monitoring,Rapid Movement,70.0,12286.57,Escalated,1,2026-01
+FCA01407,CUST10209,2026-01-23,Transaction Monitoring,Structuring,100.0,7754.49,Escalated,1,2026-01
+FCA01408,CUST10433,2026-05-01,Fraud,Account Takeover,49.0,5278.94,Closed - Explained,0,2026-05
+FCA01409,CUST10460,2026-06-22,Fraud,Velocity Spike,40.0,25474.23,Closed - Explained,0,2026-06
+FCA01410,CUST11177,2026-08-23,Fraud,Geo Anomaly,83.0,27905.76,Escalated,1,2026-08
+FCA01411,CUST10118,2026-08-13,Fraud,Geo Anomaly,61.0,198352.45,Closed - Explained,0,2026-08
+FCA01412,CUST10296,2026-05-31,Transaction Monitoring,High-Risk Wire,59.0,28630.4,Escalated,1,2026-05
+FCA01413,CUST10835,2026-01-08,KYC/EDD,Source of Funds,30.0,6046.79,Closed - Explained,0,2026-01
+FCA01414,CUST10957,2026-08-18,Fraud,Geo Anomaly,100.0,3647.81,Escalated,1,2026-08
+FCA01415,CUST10414,2026-06-25,Fraud,Account Takeover,63.0,57529.29,Escalated,1,2026-06
+FCA01416,CUST10854,2026-02-26,Transaction Monitoring,Structuring,68.0,6178.61,Closed - Explained,0,2026-02
+FCA01417,CUST10807,2026-06-07,Fraud,Suspicious Merchant,73.0,248998.74,Closed - Explained,0,2026-06
+FCA01418,CUST10890,2026-07-12,Transaction Monitoring,Structuring,45.0,156984.66,Closed - Explained,0,2026-07
+FCA01419,CUST10897,2026-07-05,Fraud,Suspicious Merchant,55.0,17402.47,Closed - Explained,0,2026-07
+FCA01420,CUST10425,2026-09-07,Transaction Monitoring,High-Risk Wire,48.0,18210.84,Closed - Explained,0,2026-09
+FCA01421,CUST10862,2026-07-07,Sanctions,Name Match,70.0,63810.28,Escalated,1,2026-07
+FCA01422,CUST10331,2026-01-05,Fraud,Account Takeover,53.0,79171.27,Closed - Explained,0,2026-01
+FCA01423,CUST10251,2026-03-30,Transaction Monitoring,Structuring,49.0,5918.11,Closed - Explained,0,2026-03
+FCA01424,CUST11041,2026-07-12,Fraud,Suspicious Merchant,61.0,153131.1,Closed - Explained,0,2026-07
+FCA01425,CUST10754,2026-09-12,KYC/EDD,Adverse Media,42.0,17389.49,Closed - Explained,0,2026-09
+FCA01426,CUST10855,2026-02-24,Transaction Monitoring,Unusual Volume,31.0,127416.63,Closed - Explained,0,2026-02
+FCA01427,CUST10919,2026-08-15,Transaction Monitoring,High-Risk Wire,60.0,50861.01,Closed - Explained,0,2026-08
+FCA01428,CUST10790,2026-06-26,KYC/EDD,KYC Refresh,34.0,8832.31,Escalated,1,2026-06
+FCA01429,CUST11105,2026-04-22,Transaction Monitoring,Rapid Movement,68.0,42382.46,Escalated,1,2026-04
+FCA01430,CUST10949,2026-04-06,Transaction Monitoring,Unusual Volume,66.0,27791.62,Escalated,1,2026-04
+FCA01431,CUST10507,2026-07-19,Fraud,Geo Anomaly,50.0,14302.28,Closed - Explained,0,2026-07
+FCA01432,CUST11111,2026-02-10,Sanctions,Watchlist Exposure,25.0,14530.29,Closed - Explained,0,2026-02
+FCA01433,CUST11197,2026-05-08,Fraud,Account Takeover,34.0,37844.87,Closed - Explained,0,2026-05
+FCA01434,CUST10163,2026-05-15,KYC/EDD,KYC Refresh,65.0,23560.9,Closed - Explained,0,2026-05
+FCA01435,CUST10853,2026-02-02,Sanctions,Name Match,36.0,114848.91,Closed - Explained,0,2026-02
+FCA01436,CUST10890,2026-04-06,Transaction Monitoring,Structuring,76.0,1030.06,Escalated,1,2026-04
+FCA01437,CUST10667,2026-04-03,Transaction Monitoring,High-Risk Wire,54.0,23809.85,Escalated,1,2026-04
+FCA01438,CUST10083,2026-07-04,Transaction Monitoring,Structuring,76.0,12575.89,Escalated,1,2026-07
+FCA01439,CUST10088,2026-07-04,Transaction Monitoring,High-Risk Wire,54.0,184251.78,Closed - Explained,0,2026-07
+FCA01440,CUST10677,2026-01-03,Fraud,Account Takeover,73.0,40637.5,Escalated,1,2026-01
+FCA01441,CUST10398,2026-03-09,Transaction Monitoring,High-Risk Wire,55.0,105882.29,Escalated,1,2026-03
+FCA01442,CUST10688,2026-01-13,Transaction Monitoring,Structuring,54.0,14718.61,Closed - Explained,0,2026-01
+FCA01443,CUST10216,2026-03-18,Transaction Monitoring,Rapid Movement,60.0,25449.05,Closed - Explained,0,2026-03
+FCA01444,CUST11181,2026-01-13,Transaction Monitoring,Rapid Movement,56.0,7190.79,Closed - Explained,0,2026-01
+FCA01445,CUST11108,2026-09-25,Fraud,Velocity Spike,60.0,10172.36,Closed - Explained,0,2026-09
+FCA01446,CUST10979,2026-08-13,Transaction Monitoring,Rapid Movement,40.0,146303.84,Closed - Explained,0,2026-08
+FCA01447,CUST10893,2026-01-07,Fraud,Suspicious Merchant,42.0,34192.74,Closed - Explained,0,2026-01
+FCA01448,CUST10273,2026-09-10,Fraud,Suspicious Merchant,51.0,62142.88,Closed - Explained,0,2026-09
+FCA01449,CUST11121,2026-03-14,Transaction Monitoring,High-Risk Wire,80.0,228785.7,Closed - Explained,0,2026-03
+FCA01450,CUST11151,2026-06-21,Fraud,Suspicious Merchant,39.0,64593.06,Closed - Explained,0,2026-06
+FCA01451,CUST10879,2026-07-12,KYC/EDD,Adverse Media,71.0,39065.42,Escalated,1,2026-07
+FCA01452,CUST10417,2026-06-12,Sanctions,Name Match,50.0,3271.41,Escalated,1,2026-06
+FCA01453,CUST10350,2026-09-20,Fraud,Geo Anomaly,75.0,16367.96,Escalated,1,2026-09
+FCA01454,CUST10477,2026-04-21,Transaction Monitoring,High-Risk Wire,38.0,12161.41,Escalated,1,2026-04
+FCA01455,CUST10148,2026-08-20,Transaction Monitoring,Rapid Movement,72.0,7702.73,Escalated,1,2026-08
+FCA01456,CUST10622,2026-04-24,Fraud,Account Takeover,66.0,37957.18,Closed - Explained,0,2026-04
+FCA01457,CUST10739,2026-06-28,Sanctions,Name Match,40.0,20138.58,Closed - Explained,0,2026-06
+FCA01458,CUST10383,2026-07-13,Transaction Monitoring,High-Risk Wire,45.0,13520.51,Closed - Explained,0,2026-07
+FCA01459,CUST10110,2026-07-27,KYC/EDD,Adverse Media,83.0,23006.91,Escalated,1,2026-07
+FCA01460,CUST11033,2026-05-15,Transaction Monitoring,Rapid Movement,31.0,38690.03,Closed - Explained,0,2026-05
+FCA01461,CUST10712,2026-02-22,Sanctions,Name Match,70.0,12360.11,Escalated,1,2026-02
+FCA01462,CUST10772,2026-05-16,KYC/EDD,Source of Funds,57.0,113048.0,Closed - Explained,0,2026-05
+FCA01463,CUST10355,2026-08-24,Fraud,Suspicious Merchant,47.0,75371.37,Closed - Explained,0,2026-08
+FCA01464,CUST10068,2026-07-13,Sanctions,Watchlist Exposure,97.0,17028.42,Escalated,1,2026-07
+FCA01465,CUST10811,2026-09-17,Transaction Monitoring,Unusual Volume,40.0,76184.74,Closed - Explained,0,2026-09
+FCA01466,CUST10873,2026-07-30,Transaction Monitoring,Unusual Volume,42.0,91970.92,Closed - Explained,0,2026-07
+FCA01467,CUST10880,2026-04-10,Transaction Monitoring,Unusual Volume,53.0,12404.81,Closed - Explained,0,2026-04
+FCA01468,CUST10610,2026-01-16,Transaction Monitoring,Structuring,44.0,60307.17,Closed - Explained,0,2026-01
+FCA01469,CUST10566,2026-04-30,Fraud,Velocity Spike,74.0,4946.74,Closed - Explained,0,2026-04
+FCA01470,CUST10552,2026-05-03,KYC/EDD,PEP Exposure,100.0,11758.69,Escalated,1,2026-05
+FCA01471,CUST10590,2026-06-06,Transaction Monitoring,Structuring,42.0,23484.86,Closed - Explained,0,2026-06
+FCA01472,CUST10018,2026-03-19,Fraud,Account Takeover,42.0,28193.56,Closed - Explained,0,2026-03
+FCA01473,CUST11040,2026-08-10,Fraud,Account Takeover,49.0,207092.45,Closed - Explained,0,2026-08
+FCA01474,CUST11184,2026-04-17,Transaction Monitoring,Structuring,69.0,219328.35,Escalated,1,2026-04
+FCA01475,CUST10725,2026-09-06,Transaction Monitoring,Rapid Movement,35.0,285854.31,Closed - Explained,0,2026-09
+FCA01476,CUST10508,2026-02-13,Fraud,Suspicious Merchant,82.0,2874.62,Closed - Explained,0,2026-02
+FCA01477,CUST10358,2026-09-17,Transaction Monitoring,Rapid Movement,55.0,65712.7,Closed - Explained,0,2026-09
+FCA01478,CUST11007,2026-05-04,KYC/EDD,Adverse Media,55.0,8048.15,Escalated,1,2026-05
+FCA01479,CUST10847,2026-08-17,Transaction Monitoring,High-Risk Wire,63.0,21096.46,Closed - Explained,0,2026-08
+FCA01480,CUST10048,2026-04-24,Transaction Monitoring,Rapid Movement,84.0,9707.38,Escalated,1,2026-04
+FCA01481,CUST10985,2026-01-21,KYC/EDD,PEP Exposure,70.0,42479.37,Escalated,1,2026-01
+FCA01482,CUST10498,2026-08-03,Fraud,Account Takeover,74.0,5232.98,Closed - Explained,0,2026-08
+FCA01483,CUST10726,2026-08-07,Transaction Monitoring,Unusual Volume,35.0,247545.72,Escalated,1,2026-08
+FCA01484,CUST11007,2026-03-25,Transaction Monitoring,Unusual Volume,93.0,41556.33,Closed - Explained,0,2026-03
+FCA01485,CUST10807,2026-07-25,Transaction Monitoring,Structuring,93.0,12212.8,Closed - Explained,0,2026-07
+FCA01486,CUST10264,2026-05-13,KYC/EDD,Adverse Media,34.0,86735.93,Escalated,1,2026-05
+FCA01487,CUST10783,2026-07-05,Transaction Monitoring,Rapid Movement,53.0,62703.6,Closed - Explained,0,2026-07
+FCA01488,CUST10289,2026-02-25,KYC/EDD,KYC Refresh,100.0,48244.41,Closed - Explained,0,2026-02
+FCA01489,CUST10975,2026-07-06,Transaction Monitoring,Unusual Volume,50.0,8898.85,Closed - Explained,0,2026-07
+FCA01490,CUST10938,2026-09-02,Fraud,Suspicious Merchant,75.0,42385.9,Escalated,1,2026-09
+FCA01491,CUST10031,2026-06-30,Transaction Monitoring,Unusual Volume,67.0,19076.36,Escalated,1,2026-06
+FCA01492,CUST10021,2026-07-14,Transaction Monitoring,High-Risk Wire,54.0,11187.98,Escalated,1,2026-07
+FCA01493,CUST10803,2026-02-03,Transaction Monitoring,Structuring,66.0,17318.42,Escalated,1,2026-02
+FCA01494,CUST10538,2026-07-25,Transaction Monitoring,Rapid Movement,80.0,11331.5,Escalated,1,2026-07
+FCA01495,CUST11147,2026-06-19,Transaction Monitoring,Rapid Movement,46.0,5259.03,Closed - Explained,0,2026-06
+FCA01496,CUST10350,2026-07-18,KYC/EDD,PEP Exposure,100.0,53666.03,Escalated,1,2026-07
+FCA01497,CUST11119,2026-02-23,KYC/EDD,Source of Funds,84.0,20771.58,Escalated,1,2026-02
+FCA01498,CUST10928,2026-06-03,Transaction Monitoring,Structuring,69.0,385529.74,Escalated,1,2026-06
+FCA01499,CUST10747,2026-05-17,Sanctions,Watchlist Exposure,39.0,30814.49,Escalated,1,2026-05
+FCA01500,CUST10039,2026-07-26,Transaction Monitoring,High-Risk Wire,32.0,21639.42,Closed - Explained,0,2026-07
+FCA01501,CUST10918,2026-01-07,Transaction Monitoring,Rapid Movement,57.0,67653.1,Escalated,1,2026-01
+FCA01502,CUST10900,2026-04-08,Transaction Monitoring,Structuring,68.0,35845.24,Closed - Explained,0,2026-04
+FCA01503,CUST10881,2026-02-01,Transaction Monitoring,Rapid Movement,71.0,76106.58,Escalated,1,2026-02
+FCA01504,CUST11002,2026-08-26,KYC/EDD,Adverse Media,89.0,11095.94,Escalated,1,2026-08
+FCA01505,CUST10138,2026-05-09,Sanctions,Watchlist Exposure,78.0,84482.68,Escalated,1,2026-05
+FCA01506,CUST10308,2026-03-15,Fraud,Suspicious Merchant,83.0,31996.11,Escalated,1,2026-03
+FCA01507,CUST10979,2026-04-29,Transaction Monitoring,High-Risk Wire,63.0,104918.85,Escalated,1,2026-04
+FCA01508,CUST10134,2026-05-12,Fraud,Geo Anomaly,29.0,26580.7,Closed - Explained,0,2026-05
+FCA01509,CUST10041,2026-09-09,Transaction Monitoring,Structuring,58.0,10039.22,Closed - Explained,0,2026-09
+FCA01510,CUST11046,2026-07-09,Sanctions,High-Risk Geography,72.0,459309.38,Escalated,1,2026-07
+FCA01511,CUST10460,2026-05-14,Transaction Monitoring,High-Risk Wire,63.0,26522.39,Closed - Explained,0,2026-05
+FCA01512,CUST10950,2026-08-08,Sanctions,Name Match,46.0,10943.75,Closed - Explained,0,2026-08
+FCA01513,CUST10570,2026-07-20,Transaction Monitoring,Rapid Movement,50.0,4261.59,Escalated,1,2026-07
+FCA01514,CUST10058,2026-06-15,Fraud,Velocity Spike,71.0,15731.0,Escalated,1,2026-06
+FCA01515,CUST11104,2026-01-16,Transaction Monitoring,Structuring,78.0,50225.78,Escalated,1,2026-01
+FCA01516,CUST10783,2026-04-30,KYC/EDD,KYC Refresh,75.0,24855.1,Closed - Explained,0,2026-04
+FCA01517,CUST10665,2026-02-21,Sanctions,High-Risk Geography,30.0,14220.26,Escalated,1,2026-02
+FCA01518,CUST10661,2026-09-24,Fraud,Geo Anomaly,79.0,85849.25,Closed - Explained,0,2026-09
+FCA01519,CUST10613,2026-02-22,Fraud,Velocity Spike,35.0,9519.35,Closed - Explained,0,2026-02
+FCA01520,CUST10494,2026-06-23,Fraud,Geo Anomaly,86.0,21089.38,Escalated,1,2026-06
+FCA01521,CUST10929,2026-01-30,Fraud,Geo Anomaly,59.0,1731.2,Closed - Explained,0,2026-01
+FCA01522,CUST10693,2026-04-02,Transaction Monitoring,Structuring,80.0,8417.1,Closed - Explained,0,2026-04
+FCA01523,CUST11154,2026-09-12,Fraud,Suspicious Merchant,93.0,87451.67,Closed - Explained,0,2026-09
+FCA01524,CUST11118,2026-05-07,Transaction Monitoring,Rapid Movement,41.0,13688.82,Closed - Explained,0,2026-05
+FCA01525,CUST10827,2026-09-23,Transaction Monitoring,Unusual Volume,90.0,195335.83,Escalated,1,2026-09
+FCA01526,CUST11177,2026-04-12,Sanctions,High-Risk Geography,92.0,16167.98,Escalated,1,2026-04
+FCA01527,CUST10575,2026-03-17,Fraud,Account Takeover,59.0,5939.99,Escalated,1,2026-03
+FCA01528,CUST10907,2026-01-21,Sanctions,High-Risk Geography,85.0,67488.52,Escalated,1,2026-01
+FCA01529,CUST10225,2026-02-12,KYC/EDD,Source of Funds,28.0,71500.49,Closed - Explained,0,2026-02
+FCA01530,CUST10253,2026-02-25,Transaction Monitoring,Rapid Movement,67.0,14911.17,Escalated,1,2026-02
+FCA01531,CUST10218,2026-07-03,Sanctions,High-Risk Geography,56.0,85582.27,Closed - Explained,0,2026-07
+FCA01532,CUST10070,2026-06-21,Transaction Monitoring,Rapid Movement,68.0,2613.29,Closed - Explained,0,2026-06
+FCA01533,CUST10565,2026-03-15,Transaction Monitoring,Rapid Movement,51.0,31275.43,Closed - Explained,0,2026-03
+FCA01534,CUST10618,2026-05-02,KYC/EDD,Source of Funds,59.0,3068.16,Closed - Explained,0,2026-05
+FCA01535,CUST10648,2026-01-01,Transaction Monitoring,High-Risk Wire,64.0,57987.66,Closed - Explained,0,2026-01
+FCA01536,CUST11071,2026-09-22,Fraud,Velocity Spike,62.0,15223.1,Escalated,1,2026-09
+FCA01537,CUST11088,2026-03-12,Fraud,Velocity Spike,71.0,19755.17,Closed - Explained,0,2026-03
+FCA01538,CUST10737,2026-02-07,Transaction Monitoring,Unusual Volume,36.0,17650.81,Escalated,1,2026-02
+FCA01539,CUST10942,2026-08-13,KYC/EDD,KYC Refresh,19.0,23752.49,Closed - Explained,0,2026-08
+FCA01540,CUST10801,2026-01-08,Transaction Monitoring,Unusual Volume,51.0,5546.11,Closed - Explained,0,2026-01
+FCA01541,CUST10030,2026-03-24,Transaction Monitoring,High-Risk Wire,100.0,7786.88,Escalated,1,2026-03
+FCA01542,CUST10837,2026-07-01,KYC/EDD,Source of Funds,57.0,48866.07,Closed - Explained,0,2026-07
+FCA01543,CUST10741,2026-04-01,Fraud,Account Takeover,20.0,28275.02,Closed - Explained,0,2026-04
+FCA01544,CUST10659,2026-04-21,Transaction Monitoring,Rapid Movement,58.0,140358.23,Closed - Explained,0,2026-04
+FCA01545,CUST10822,2026-06-28,Transaction Monitoring,Unusual Volume,60.0,54861.78,Escalated,1,2026-06
+FCA01546,CUST11097,2026-01-08,Fraud,Velocity Spike,31.0,50632.56,Escalated,1,2026-01
+FCA01547,CUST10529,2026-09-04,Transaction Monitoring,Structuring,88.0,46985.58,Escalated,1,2026-09
+FCA01548,CUST10195,2026-05-07,KYC/EDD,KYC Refresh,88.0,31942.76,Escalated,1,2026-05
+FCA01549,CUST10102,2026-08-03,Transaction Monitoring,Unusual Volume,78.0,51649.84,Closed - Explained,0,2026-08
+FCA01550,CUST11186,2026-02-14,Transaction Monitoring,High-Risk Wire,30.0,39795.65,Closed - Explained,0,2026-02
+FCA01551,CUST10437,2026-06-07,KYC/EDD,KYC Refresh,63.0,26969.7,Closed - Explained,0,2026-06
+FCA01552,CUST10598,2026-09-11,Fraud,Suspicious Merchant,53.0,56177.67,Closed - Explained,0,2026-09
+FCA01553,CUST10657,2026-07-19,Sanctions,Watchlist Exposure,41.0,71924.21,Closed - Explained,0,2026-07
+FCA01554,CUST10759,2026-06-15,Fraud,Suspicious Merchant,88.0,124479.88,Closed - Explained,0,2026-06
+FCA01555,CUST10801,2026-01-02,Sanctions,Watchlist Exposure,57.0,127183.77,Closed - Explained,0,2026-01
+FCA01556,CUST10047,2026-03-25,Fraud,Suspicious Merchant,11.0,3751.17,Escalated,1,2026-03
+FCA01557,CUST10805,2026-08-17,Sanctions,Name Match,44.0,24993.34,Closed - Explained,0,2026-08
+FCA01558,CUST10295,2026-06-25,Fraud,Velocity Spike,46.0,23031.77,Closed - Explained,0,2026-06
+FCA01559,CUST10576,2026-04-14,Transaction Monitoring,High-Risk Wire,37.0,39148.21,Closed - Explained,0,2026-04
+FCA01560,CUST10344,2026-01-29,Transaction Monitoring,Structuring,62.0,19192.65,Closed - Explained,0,2026-01
+FCA01561,CUST10888,2026-01-29,Fraud,Account Takeover,69.0,90284.54,Escalated,1,2026-01
+FCA01562,CUST11166,2026-07-11,Transaction Monitoring,Rapid Movement,53.0,115641.16,Escalated,1,2026-07
+FCA01563,CUST11169,2026-08-09,Transaction Monitoring,Structuring,66.0,40348.77,Closed - Explained,0,2026-08
+FCA01564,CUST10717,2026-09-29,Fraud,Suspicious Merchant,75.0,4859.66,Escalated,1,2026-09
+FCA01565,CUST10799,2026-09-01,Transaction Monitoring,Unusual Volume,65.0,112979.97,Closed - Explained,0,2026-09
+FCA01566,CUST10837,2026-03-07,Transaction Monitoring,High-Risk Wire,41.0,31638.85,Closed - Explained,0,2026-03
+FCA01567,CUST11176,2026-02-08,Fraud,Suspicious Merchant,46.0,64957.99,Closed - Explained,0,2026-02
+FCA01568,CUST10598,2026-09-18,Fraud,Suspicious Merchant,68.0,8932.39,Closed - Explained,0,2026-09
+FCA01569,CUST10933,2026-07-04,Sanctions,High-Risk Geography,52.0,37804.78,Escalated,1,2026-07
+FCA01570,CUST11155,2026-04-26,Transaction Monitoring,Rapid Movement,58.0,11568.84,Closed - Explained,0,2026-04
+FCA01571,CUST10744,2026-09-14,Transaction Monitoring,Unusual Volume,65.0,28199.79,Escalated,1,2026-09
+FCA01572,CUST10542,2026-06-12,Fraud,Suspicious Merchant,58.0,24982.49,Closed - Explained,0,2026-06
+FCA01573,CUST10997,2026-08-16,Transaction Monitoring,Unusual Volume,54.0,8797.14,Closed - Explained,0,2026-08
+FCA01574,CUST10623,2026-02-25,Transaction Monitoring,Unusual Volume,64.0,101539.73,Closed - Explained,0,2026-02
+FCA01575,CUST11025,2026-06-15,Sanctions,Watchlist Exposure,71.0,11134.38,Closed - Explained,0,2026-06
+FCA01576,CUST10677,2026-01-29,Transaction Monitoring,Structuring,69.0,56668.29,Escalated,1,2026-01
+FCA01577,CUST10001,2026-03-21,Transaction Monitoring,High-Risk Wire,42.0,380461.09,Closed - Explained,0,2026-03
+FCA01578,CUST10286,2026-08-20,Transaction Monitoring,High-Risk Wire,76.0,16724.88,Closed - Explained,0,2026-08
+FCA01579,CUST10630,2026-06-09,KYC/EDD,KYC Refresh,5.0,25338.49,Closed - Explained,0,2026-06
+FCA01580,CUST11019,2026-09-01,Transaction Monitoring,Unusual Volume,24.0,2547.11,Closed - Explained,0,2026-09
+FCA01581,CUST10393,2026-07-18,Transaction Monitoring,Unusual Volume,81.0,71629.04,Escalated,1,2026-07
+FCA01582,CUST10944,2026-01-30,Sanctions,Name Match,83.0,87670.83,Escalated,1,2026-01
+FCA01583,CUST10006,2026-02-25,Transaction Monitoring,Structuring,62.0,25359.08,Escalated,1,2026-02
+FCA01584,CUST10133,2026-08-06,KYC/EDD,Adverse Media,63.0,23877.51,Closed - Explained,0,2026-08
+FCA01585,CUST10444,2026-01-07,KYC/EDD,Adverse Media,71.0,32510.07,Escalated,1,2026-01
+FCA01586,CUST10833,2026-08-10,Transaction Monitoring,Structuring,58.0,4098.42,Escalated,1,2026-08
+FCA01587,CUST10119,2026-02-24,Sanctions,High-Risk Geography,63.0,26947.11,Closed - Explained,0,2026-02
+FCA01588,CUST10208,2026-09-13,Fraud,Geo Anomaly,51.0,66951.49,Closed - Explained,0,2026-09
+FCA01589,CUST10636,2026-05-30,KYC/EDD,PEP Exposure,24.0,4348.41,Closed - Explained,0,2026-05
+FCA01590,CUST10654,2026-01-22,Sanctions,High-Risk Geography,43.0,3092.2,Closed - Explained,0,2026-01
+FCA01591,CUST10573,2026-06-28,Transaction Monitoring,Rapid Movement,40.0,35027.45,Closed - Explained,0,2026-06
+FCA01592,CUST11030,2026-07-13,KYC/EDD,Adverse Media,83.0,18475.24,Closed - Explained,0,2026-07
+FCA01593,CUST10936,2026-02-26,Transaction Monitoring,Unusual Volume,24.0,124342.29,Closed - Explained,0,2026-02
+FCA01594,CUST10466,2026-04-12,KYC/EDD,Adverse Media,44.0,36933.83,Closed - Explained,0,2026-04
+FCA01595,CUST10078,2026-07-30,Sanctions,High-Risk Geography,75.0,30156.42,Closed - Explained,0,2026-07
+FCA01596,CUST10298,2026-04-03,KYC/EDD,Adverse Media,48.0,10114.05,Closed - Explained,0,2026-04
+FCA01597,CUST10728,2026-08-13,Transaction Monitoring,Rapid Movement,41.0,39048.45,Escalated,1,2026-08
+FCA01598,CUST10368,2026-08-03,KYC/EDD,Adverse Media,66.0,15140.77,Escalated,1,2026-08
+FCA01599,CUST10101,2026-03-26,KYC/EDD,PEP Exposure,54.0,13109.83,Closed - Explained,0,2026-03
+FCA01600,CUST11123,2026-09-07,Sanctions,Watchlist Exposure,97.0,36517.34,Closed - Explained,0,2026-09
+FCA01601,CUST10240,2026-03-29,Sanctions,Name Match,81.0,56709.65,Escalated,1,2026-03
+FCA01602,CUST10704,2026-09-10,Sanctions,High-Risk Geography,41.0,14923.03,Closed - Explained,0,2026-09
+FCA01603,CUST10142,2026-04-12,KYC/EDD,Adverse Media,54.0,55682.55,Escalated,1,2026-04
+FCA01604,CUST10044,2026-07-21,KYC/EDD,Adverse Media,17.0,7262.6,Closed - Explained,0,2026-07
+FCA01605,CUST10071,2026-02-02,Fraud,Geo Anomaly,72.0,135313.36,Closed - Explained,0,2026-02
+FCA01606,CUST10612,2026-03-18,Transaction Monitoring,Structuring,78.0,128903.74,Escalated,1,2026-03
+FCA01607,CUST10358,2026-01-20,Fraud,Geo Anomaly,46.0,10674.57,Closed - Explained,0,2026-01
+FCA01608,CUST10004,2026-07-14,Transaction Monitoring,Rapid Movement,51.0,19218.9,Escalated,1,2026-07
+FCA01609,CUST10364,2026-09-04,KYC/EDD,PEP Exposure,53.0,19756.67,Closed - Explained,0,2026-09
+FCA01610,CUST10241,2026-08-31,Transaction Monitoring,High-Risk Wire,57.0,50545.95,Closed - Explained,0,2026-08
+FCA01611,CUST10404,2026-06-10,Fraud,Suspicious Merchant,51.0,7764.32,Closed - Explained,0,2026-06
+FCA01612,CUST10202,2026-02-04,KYC/EDD,KYC Refresh,58.0,10290.95,Closed - Explained,0,2026-02
+FCA01613,CUST10318,2026-01-02,Transaction Monitoring,Structuring,54.0,183525.19,Closed - Explained,0,2026-01
+FCA01614,CUST11024,2026-06-07,Transaction Monitoring,High-Risk Wire,67.0,21028.93,Closed - Explained,0,2026-06
+FCA01615,CUST11072,2026-06-25,Transaction Monitoring,Unusual Volume,68.0,37611.94,Closed - Explained,0,2026-06
+FCA01616,CUST10959,2026-02-24,Fraud,Account Takeover,45.0,274628.38,Closed - Explained,0,2026-02
+FCA01617,CUST11198,2026-02-06,KYC/EDD,Adverse Media,17.0,18453.31,Closed - Explained,0,2026-02
+FCA01618,CUST10725,2026-06-28,KYC/EDD,PEP Exposure,40.0,23926.56,Closed - Explained,0,2026-06
+FCA01619,CUST10950,2026-05-23,Sanctions,Name Match,53.0,14449.16,Closed - Explained,0,2026-05
+FCA01620,CUST10660,2026-06-15,Fraud,Geo Anomaly,81.0,320009.78,Escalated,1,2026-06
+FCA01621,CUST10994,2026-07-28,Transaction Monitoring,Structuring,78.0,48146.48,Escalated,1,2026-07
+FCA01622,CUST11142,2026-07-16,Transaction Monitoring,Structuring,78.0,5705.08,Escalated,1,2026-07
+FCA01623,CUST10894,2026-08-21,Sanctions,High-Risk Geography,92.0,8438.34,Closed - Explained,0,2026-08
+FCA01624,CUST10594,2026-04-20,KYC/EDD,KYC Refresh,80.0,46530.5,Escalated,1,2026-04
+FCA01625,CUST10075,2026-01-04,KYC/EDD,PEP Exposure,63.0,13247.92,Escalated,1,2026-01
+FCA01626,CUST10959,2026-09-15,Transaction Monitoring,High-Risk Wire,78.0,11811.59,Closed - Explained,0,2026-09
+FCA01627,CUST10725,2026-03-01,Sanctions,Name Match,79.0,57222.24,Closed - Explained,0,2026-03
+FCA01628,CUST10160,2026-06-19,Transaction Monitoring,Structuring,46.0,165781.7,Closed - Explained,0,2026-06
+FCA01629,CUST10710,2026-04-07,KYC/EDD,Source of Funds,63.0,58803.29,Closed - Explained,0,2026-04
+FCA01630,CUST10495,2026-04-14,Transaction Monitoring,High-Risk Wire,42.0,76264.95,Closed - Explained,0,2026-04
+FCA01631,CUST10010,2026-03-22,Transaction Monitoring,High-Risk Wire,56.0,72219.11,Closed - Explained,0,2026-03
+FCA01632,CUST10432,2026-01-17,Sanctions,Name Match,63.0,22547.21,Escalated,1,2026-01
+FCA01633,CUST10407,2026-01-04,Sanctions,High-Risk Geography,57.0,14999.57,Closed - Explained,0,2026-01
+FCA01634,CUST10689,2026-07-14,Fraud,Geo Anomaly,38.0,77299.64,Closed - Explained,0,2026-07
+FCA01635,CUST10758,2026-06-05,Fraud,Account Takeover,64.0,39573.22,Closed - Explained,0,2026-06
+FCA01636,CUST10502,2026-05-12,Transaction Monitoring,Unusual Volume,46.0,5154.01,Escalated,1,2026-05
+FCA01637,CUST10727,2026-09-01,Transaction Monitoring,Rapid Movement,85.0,96184.73,Escalated,1,2026-09
+FCA01638,CUST11069,2026-07-12,Fraud,Geo Anomaly,84.0,270159.29,Escalated,1,2026-07
+FCA01639,CUST10078,2026-07-01,Fraud,Velocity Spike,51.0,41788.51,Closed - Explained,0,2026-07
+FCA01640,CUST10378,2026-02-25,Transaction Monitoring,Unusual Volume,35.0,18905.6,Closed - Explained,0,2026-02
+FCA01641,CUST11157,2026-04-04,Transaction Monitoring,High-Risk Wire,68.0,54237.83,Closed - Explained,0,2026-04
+FCA01642,CUST10173,2026-04-09,Transaction Monitoring,Unusual Volume,75.0,14853.68,Escalated,1,2026-04
+FCA01643,CUST10839,2026-03-13,Transaction Monitoring,Rapid Movement,56.0,5271.48,Closed - Explained,0,2026-03
+FCA01644,CUST10575,2026-04-18,Fraud,Geo Anomaly,63.0,4061.26,Escalated,1,2026-04
+FCA01645,CUST10645,2026-02-12,Transaction Monitoring,Rapid Movement,60.0,220609.06,Escalated,1,2026-02
+FCA01646,CUST10412,2026-03-25,Transaction Monitoring,Unusual Volume,52.0,13656.54,Closed - Explained,0,2026-03
+FCA01647,CUST11085,2026-07-04,KYC/EDD,PEP Exposure,31.0,16646.16,Closed - Explained,0,2026-07
+FCA01648,CUST10438,2026-08-21,KYC/EDD,PEP Exposure,86.0,58411.55,Closed - Explained,0,2026-08
+FCA01649,CUST11137,2026-07-11,Transaction Monitoring,Structuring,71.0,16427.91,Escalated,1,2026-07
+FCA01650,CUST10588,2026-03-09,Sanctions,High-Risk Geography,100.0,33134.18,Closed - Explained,0,2026-03
+FCA01651,CUST10045,2026-02-19,Fraud,Velocity Spike,35.0,55773.0,Closed - Explained,0,2026-02
+FCA01652,CUST10670,2026-03-12,Fraud,Velocity Spike,43.0,16458.24,Closed - Explained,0,2026-03
+FCA01653,CUST10117,2026-07-09,Fraud,Geo Anomaly,28.0,7193.97,Closed - Explained,0,2026-07
+FCA01654,CUST11044,2026-08-24,Fraud,Account Takeover,67.0,24926.35,Escalated,1,2026-08
+FCA01655,CUST10163,2026-06-27,Transaction Monitoring,Rapid Movement,91.0,8705.67,Closed - Explained,0,2026-06
+FCA01656,CUST10985,2026-07-01,Transaction Monitoring,High-Risk Wire,43.0,31870.07,Closed - Explained,0,2026-07
+FCA01657,CUST10355,2026-02-17,Fraud,Velocity Spike,63.0,14411.58,Escalated,1,2026-02
+FCA01658,CUST11099,2026-05-09,Sanctions,High-Risk Geography,47.0,14695.89,Closed - Explained,0,2026-05
+FCA01659,CUST10546,2026-09-24,Sanctions,Name Match,63.0,96210.38,Escalated,1,2026-09
+FCA01660,CUST10883,2026-01-27,KYC/EDD,Source of Funds,88.0,14203.77,Escalated,1,2026-01
+FCA01661,CUST10732,2026-05-12,Sanctions,Watchlist Exposure,49.0,16464.85,Escalated,1,2026-05
+FCA01662,CUST10644,2026-04-27,Transaction Monitoring,Structuring,81.0,30809.69,Escalated,1,2026-04
+FCA01663,CUST10045,2026-01-12,Fraud,Account Takeover,34.0,9505.47,Closed - Explained,0,2026-01
+FCA01664,CUST10056,2026-04-02,Fraud,Velocity Spike,51.0,15368.42,Escalated,1,2026-04
+FCA01665,CUST10807,2026-05-17,Transaction Monitoring,Rapid Movement,45.0,73336.56,Closed - Explained,0,2026-05
+FCA01666,CUST10600,2026-09-20,Fraud,Velocity Spike,80.0,25837.92,Closed - Explained,0,2026-09
+FCA01667,CUST10219,2026-09-05,Fraud,Account Takeover,71.0,14152.31,Closed - Explained,0,2026-09
+FCA01668,CUST10896,2026-03-09,Fraud,Velocity Spike,38.0,35771.49,Closed - Explained,0,2026-03
+FCA01669,CUST10512,2026-08-22,Sanctions,High-Risk Geography,65.0,5741.62,Closed - Explained,0,2026-08
+FCA01670,CUST10786,2026-08-29,Sanctions,High-Risk Geography,5.0,33539.4,Closed - Explained,0,2026-08
+FCA01671,CUST10039,2026-09-26,KYC/EDD,KYC Refresh,34.0,44862.76,Closed - Explained,0,2026-09
+FCA01672,CUST11106,2026-03-02,Transaction Monitoring,Rapid Movement,55.0,18490.96,Closed - Explained,0,2026-03
+FCA01673,CUST11109,2026-05-01,Fraud,Geo Anomaly,23.0,28085.59,Closed - Explained,0,2026-05
+FCA01674,CUST10047,2026-06-28,KYC/EDD,PEP Exposure,62.0,15580.04,Closed - Explained,0,2026-06
+FCA01675,CUST11107,2026-02-08,Transaction Monitoring,High-Risk Wire,74.0,21625.69,Escalated,1,2026-02
+FCA01676,CUST10449,2026-04-26,Fraud,Geo Anomaly,33.0,45366.72,Closed - Explained,0,2026-04
+FCA01677,CUST11105,2026-05-16,Fraud,Suspicious Merchant,67.0,13036.32,Escalated,1,2026-05
+FCA01678,CUST10286,2026-08-13,Transaction Monitoring,Unusual Volume,69.0,87720.21,Escalated,1,2026-08
+FCA01679,CUST11142,2026-09-08,KYC/EDD,PEP Exposure,84.0,162854.22,Escalated,1,2026-09
+FCA01680,CUST10409,2026-05-31,Transaction Monitoring,Structuring,46.0,9297.3,Closed - Explained,0,2026-05
+FCA01681,CUST10733,2026-08-30,Transaction Monitoring,High-Risk Wire,43.0,23565.16,Closed - Explained,0,2026-08
+FCA01682,CUST10549,2026-03-28,KYC/EDD,Adverse Media,36.0,6916.89,Closed - Explained,0,2026-03
+FCA01683,CUST10787,2026-04-14,Fraud,Velocity Spike,63.0,88241.03,Closed - Explained,0,2026-04
+FCA01684,CUST10285,2026-08-05,Sanctions,High-Risk Geography,58.0,5511.27,Closed - Explained,0,2026-08
+FCA01685,CUST10498,2026-04-11,KYC/EDD,PEP Exposure,44.0,31446.94,Closed - Explained,0,2026-04
+FCA01686,CUST10850,2026-05-31,KYC/EDD,KYC Refresh,55.0,4591.61,Closed - Explained,0,2026-05
+FCA01687,CUST10531,2026-06-20,Transaction Monitoring,Structuring,48.0,28000.14,Closed - Explained,0,2026-06
+FCA01688,CUST10452,2026-05-17,Sanctions,Watchlist Exposure,83.0,207649.48,Escalated,1,2026-05
+FCA01689,CUST10515,2026-03-30,KYC/EDD,Adverse Media,31.0,9566.64,Closed - Explained,0,2026-03
+FCA01690,CUST10316,2026-03-08,Fraud,Account Takeover,57.0,50524.16,Closed - Explained,0,2026-03
+FCA01691,CUST10481,2026-07-10,Sanctions,Watchlist Exposure,57.0,26124.26,Closed - Explained,0,2026-07
+FCA01692,CUST10272,2026-05-18,KYC/EDD,Adverse Media,35.0,12443.69,Closed - Explained,0,2026-05
+FCA01693,CUST10637,2026-06-03,Transaction Monitoring,High-Risk Wire,83.0,43391.17,Closed - Explained,0,2026-06
+FCA01694,CUST10787,2026-06-24,Fraud,Velocity Spike,75.0,25504.45,Escalated,1,2026-06
+FCA01695,CUST10891,2026-03-29,Fraud,Account Takeover,62.0,41067.64,Closed - Explained,0,2026-03
+FCA01696,CUST10603,2026-02-14,Transaction Monitoring,High-Risk Wire,62.0,2564.35,Closed - Explained,0,2026-02
+FCA01697,CUST10191,2026-09-14,Sanctions,High-Risk Geography,64.0,8912.93,Escalated,1,2026-09
+FCA01698,CUST11036,2026-01-13,Transaction Monitoring,Structuring,32.0,109271.27,Closed - Explained,0,2026-01
+FCA01699,CUST10469,2026-09-22,Transaction Monitoring,Unusual Volume,47.0,41000.08,Closed - Explained,0,2026-09
+FCA01700,CUST10471,2026-08-21,Fraud,Suspicious Merchant,42.0,41211.12,Closed - Explained,0,2026-08
+FCA01701,CUST11119,2026-08-15,Fraud,Account Takeover,78.0,337790.76,Escalated,1,2026-08
+FCA01702,CUST10471,2026-06-17,Sanctions,Watchlist Exposure,61.0,50337.06,Escalated,1,2026-06
+FCA01703,CUST10984,2026-01-28,Transaction Monitoring,Unusual Volume,52.0,74273.58,Closed - Explained,0,2026-01
+FCA01704,CUST10002,2026-07-20,Fraud,Suspicious Merchant,51.0,6858.87,Escalated,1,2026-07
+FCA01705,CUST11011,2026-06-28,Fraud,Geo Anomaly,100.0,23082.13,Closed - Explained,0,2026-06
+FCA01706,CUST10681,2026-03-21,Fraud,Geo Anomaly,55.0,57456.52,Escalated,1,2026-03
+FCA01707,CUST11159,2026-04-30,Fraud,Geo Anomaly,62.0,9663.77,Escalated,1,2026-04
+FCA01708,CUST10265,2026-05-09,Transaction Monitoring,Unusual Volume,89.0,25840.8,Escalated,1,2026-05
+FCA01709,CUST10936,2026-04-23,Fraud,Suspicious Merchant,76.0,12259.19,Closed - Explained,0,2026-04
+FCA01710,CUST11160,2026-09-22,Transaction Monitoring,Structuring,63.0,75596.27,Escalated,1,2026-09
+FCA01711,CUST10972,2026-09-08,Sanctions,Name Match,78.0,84027.47,Escalated,1,2026-09
+FCA01712,CUST10606,2026-08-13,Fraud,Velocity Spike,52.0,6450.04,Closed - Explained,0,2026-08
+FCA01713,CUST10702,2026-06-12,Sanctions,Name Match,98.0,32859.18,Escalated,1,2026-06
+FCA01714,CUST10750,2026-07-15,KYC/EDD,PEP Exposure,41.0,86647.68,Escalated,1,2026-07
+FCA01715,CUST10961,2026-08-09,KYC/EDD,Source of Funds,65.0,14155.57,Escalated,1,2026-08
+FCA01716,CUST10017,2026-03-03,Transaction Monitoring,Structuring,64.0,10031.8,Escalated,1,2026-03
+FCA01717,CUST10749,2026-03-10,Transaction Monitoring,Unusual Volume,35.0,12772.99,Closed - Explained,0,2026-03
+FCA01718,CUST10643,2026-09-10,Sanctions,Name Match,69.0,104003.68,Escalated,1,2026-09
+FCA01719,CUST10090,2026-08-09,Transaction Monitoring,Unusual Volume,54.0,12801.1,Closed - Explained,0,2026-08
+FCA01720,CUST11053,2026-08-31,Transaction Monitoring,High-Risk Wire,83.0,13152.45,Escalated,1,2026-08
+FCA01721,CUST10252,2026-05-12,Transaction Monitoring,High-Risk Wire,95.0,22894.25,Escalated,1,2026-05
+FCA01722,CUST10228,2026-01-08,Sanctions,Name Match,47.0,307728.7,Closed - Explained,0,2026-01
+FCA01723,CUST11186,2026-05-27,Sanctions,High-Risk Geography,79.0,41412.49,Escalated,1,2026-05
+FCA01724,CUST10018,2026-09-20,Fraud,Velocity Spike,53.0,17402.73,Closed - Explained,0,2026-09
+FCA01725,CUST11083,2026-01-19,KYC/EDD,PEP Exposure,10.0,145298.94,Closed - Explained,0,2026-01
+FCA01726,CUST10182,2026-06-29,Sanctions,Name Match,83.0,96823.8,Escalated,1,2026-06
+FCA01727,CUST10674,2026-06-26,Transaction Monitoring,High-Risk Wire,95.0,11264.22,Escalated,1,2026-06
+FCA01728,CUST11129,2026-02-02,Transaction Monitoring,Structuring,69.0,18865.61,Escalated,1,2026-02
+FCA01729,CUST10825,2026-08-16,Fraud,Geo Anomaly,62.0,40257.94,Closed - Explained,0,2026-08
+FCA01730,CUST10380,2026-03-29,Fraud,Suspicious Merchant,93.0,20901.23,Escalated,1,2026-03
+FCA01731,CUST11148,2026-01-09,Sanctions,High-Risk Geography,66.0,53247.31,Escalated,1,2026-01
+FCA01732,CUST10545,2026-05-14,Fraud,Suspicious Merchant,63.0,41381.37,Escalated,1,2026-05
+FCA01733,CUST10614,2026-03-25,Fraud,Geo Anomaly,66.0,46501.05,Escalated,1,2026-03
+FCA01734,CUST11070,2026-04-14,Transaction Monitoring,Rapid Movement,63.0,5490.17,Closed - Explained,0,2026-04
+FCA01735,CUST10695,2026-06-18,KYC/EDD,Source of Funds,65.0,12895.04,Escalated,1,2026-06
+FCA01736,CUST10346,2026-06-05,Transaction Monitoring,High-Risk Wire,40.0,75942.65,Closed - Explained,0,2026-06
+FCA01737,CUST10304,2026-02-06,KYC/EDD,Adverse Media,70.0,34684.67,Closed - Explained,0,2026-02
+FCA01738,CUST10183,2026-05-31,Transaction Monitoring,Unusual Volume,56.0,59524.84,Closed - Explained,0,2026-05
+FCA01739,CUST10601,2026-02-14,Transaction Monitoring,Structuring,55.0,25940.26,Closed - Explained,0,2026-02
+FCA01740,CUST10807,2026-06-08,KYC/EDD,Adverse Media,67.0,18542.21,Closed - Explained,0,2026-06
+FCA01741,CUST11022,2026-03-30,KYC/EDD,PEP Exposure,42.0,663233.71,Closed - Explained,0,2026-03
+FCA01742,CUST10370,2026-01-11,Fraud,Suspicious Merchant,49.0,13237.91,Closed - Explained,0,2026-01
+FCA01743,CUST11191,2026-06-08,Transaction Monitoring,Unusual Volume,61.0,45538.12,Escalated,1,2026-06
+FCA01744,CUST10183,2026-03-18,Fraud,Account Takeover,80.0,21435.05,Closed - Explained,0,2026-03
+FCA01745,CUST10252,2026-07-02,KYC/EDD,Adverse Media,56.0,8479.3,Escalated,1,2026-07
+FCA01746,CUST10170,2026-03-25,Fraud,Geo Anomaly,82.0,8224.86,Escalated,1,2026-03
+FCA01747,CUST10670,2026-09-21,Fraud,Suspicious Merchant,35.0,11281.77,Closed - Explained,0,2026-09
+FCA01748,CUST10317,2026-08-24,Fraud,Account Takeover,55.0,8195.78,Closed - Explained,0,2026-08
+FCA01749,CUST10398,2026-06-28,Fraud,Account Takeover,51.0,46624.51,Closed - Explained,0,2026-06
+FCA01750,CUST10595,2026-05-11,Transaction Monitoring,Unusual Volume,57.0,5504.07,Closed - Explained,0,2026-05
+FCA01751,CUST10700,2026-08-10,Sanctions,High-Risk Geography,82.0,174830.45,Closed - Explained,0,2026-08
+FCA01752,CUST10156,2026-04-04,Transaction Monitoring,Structuring,54.0,29855.43,Escalated,1,2026-04
+FCA01753,CUST10187,2026-01-11,KYC/EDD,PEP Exposure,67.0,19398.8,Closed - Explained,0,2026-01
+FCA01754,CUST10319,2026-07-25,Transaction Monitoring,Structuring,75.0,9833.17,Escalated,1,2026-07
+FCA01755,CUST10933,2026-04-16,Sanctions,High-Risk Geography,27.0,18665.14,Closed - Explained,0,2026-04
+FCA01756,CUST11018,2026-05-16,Fraud,Account Takeover,52.0,37638.91,Closed - Explained,0,2026-05
+FCA01757,CUST10793,2026-03-28,Sanctions,High-Risk Geography,81.0,62959.39,Escalated,1,2026-03
+FCA01758,CUST10349,2026-09-16,Fraud,Geo Anomaly,24.0,19109.94,Closed - Explained,0,2026-09
+FCA01759,CUST10165,2026-07-21,Fraud,Suspicious Merchant,64.0,8641.05,Escalated,1,2026-07
+FCA01760,CUST10280,2026-05-27,Fraud,Suspicious Merchant,38.0,22796.35,Closed - Explained,0,2026-05
+FCA01761,CUST10910,2026-01-12,Transaction Monitoring,Structuring,68.0,112836.84,Closed - Explained,0,2026-01
+FCA01762,CUST10776,2026-07-29,Fraud,Suspicious Merchant,31.0,8472.09,Closed - Explained,0,2026-07
+FCA01763,CUST10162,2026-05-12,Transaction Monitoring,Rapid Movement,45.0,35102.55,Closed - Explained,0,2026-05
+FCA01764,CUST11195,2026-09-16,KYC/EDD,KYC Refresh,58.0,4945.39,Closed - Explained,0,2026-09
+FCA01765,CUST10297,2026-06-19,Fraud,Suspicious Merchant,42.0,47861.33,Closed - Explained,0,2026-06
+FCA01766,CUST11162,2026-08-05,Transaction Monitoring,Rapid Movement,95.0,91107.01,Closed - Explained,0,2026-08
+FCA01767,CUST10527,2026-02-17,Transaction Monitoring,Structuring,24.0,56182.68,Closed - Explained,0,2026-02
+FCA01768,CUST10815,2026-05-02,Transaction Monitoring,Unusual Volume,47.0,25699.91,Closed - Explained,0,2026-05
+FCA01769,CUST11184,2026-07-21,Transaction Monitoring,Unusual Volume,39.0,24158.53,Escalated,1,2026-07
+FCA01770,CUST10887,2026-07-23,Fraud,Velocity Spike,41.0,118607.08,Closed - Explained,0,2026-07
+FCA01771,CUST10941,2026-04-18,Fraud,Account Takeover,54.0,43053.23,Closed - Explained,0,2026-04
+FCA01772,CUST10637,2026-07-02,Fraud,Suspicious Merchant,79.0,56622.81,Escalated,1,2026-07
+FCA01773,CUST10374,2026-05-27,Fraud,Suspicious Merchant,57.0,13760.86,Closed - Explained,0,2026-05
+FCA01774,CUST10882,2026-02-06,Sanctions,High-Risk Geography,58.0,64874.63,Closed - Explained,0,2026-02
+FCA01775,CUST10414,2026-03-13,Fraud,Account Takeover,58.0,9260.86,Escalated,1,2026-03
+FCA01776,CUST10426,2026-08-26,KYC/EDD,KYC Refresh,18.0,28640.26,Closed - Explained,0,2026-08
+FCA01777,CUST11070,2026-04-27,Transaction Monitoring,High-Risk Wire,35.0,90130.84,Closed - Explained,0,2026-04
+FCA01778,CUST10181,2026-06-23,Fraud,Geo Anomaly,65.0,24625.43,Closed - Explained,0,2026-06
+FCA01779,CUST10677,2026-04-29,Transaction Monitoring,Unusual Volume,46.0,45779.32,Closed - Explained,0,2026-04
+FCA01780,CUST10154,2026-03-15,Transaction Monitoring,Rapid Movement,6.0,10135.43,Closed - Explained,0,2026-03
+FCA01781,CUST10970,2026-09-24,Transaction Monitoring,Structuring,59.0,57833.98,Closed - Explained,0,2026-09
+FCA01782,CUST10509,2026-03-10,Fraud,Velocity Spike,35.0,7249.12,Closed - Explained,0,2026-03
+FCA01783,CUST10973,2026-03-30,Fraud,Velocity Spike,73.0,17440.33,Escalated,1,2026-03
+FCA01784,CUST10768,2026-03-07,Fraud,Velocity Spike,47.0,196250.91,Closed - Explained,0,2026-03
+FCA01785,CUST10713,2026-01-06,Transaction Monitoring,Structuring,46.0,20554.64,Closed - Explained,0,2026-01
+FCA01786,CUST10999,2026-03-28,Fraud,Geo Anomaly,62.0,6493.46,Closed - Explained,0,2026-03
+FCA01787,CUST10341,2026-04-13,Transaction Monitoring,Unusual Volume,75.0,96507.26,Closed - Explained,0,2026-04
+FCA01788,CUST10538,2026-01-07,Fraud,Velocity Spike,9.0,9507.8,Closed - Explained,0,2026-01
+FCA01789,CUST11141,2026-02-04,Transaction Monitoring,Structuring,81.0,21785.93,Escalated,1,2026-02
+FCA01790,CUST10805,2026-08-07,Transaction Monitoring,Structuring,62.0,48624.73,Escalated,1,2026-08
+FCA01791,CUST10765,2026-03-30,KYC/EDD,Adverse Media,61.0,9903.26,Escalated,1,2026-03
+FCA01792,CUST10963,2026-06-26,Transaction Monitoring,High-Risk Wire,26.0,33636.89,Escalated,1,2026-06
+FCA01793,CUST10003,2026-02-12,Transaction Monitoring,Unusual Volume,73.0,12103.16,Closed - Explained,0,2026-02
+FCA01794,CUST10178,2026-08-28,Transaction Monitoring,Rapid Movement,55.0,4221.34,Escalated,1,2026-08
+FCA01795,CUST10996,2026-09-16,KYC/EDD,Adverse Media,22.0,64195.81,Closed - Explained,0,2026-09
+FCA01796,CUST10686,2026-07-11,Fraud,Suspicious Merchant,32.0,17199.54,Closed - Explained,0,2026-07
+FCA01797,CUST10149,2026-08-24,Transaction Monitoring,High-Risk Wire,64.0,10710.62,Escalated,1,2026-08
+FCA01798,CUST10554,2026-06-16,KYC/EDD,KYC Refresh,87.0,60642.14,Escalated,1,2026-06
+FCA01799,CUST10238,2026-06-01,KYC/EDD,Adverse Media,86.0,10200.4,Escalated,1,2026-06
+FCA01800,CUST10698,2026-04-26,Transaction Monitoring,Unusual Volume,64.0,70907.14,Closed - Explained,0,2026-04

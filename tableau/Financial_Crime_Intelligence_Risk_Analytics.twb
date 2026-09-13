@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<workbook version='18.1'>
+  <datasources>
+    <datasource caption='Customer Intelligence' inline='true' name='customers'>
+      <connection class='textscan' directory='../data/processed' filename='customer_financial_crime_intelligence.csv' separator=',' />
+    </datasource>
+    <datasource caption='Financial Crime Alerts' inline='true' name='alerts'>
+      <connection class='textscan' directory='../data/processed' filename='financial_crime_alerts_enriched.csv' separator=',' />
+    </datasource>
+    <datasource caption='Cases' inline='true' name='cases'>
+      <connection class='textscan' directory='../data/processed' filename='cases.csv' separator=',' />
+    </datasource>
+    <datasource caption='Product Exposure' inline='true' name='products'>
+      <connection class='textscan' directory='../data/processed' filename='product_exposure_summary.csv' separator=',' />
+    </datasource>
+    <datasource caption='Regional Risk' inline='true' name='regions'>
+      <connection class='textscan' directory='../data/processed' filename='regional_risk_summary.csv' separator=',' />
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Executive Overview'/>
+    <worksheet name='Risk Trends'/>
+    <worksheet name='Customer Risk Segmentation'/>
+    <worksheet name='Regional Risk'/>
+    <worksheet name='Product Exposure'/>
+    <worksheet name='Investigation Funnel'/>
+    <worksheet name='Repeat Alert Intelligence'/>
+    <worksheet name='Findings and Actions'/>
+  </worksheets>
+  <dashboards>
+    <dashboard name='01 Executive Overview'/>
+    <dashboard name='02 Risk Trends'/>
+    <dashboard name='03 Customer Risk Segmentation'/>
+    <dashboard name='04 Regional Risk'/>
+    <dashboard name='05 Product Exposure'/>
+    <dashboard name='06 Investigation Funnel'/>
+    <dashboard name='07 Repeat Alert Intelligence'/>
+    <dashboard name='08 Findings and Actions'/>
+  </dashboards>
+</workbook>
