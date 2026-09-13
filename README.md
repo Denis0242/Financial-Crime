@@ -80,40 +80,9 @@ The visuals below come directly from the approved executive dashboard and summar
 
 **What it represents:** Shows how alerts move from initial detection through review, escalation, investigation, and SAR filing.
 
-## Resume Bullets
-**Financial Crime Intelligence & Risk Analytics | SQL, Python, Tableau, Streamlit**
-- Integrated synthetic AML, fraud, sanctions, KYC/EDD, customer, transaction and case data to identify repeat-alert customers, multi-risk exposure, high-risk geographic activity and investigation priorities across 1,200 customers.
-- Developed SQL and Python analytics for cross-domain risk indicators, customer prioritization and common-counterparty analysis, then built Tableau and Streamlit reporting for financial-crime trends, risk concentration and escalation monitoring.
-
-## Interview Explanation
-“I built this project to move beyond analyzing one type of financial-crime alert at a time. I combined customer, transaction, AML, fraud, sanctions and KYC/EDD risk signals to identify repeat-alert and multi-risk customers. I used SQL for investigation and aggregation, Python for feature engineering and an explainable customer-risk score, Tableau for portfolio-level reporting, and Streamlit for customer-level review. I kept the project at the analyst level rather than claiming production fraud models or automated compliance decisioning.”
 
 ## Disclaimer
 All customers, transactions, alerts and cases are synthetic and created for educational portfolio use only.
-
-
-## Preferred Dashboard Chart Types
-The Project 7 executive dashboard uses exactly six chart types:
-1. Trend lines
-2. Bar chart
-3. Donut chart
-4. Geographic exposure map
-5. Heatmap
-6. Funnel chart
-
-All analytical marks use blue and orange on a white background.
-
-
-## Final Approved Dashboard
-The final executive dashboard uses the approved blue-and-orange design with six visuals:
-1. Financial Crime Activity Trend
-2. Alerts by Risk Category
-3. Alerts by Region
-4. Customer Risk Activity Heatmap
-5. Investigation Funnel
-6. Crime Exposure by Product Type
-
-The map replaces the earlier geographic exposure chart, the funnel uses a true descending funnel design, and the product exposure view uses stacked bars.
 
 
 # Tableau Story Expansion
@@ -129,11 +98,5 @@ Project 7 now includes an **8-point Tableau Story** in addition to the executive
 7. Repeat-Alert & Counterparty Intelligence
 8. Key Findings & Recommended Actions
 
-Visual references are stored under `images/story/`, and the build instructions are in `tableau/TABLEAU_STORY_BUILD_GUIDE.md`.
-
-Additional processed data tables support the story:
-- `product_exposure_summary.csv`
-- `regional_risk_summary.csv`
-- updated `cases.csv` with investigation outcomes
 
 The story is designed to show how a Financial Crime Analyst moves from broad portfolio signals to investigation priorities and actionable recommendations.
