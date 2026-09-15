@@ -819,14 +819,10 @@ with tabs[2]:
 with tabs[3]:
     st.subheader("Tableau Gallery")
     st.caption(
-        "The gallery intentionally shows only the primary executive dashboard."
+        "Final Executive Dashboard synchronized with the current processed datasets and verified KPI results."
     )
 
-    dashboard = first_existing_image(
-        "images/01_executive_dashboard.png",
-        "images/02_executive_dashboard.png",
-        "images/story/01_executive_dashboard.png"
-    )
+    dashboard = first_existing_image("images/02_executive_dashboard.png")
 
     if dashboard:
         st.image(
@@ -836,7 +832,7 @@ with tabs[3]:
         )
     else:
         st.warning(
-            "Executive dashboard image not found. Add `01_executive_dashboard.png` to the images folder."
+            "Executive dashboard image not found. Add `02_executive_dashboard.png` to the images folder."
         )
 
 # ---------------------------------------------------------
@@ -845,8 +841,7 @@ with tabs[3]:
 with tabs[4]:
     st.subheader("Story Walkthrough")
     st.caption(
-        "Hybrid analyst story: filtered Streamlit analysis plus selected Tableau visuals. "
-        "The static Tableau screenshots provide presentation quality; the Streamlit analysis responds to the sidebar filters."
+        "Interactive analyst story driven by the same sidebar filters as the rest of the application."
     )
 
     # =====================================================
@@ -866,16 +861,6 @@ with tabs[4]:
     st.info(
         f"Analyst takeaway: The current filter selection is assessed as **{status}**."
     )
-
-    dashboard = first_existing_image(
-        "images/01_executive_dashboard.png",
-        "images/02_executive_dashboard.png"
-    )
-
-    if dashboard:
-        with st.expander("View Executive Tableau Dashboard", expanded=False):
-            st.image(str(dashboard), use_container_width=True)
-
     st.divider()
 
     # =====================================================
@@ -980,14 +965,6 @@ with tabs[4]:
             )
     else:
         st.info("No regional field is available for interactive geographic analysis.")
-
-    render_story_image(
-        "Tableau Story — Geographic / Regional Risk",
-        "Static Tableau view for presentation context.",
-        "images/story/04_regional_risk.png",
-        "images/04_regional_risk.png"
-    )
-
     st.divider()
 
     # =====================================================
@@ -1049,14 +1026,6 @@ with tabs[4]:
             )
     else:
         st.info("No product field is available for interactive product analysis.")
-
-    render_story_image(
-        "Tableau Story — Product & Channel Exposure",
-        "Static Tableau view for presentation context.",
-        "images/story/05_product_exposure.png",
-        "images/05_product_exposure.png"
-    )
-
     st.divider()
 
     # =====================================================
@@ -1170,14 +1139,6 @@ with tabs[4]:
         st.info(
             f"Analyst takeaway: **{repeat_alerts:,}** customer(s) in the current filtered population have repeat-alert activity."
         )
-
-    render_story_image(
-        "Tableau Story — Repeat-Alert & Counterparty Intelligence",
-        "Static Tableau view highlighting recurring customer and network risk.",
-        "images/story/07_repeat_alert_network.png",
-        "images/07_repeat_alert_network.png"
-    )
-
     st.divider()
 
     # =====================================================
