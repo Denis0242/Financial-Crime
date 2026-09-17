@@ -1,6 +1,6 @@
 # Financial Crime Intelligence & Risk Analytics
 
-**Financial Crime Analytics Portfolio Project**
+### Financial Crime Analytics Portfolio Project
 
 An end-to-end financial-crime intelligence project using **Python, SQL,
 Tableau, and Streamlit** to combine AML, fraud, sanctions,
