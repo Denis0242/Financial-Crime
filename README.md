@@ -56,37 +56,24 @@ This project answers questions such as:
     regional signals be combined into an investigation queue?
 
 ------------------------------------------------------------------------
+## Data Model Overview
 
-## Data Model
+The project uses an interconnected financial-crime data model spanning customers, transactions, alerts, investigations, counterparties, products, and geographic risk.
 
-  --------------------------------------------------------------------------
-  Dataset                                       Rows Purpose
-  --------------------- ---------------------------- -----------------------
-  Customer reference                           1,200 Customer profile and
-                                                     KYC-risk context
+| Dataset | Rows | Purpose |
+|---|---:|---|
+| **Customer Reference** | **1,200** | Customer profiles and KYC-risk context |
+| **Transactions** | **30,000** | Customer and counterparty transaction activity |
+| **Financial Crime Alerts** | **1,800** | Alert-level risk indicators and investigation signals |
+| **Investigation Cases** | **420** | Case-level financial-crime investigations and outcomes |
+| **Counterparty Network Summary** | **6,440** | Counterparty relationships and concentration analysis |
+| **Customer Financial Crime Intelligence** | **1,200** | Analytics-ready customer financial-crime risk layer |
+| **Product Exposure Summary** | **6** | Product and transaction-channel risk exposure |
+| **Regional Risk Summary** | **10** | Geographic risk concentration and regional exposure |
 
-  Transactions                                30,000 Customer/counterparty
-                                                     transaction activity
+> **Data model scope:** The datasets support end-to-end analysis from customer and transaction activity through alert generation, case investigation, counterparty-network analysis, and portfolio-level financial-crime intelligence.
 
-  Financial-crime                              1,800 Alert-level risk and
-  alerts                                             investigation signals
-
-  Investigation cases                            420 Case-level
-                                                     financial-crime review
-
-  Counterparty network                         6,440 Relationship and
-  summary                                            concentration analysis
-
-  Customer                                     1,200 Analytics-ready
-  financial-crime                                    customer risk layer
-  intelligence                                       
-
-  Product exposure                                 6 Product/channel
-  summary                                            exposure
-
-  Regional risk summary                           10 Geographic risk
-                                                     concentration
-  --------------------------------------------------------------------------
+---
 
 See [`docs/data_dictionary.md`](docs/data_dictionary.md) for the
 field-level definitions and dataset relationships.
@@ -169,22 +156,24 @@ See [`sql/`](sql/) for the complete queries.
 
 ## Verified Portfolio KPIs
 
-The following results were recalculated from the current processed CSVs:
+The following KPIs were recalculated from the current processed datasets to validate the portfolio's financial-crime risk, alert, investigation, and exposure metrics.
 
-  KPI                                  Current Result
-  ---------------------------------- ----------------
-  Total Customers                           **1,200**
-  Financial Crime Alerts                    **1,800**
-  Investigation Cases                         **420**
-  Alert-Level Escalations                     **648**
-  High/Critical Customers                     **159**
-  Repeat-Alert Customers                      **230**
-  Multi-Risk Customers                        **420**
-  Total Alerted Amount                    **\$82.0M**
-  Product-Level High-Risk Exposure       **\$210.2M**
-  Network Review Candidates                 **2,457**
+| KPI | Current Result |
+|---|---:|
+| Total Customers | **1,200** |
+| Financial Crime Alerts | **1,800** |
+| Investigation Cases | **420** |
+| Alert-Level Escalations | **648** |
+| High / Critical Customers | **159** |
+| Repeat-Alert Customers | **230** |
+| Multi-Risk Customers | **420** |
+| Total Alerted Amount | **$82.0M** |
+| Product-Level High-Risk Exposure | **$210.2M** |
+| Network Review Candidates | **2,457** |
 
-------------------------------------------------------------------------
+> **Portfolio insight:** The KPI profile highlights financial-crime exposure across customer risk, repeat-alert activity, multi-risk behavior, investigations, product exposure, and counterparty-network review candidates.
+
+---
 
 ## Key Findings
 
@@ -319,34 +308,21 @@ Counterparty / Product / Regional Analysis
 Risk & Investigation Prioritization
        ↓
 Tableau + Streamlit Decision Support
-```
 
-------------------------------------------------------------------------
+```
 
 ## Tools & Technologies
 
-  -----------------------------------------------------------------------
-  Tool                                Application
-  ----------------------------------- -----------------------------------
-  **Python / Pandas**                 EDA, feature engineering,
-                                      validation and intelligence
-                                      analysis
+| Technology | Application in This Project |
+|---|---|
+| **Python / Pandas** | EDA, data validation, feature engineering, and financial-crime intelligence analysis |
+| **SQL** | Risk-queue analysis, alert trends, exposure analysis, counterparty analysis, and investigation support |
+| **Tableau** | Executive financial-crime dashboard, KPI monitoring, and risk visualization |
+| **Streamlit** | Interactive investigation workflow, portfolio filtering, and decision support |
+| **Jupyter Notebook** | Reproducible EDA, feature-engineering, validation, and analytical workflow |
+| **Git / GitHub** | Version control, project documentation, and portfolio presentation |
 
-  **SQL**                             Risk queues, trends, exposure,
-                                      counterparties and alert analysis
-
-  **Tableau**                         Executive financial-crime dashboard
-
-  **Streamlit**                       Interactive investigation and
-                                      portfolio decision support
-
-  **Jupyter Notebook**                Reproducible analytical workflow
-
-  **Git / GitHub**                    Version control and portfolio
-                                      presentation
-  -----------------------------------------------------------------------
-
-------------------------------------------------------------------------
+---
 
 ## Repository Structure
 
